@@ -58,12 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d5a424a1b456627b20b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 27 |
-| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d7a8b221b890c27807157?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | Hybrid | Dec 27 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69350e97a0dde7020e2f73f7?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
+| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d7a8b221b890c27807157?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d6f12221b890c27806ad7?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
 | **[Kx Advisors](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0cb9bb47fb001d689578a?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 27 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69336403764507023d1b52b0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
-| **[Kx Advisors](https://kxadvisors.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/68b9fbe96105227d11899ef1?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | Hybrid | Dec 27 |
+| ↳ | **[Associate Consultant](https://jobright.ai/jobs/info/68b9fbe96105227d11899ef1?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | Hybrid | Dec 27 |
 | **[Crete Professionals Alliance](https://cretepa.com/)** | **[Reports & Proposals Specialist](https://jobright.ai/jobs/info/6933a4aaa0dde7020e2f00e0?utm_campaign=Consultant&utm_source=1103)** | Honolulu, HI | On Site | Dec 27 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f947b06de2db04dc3e7b47?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Dec 27 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - Woodbridge, NJ](https://jobright.ai/jobs/info/6917273e3ea85638ae1c86ec?utm_campaign=Consultant&utm_source=1103)** | Woodbridge, NJ | On Site | Dec 27 |
@@ -204,9 +204,9 @@ For a complete list, click the following sortable link below:
 | **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/694a0a8d63141d188459a636?utm_campaign=Consultant&utm_source=1103)** | Durham, NC | Hybrid | Dec 22 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949ea6a7d506e3808f4fd48?utm_campaign=Consultant&utm_source=1103)** | Lincoln, NE | On Site | Dec 22 |
 | ↳ | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/6949e914d1953b5d11c2d815?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Dec 22 |
-| **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/694a00e7c6f0e2546ceee1b2?utm_campaign=Consultant&utm_source=1103)** | 512 S Mangum St #404, Durham, 27701, US | Hybrid | Dec 22 |
-| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
+| **[Triangle Insights Group by Valeris](https://triangleinsightsgroup.com/)** | **[Strategy Consultant](https://jobright.ai/jobs/info/6949fe5c7d506e3808f5135c?utm_campaign=Consultant&utm_source=1103)** | 505 Montgomery St 11th floor, San Francisco, 94111, US | Hybrid | Dec 22 |
 | ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/694a129a63141d188459bc82?utm_campaign=Consultant&utm_source=1103)** | 27 E 28th St ste 15 036, New York, 10016, US | Hybrid | Dec 22 |
+| ↳ | **[Strategy Consultant](https://jobright.ai/jobs/info/694a00e7c6f0e2546ceee1b2?utm_campaign=Consultant&utm_source=1103)** | 512 S Mangum St #404, Durham, 27701, US | Hybrid | Dec 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6949decb7d506e3808f4fb9e?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Dec 22 |
 | **[Care.com](http://www.care.com)** | **[Business Consultant](https://jobright.ai/jobs/info/6949d9cf63141d1884596db0?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Dec 22 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Utility Advisory Consultant (all levels)](https://jobright.ai/jobs/info/694a0b1b7d506e3808f534fa?utm_campaign=Consultant&utm_source=1103)** | Denver, NC | Hybrid | Dec 22 |
