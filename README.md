@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/6952c0d75bb7de448ef5dac8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 29 |
+| **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6952aefd5bb7de448ef5c934?utm_campaign=Consultant&utm_source=1103)** | Bethesda, Maryland, United States | On Site | Dec 29 |
 | **[Kansas Department For Children and Families](http://www.dcf.ks.gov)** | **[Technology Support Consultant II](https://jobright.ai/jobs/info/69529eba935649778e205fe6?utm_campaign=Consultant&utm_source=1103)** | Topeka, KS | On Site | Dec 29 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Functional Consultant, Technology & Transformation - Future of Service (CCaaS)](https://jobright.ai/jobs/info/6928af26f0beb07232631099?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | **[Lennar](http://lennar.com)** | **[New Home Consultant](https://jobright.ai/jobs/info/693a6d55ac80bb5492bcf46c?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Dec 29 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (French Fluency)](https://jobright.ai/jobs/info/6951ddada2668b7f5454744b?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Dec 28 |
 | ↳ | **[Software Implementation Consultant](https://jobright.ai/jobs/info/6951d792a2668b7f545470fd?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 28 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/695177f1ce13cd10565920ab?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 28 |
-| ↳ | **[Remote Consulting Specialist - Entry Level](https://jobright.ai/jobs/info/69517195ce13cd1056592068?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 28 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6951681529655e4dd65a6c9b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 28 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/695164e5a2668b7f545427d8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 28 |
 | **[Coretelligent](http://coretelligent.com)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/6944691150bbaf765056668e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 28 |
@@ -154,8 +155,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694ca3bcd4a7df7a0671d8d6?utm_campaign=Consultant&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Dec 24 |
 | **[Scan Design of Florida Inc](https://www.scandesign.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/694ca15ad4a7df7a0671d5de?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | On Site | Dec 24 |
 | **[3 Day Blinds](http://www.3dayblinds.com)** | **[Design Consultant](https://jobright.ai/jobs/info/694c6a9dd64ebf28d822034a?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 24 |
-| **[HUB International](https://www.hubinternational.com)** | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c59591a572a617dde9c01?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Dec 24 |
-| ↳ | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c55a55d7312113470cef9?utm_campaign=Consultant&utm_source=1103)** | Burnaby, BC | Hybrid | Dec 24 |
+| **[HUB International](https://www.hubinternational.com)** | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c55a55d7312113470cef9?utm_campaign=Consultant&utm_source=1103)** | Burnaby, BC | Hybrid | Dec 24 |
+| ↳ | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c59591a572a617dde9c01?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Dec 24 |
 | **[Madwire®](http://www.madwire.com)** | **[Onboarding Consultant 12/24](https://jobright.ai/jobs/info/694c23311a572a617dde6e18?utm_campaign=Consultant&utm_source=1103)** | Fort Collins, CO | Hybrid | Dec 24 |
 | **[Peloton Consulting Group](https://www.pelotongroup.com)** | **[Technical Implementation Consultant - Analyst](https://jobright.ai/jobs/info/68c23f894d652f044775e3f2?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Dec 24 |
 | ↳ | **[Technical Implementation Consultant - Analyst](https://jobright.ai/jobs/info/68cf1dbafb49c96ca6ea5d91?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 24 |
@@ -221,6 +222,4 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/694a45863019f50a4fe56cf7?utm_campaign=Consultant&utm_source=1103)** | Plymouth Meeting, PA, 19462 | On Site | Dec 22 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant - MN, Minneapolis (2540)](https://jobright.ai/jobs/info/694b886c5d731211347025f5?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Dec 22 |
 | **[Olympus Property](http://olympusproperty.com)** | **[Floating Leasing Consultant -  Albuquerque & Santa Fe](https://jobright.ai/jobs/info/68ed813f70b66e2345d3e97a?utm_campaign=Consultant&utm_source=1103)** | Santa Fe, NM | On Site | Dec 22 |
-| **[Scan Design of Florida Inc](https://www.scandesign.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/6949fa65c6f0e2546ceed2e9?utm_campaign=Consultant&utm_source=1103)** | Fort Myers, FL | On Site | Dec 22 |
-| **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6949f403d1953b5d11c2e023?utm_campaign=Consultant&utm_source=1103)** | Cedar Knolls, NJ, 07927 | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
