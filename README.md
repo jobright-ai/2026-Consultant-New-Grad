@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Data Center Engineer Consultant](https://jobright.ai/jobs/info/693742441c1c2161c13f2174?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Dec 30 |
+| **[Medallia](https://www.medallia.com)** | **[Client Delivery, Consultant](https://jobright.ai/jobs/info/6904290263502c0aded71140?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Dec 30 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[DHS LICENSING CONSULTANT 1* - 12232025-73768](https://jobright.ai/jobs/info/694a98ca3019f50a4fe5b700?utm_campaign=Consultant&utm_source=1103)** | Rutherford County, TN | Hybrid | Dec 30 |
+| ↳ | **[DHS LICENSING CONSULTANT 1* - 12232025-73750](https://jobright.ai/jobs/info/694a8ea73019f50a4fe5a16b?utm_campaign=Consultant&utm_source=1103)** | Montgomery County, TN | Hybrid | Dec 30 |
+| **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants](https://jobright.ai/jobs/info/6953cbccaa05c26e7aae5e05?utm_campaign=Consultant&utm_source=1103)** | San Francisco, Washington D.C., New York, Boston | Remote | Dec 30 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate, Risk Consulting - Credit Review Analyst](https://jobright.ai/jobs/info/69509bafa2668b7f545388ee?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Dec 30 |
+| ↳ | **[Process Risk and Controls Consulting Associate - Summer 2026](https://jobright.ai/jobs/info/6953cb96aa05c26e7aae5def?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Dec 30 |
+| **[Strategic Information Group](http://www.strategic.com)** | **[Junior Technical Consultant (Boomi Integrations)](https://jobright.ai/jobs/info/6936db5e1c1c2161c13ef078?utm_campaign=Consultant&utm_source=1103)** | United States | On Site | Dec 30 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/69377d16a0dde7020e303688?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Dec 30 |
 | ↳ | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/69379cdbaabec14a727c9c9f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Dec 30 |
 | ↳ | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/6937737ba0dde7020e3030df?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Dec 30 |
@@ -197,5 +205,4 @@ For a complete list, click the following sortable link below:
 | **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/694b66d75d731211346ff2d8?utm_campaign=Consultant&utm_source=1103)** | Los Lunas, NM | On Site | Dec 23 |
 | **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Analyst, Supply Chain Solutions](https://jobright.ai/jobs/info/694b21c61224705e9002468c?utm_campaign=Consultant&utm_source=1103)** | Des Plaines, IL | Hybrid | Dec 23 |
 | **[Gallagher](https://www.ajg.com/)** | **[Proposal Development Project Specialist](https://jobright.ai/jobs/info/694b27133019f50a4fe63a25?utm_campaign=Consultant&utm_source=1103)** | Torrance, CA | On Site | Dec 23 |
-| **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/694b0ecb4b53a1551f94bf95?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
