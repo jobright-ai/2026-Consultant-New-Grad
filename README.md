@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants](https://jobright.ai/jobs/info/6953e8adf1f8465b79eb1c93?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Remote | Dec 30 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Client Relationship Consultant 1](https://jobright.ai/jobs/info/6953e8935bb7de448ef6e5bb?utm_campaign=Consultant&utm_source=1103)** | Maplewood, MN | On Site | Dec 30 |
+| **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants](https://jobright.ai/jobs/info/6953e836aa05c26e7aae6c60?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Remote | Dec 30 |
+| ↳ | **[Associates and Consultants](https://jobright.ai/jobs/info/6953e6435bb7de448ef6e4af?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Remote | Dec 30 |
+| **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f946e5a628d10664e8b633?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Dec 30 |
+| **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants](https://jobright.ai/jobs/info/6953e2d1f1f8465b79eb1b00?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Remote | Dec 30 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Data Center Engineer Consultant](https://jobright.ai/jobs/info/693742441c1c2161c13f2174?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Dec 30 |
 | **[Medallia](https://www.medallia.com)** | **[Client Delivery, Consultant](https://jobright.ai/jobs/info/6904290263502c0aded71140?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | On Site | Dec 30 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DHS LICENSING CONSULTANT 1* - 12232025-73768](https://jobright.ai/jobs/info/694a98ca3019f50a4fe5b700?utm_campaign=Consultant&utm_source=1103)** | Rutherford County, TN | Hybrid | Dec 30 |
@@ -84,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Investment Consultant - Marin, CA](https://jobright.ai/jobs/info/6952daf4f1f8465b79ea247e?utm_campaign=Consultant&utm_source=1103)** | Larkspur, CA | Hybrid | Dec 29 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6952ce465bb7de448ef5e150?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 29 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/691d61fcbcdbf3560c9f062f?utm_campaign=Consultant&utm_source=1103)** | OKC Metro Area | On Site | Dec 29 |
-| **[The Elmer Agency](https://www.linkedin.com/company/104154292)** | **[Remote Consulting Specialist (No Experience Needed)](https://jobright.ai/jobs/info/6952c5d9f1f8465b79ea143d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 29 |
 | **[Newrez LLC](https://www.newrez.com)** | **[Jr. Mortgage Consultant](https://jobright.ai/jobs/info/6952ded85bb7de448ef5eff6?utm_campaign=Consultant&utm_source=1103)** | MD, Columbia | On Site | Dec 29 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/6952c0d75bb7de448ef5dac8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6952aefd5bb7de448ef5c934?utm_campaign=Consultant&utm_source=1103)** | Bethesda, Maryland, United States | On Site | Dec 29 |
@@ -134,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68924c214c7e851b90ad4731?utm_campaign=Consultant&utm_source=1103)** | Centennial, CO | On Site | Dec 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/694f09eba2668b7f54524b7c?utm_campaign=Consultant&utm_source=1103)** | Glen Allen, VA | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f439fa2668b7f545276f6?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Dec 26 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
 | ↳ | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/694fa12529655e4dd6590bad?utm_campaign=Consultant&utm_source=1103)** | Mansfield, TX | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694f167aa2668b7f54524d6b?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 26 |
 | **[MarshBerry](http://marshberry.com)** | **[Financial Analyst, Investment Banking & Consulting](https://jobright.ai/jobs/info/694ecd6529655e4dd6586751?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | Hybrid | Dec 26 |
@@ -203,6 +208,4 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6941956d50bbaf76505363d7?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA, 90404 | On Site | Dec 23 |
 | **[Scan Design of Florida Inc](https://www.scandesign.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/694b54f81a572a617dddab16?utm_campaign=Consultant&utm_source=1103)** | Altamonte Springs, FL | On Site | Dec 23 |
 | **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/694b66d75d731211346ff2d8?utm_campaign=Consultant&utm_source=1103)** | Los Lunas, NM | On Site | Dec 23 |
-| **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Analyst, Supply Chain Solutions](https://jobright.ai/jobs/info/694b21c61224705e9002468c?utm_campaign=Consultant&utm_source=1103)** | Des Plaines, IL | Hybrid | Dec 23 |
-| **[Gallagher](https://www.ajg.com/)** | **[Proposal Development Project Specialist](https://jobright.ai/jobs/info/694b27133019f50a4fe63a25?utm_campaign=Consultant&utm_source=1103)** | Torrance, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
