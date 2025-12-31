@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Team](http://www.careerteam.com)** | **[Business Services Consultant](https://jobright.ai/jobs/info/6941b10f50bbaf76505387ce?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Dec 31 |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6955672baa05c26e7aafc6da?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 31 |
 | **[Career Launch AI](https://www.careerlaunch.ai/)** | **[Management Consultant](https://jobright.ai/jobs/info/69554eacf1f8465b79ec58fa?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Dec 31 |
 | **[Newrez LLC](https://www.newrez.com)** | **[Jr. Mortgage Consultant](https://jobright.ai/jobs/info/69554d4f9f1b381eb26e9fa8?utm_campaign=Consultant&utm_source=1103)** | Columbia, MD | On Site | Dec 31 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Consultant - SAP, Oracle, Tax Technology - R8dius](https://jobright.ai/jobs/info/691cac38ff70244984169400?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Dec 31 |
@@ -84,8 +86,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Client Relationship Consultant](https://jobright.ai/jobs/info/69543ba4f1f8465b79eb5952?utm_campaign=Consultant&utm_source=1103)** | Grove City, OH | On Site | Dec 30 |
 | ↳ | **[Client Relationship Consultant 1](https://jobright.ai/jobs/info/69542b59aa05c26e7aae9e68?utm_campaign=Consultant&utm_source=1103)** | Maplewood, MN | On Site | Dec 30 |
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69541b7e5bb7de448ef70de3?utm_campaign=Consultant&utm_source=1103)** | Travis AFB, Fairfield, CA | On Site | Dec 30 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69543e9aaa05c26e7aaeafa2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 30 |
-| **[Seneca Holdings](http://www.senecaholdings.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/695416fff1f8465b79eb4381?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 30 |
+| ↳ | **[Government Travel Consultant](https://jobright.ai/jobs/info/695416fff1f8465b79eb4381?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 30 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant - NOVA](https://jobright.ai/jobs/info/695402a7f1f8465b79eb2a9a?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA, 22202 | On Site | Dec 30 |
 | **[Tender Lawn Care](https://mytenderlawncare.com/)** | **[Residential Outside Sales Consultant (Hybrid)](https://jobright.ai/jobs/info/6954134ff1f8465b79eb42a6?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 30 |
 | **[Keystone AI](https://www.keystone.ai)** | **[Associates and Consultants](https://jobright.ai/jobs/info/6953e8adf1f8465b79eb1c93?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Remote | Dec 30 |
@@ -149,12 +150,12 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69497983d1953b5d11c27f07?utm_campaign=Consultant&utm_source=1103)** | SUNNYVALE, CA, 94086 | On Site | Dec 27 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694347b050bbaf7650552d50?utm_campaign=Consultant&utm_source=1103)** | Wellington, FL, 33414 | On Site | Dec 27 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d5a424a1b456627b20b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 27 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69350e97a0dde7020e2f73f7?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d7a8b221b890c27807157?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | Hybrid | Dec 27 |
-| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
+| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d7a8b221b890c27807157?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d6f12221b890c27806ad7?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | Hybrid | Dec 27 |
+| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
 | **[Kx Advisors](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0cb9bb47fb001d689578a?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 27 |
-| ↳ | **[Associate Consultant](https://jobright.ai/jobs/info/68b9fbe96105227d11899ef1?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | Hybrid | Dec 27 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69336403764507023d1b52b0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
+| **[Kx Advisors](https://kxadvisors.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/68b9fbe96105227d11899ef1?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | Hybrid | Dec 27 |
 | **[Crete Professionals Alliance](https://cretepa.com/)** | **[Reports & Proposals Specialist](https://jobright.ai/jobs/info/6933a4aaa0dde7020e2f00e0?utm_campaign=Consultant&utm_source=1103)** | Honolulu, HI | On Site | Dec 27 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f947b06de2db04dc3e7b47?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Dec 27 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - Woodbridge, NJ](https://jobright.ai/jobs/info/6917273e3ea85638ae1c86ec?utm_campaign=Consultant&utm_source=1103)** | Woodbridge, NJ | On Site | Dec 27 |
@@ -205,6 +206,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/693152b1ef4b48533d153948?utm_campaign=Consultant&utm_source=1103)** | Altoona, IA | On Site | Dec 25 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/694cfde7f5bef51c96eab357?utm_campaign=Consultant&utm_source=1103)** | Hewlett, NY | On Site | Dec 25 |
 | ↳ | **[Branch Banking Client Consultant I - Float](https://jobright.ai/jobs/info/694cfb3ef5bef51c96eab2ac?utm_campaign=Consultant&utm_source=1103)** | Bellmore, NY | On Site | Dec 25 |
-| **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government/Travel Consultant l (Entry Level) onsite Elmendorf AFB Alaska](https://jobright.ai/jobs/info/6954a32a5bb7de448ef7998a?utm_campaign=Consultant&utm_source=1103)** | Joint Base Elmendorf Richardson, AK | On Site | Dec 24 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst or Consultant, Insurance Solutions](https://jobright.ai/jobs/info/694cb0c8f5bef51c96ea73d6?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
