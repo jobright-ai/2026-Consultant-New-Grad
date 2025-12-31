@@ -200,6 +200,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694ca3bcd4a7df7a0671d8d6?utm_campaign=Consultant&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Dec 24 |
 | **[Scan Design of Florida Inc](https://www.scandesign.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/694ca15ad4a7df7a0671d5de?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | On Site | Dec 24 |
 | **[3 Day Blinds](http://www.3dayblinds.com)** | **[Design Consultant](https://jobright.ai/jobs/info/694c6a9dd64ebf28d822034a?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 24 |
-| **[HUB International](https://www.hubinternational.com)** | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c55a55d7312113470cef9?utm_campaign=Consultant&utm_source=1103)** | Burnaby, BC | Hybrid | Dec 24 |
-| ↳ | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c59591a572a617dde9c01?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
