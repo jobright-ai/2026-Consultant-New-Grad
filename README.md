@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Monroe](https://www.westmonroe.com)** | **[Consultant, Cybersecurity](https://jobright.ai/jobs/info/691b9fe815b4156367191058?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Dec 31 |
 | **[Jensen Hughes](https://www.jensenhughes.com)** | **[Associate Nuclear Consultant/Engineer](https://jobright.ai/jobs/info/693897b3a0dde7020e312be5?utm_campaign=Consultant&utm_source=1103)** | West Chester, PA | On Site | Dec 31 |
 | **[AffiniPay](https://www.8am.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/695504b29f1b381eb26e7198?utm_campaign=Consultant&utm_source=1103)** | Remote - US and Canada | Remote | Dec 31 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/691d4eb4bcdbf3560c9efa52?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Dec 31 |
@@ -69,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Scan Design of Florida Inc](https://www.scandesign.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/69549f835bb7de448ef79528?utm_campaign=Consultant&utm_source=1103)** | Fort Lauderdale, FL | On Site | Dec 30 |
 | **[Golden Legacy Financial](https://www.linkedin.com/company/104784163)** | **[Finance Consultant](https://jobright.ai/jobs/info/695498f9f1f8465b79ebc9e7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 30 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[IT Infrastructure Consultant](https://jobright.ai/jobs/info/695489f5f1f8465b79ebbbd8?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 30 |
-| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6954b4f6aa05c26e7aaf438c?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 30 |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69553698f1f8465b79ec525a?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC (Ballantyne area) | On Site | Dec 30 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/6954b4f6aa05c26e7aaf438c?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 30 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Program Consultant I](https://jobright.ai/jobs/info/695460565bb7de448ef754ef?utm_campaign=Consultant&utm_source=1103)** | Shawnee County, KS | On Site | Dec 30 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/69544dd15bb7de448ef74860?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/69544d295bb7de448ef747c0?utm_campaign=Consultant&utm_source=1103)** | Fort Lauderdale, FL | On Site | Dec 30 |
@@ -160,8 +162,8 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68924c214c7e851b90ad4731?utm_campaign=Consultant&utm_source=1103)** | Centennial, CO | On Site | Dec 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/694f09eba2668b7f54524b7c?utm_campaign=Consultant&utm_source=1103)** | Glen Allen, VA | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f439fa2668b7f545276f6?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Dec 26 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
 | ↳ | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/694fa12529655e4dd6590bad?utm_campaign=Consultant&utm_source=1103)** | Mansfield, TX | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694f167aa2668b7f54524d6b?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 26 |
 | **[MarshBerry](http://marshberry.com)** | **[Financial Analyst, Investment Banking & Consulting](https://jobright.ai/jobs/info/694ecd6529655e4dd6586751?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | Hybrid | Dec 26 |
