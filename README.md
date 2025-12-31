@@ -133,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694347b050bbaf7650552d50?utm_campaign=Consultant&utm_source=1103)** | Wellington, FL, 33414 | On Site | Dec 27 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d5a424a1b456627b20b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d7a8b221b890c27807157?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | Hybrid | Dec 27 |
-| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d6f12221b890c27806ad7?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
+| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d6f12221b890c27806ad7?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | Hybrid | Dec 27 |
 | **[Kx Advisors](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0cb9bb47fb001d689578a?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69336403764507023d1b52b0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
 | **[Kx Advisors](https://kxadvisors.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/68b9fbe96105227d11899ef1?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | Hybrid | Dec 27 |
@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68924c214c7e851b90ad4731?utm_campaign=Consultant&utm_source=1103)** | Centennial, CO | On Site | Dec 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/694f09eba2668b7f54524b7c?utm_campaign=Consultant&utm_source=1103)** | Glen Allen, VA | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f439fa2668b7f545276f6?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Dec 26 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
 | ↳ | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/694fa12529655e4dd6590bad?utm_campaign=Consultant&utm_source=1103)** | Mansfield, TX | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694f167aa2668b7f54524d6b?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 26 |
 | **[MarshBerry](http://marshberry.com)** | **[Financial Analyst, Investment Banking & Consulting](https://jobright.ai/jobs/info/694ecd6529655e4dd6586751?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | Hybrid | Dec 26 |
@@ -194,6 +194,7 @@ For a complete list, click the following sortable link below:
 | **[3 Day Blinds](http://www.3dayblinds.com)** | **[Design Consultant](https://jobright.ai/jobs/info/694c6a9dd64ebf28d822034a?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 24 |
 | **[HUB International](https://www.hubinternational.com)** | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c55a55d7312113470cef9?utm_campaign=Consultant&utm_source=1103)** | Burnaby, BC | Hybrid | Dec 24 |
 | ↳ | **[Analyst, Health & Benefits Consulting](https://jobright.ai/jobs/info/694c59591a572a617dde9c01?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Dec 24 |
+| **[Madwire®](http://www.madwire.com)** | **[Onboarding Consultant 12/24](https://jobright.ai/jobs/info/69546eb9aa05c26e7aaedf57?utm_campaign=Consultant&utm_source=1103)** | Fort Collins, Colorado, United States | Hybrid | Dec 24 |
 | **[Peloton Consulting Group](https://www.pelotongroup.com)** | **[Technical Implementation Consultant - Analyst](https://jobright.ai/jobs/info/68c23f894d652f044775e3f2?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Dec 24 |
 | ↳ | **[Technical Implementation Consultant - Analyst](https://jobright.ai/jobs/info/68cf1dbafb49c96ca6ea5d91?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Dec 24 |
 | **[LSEG](https://www.lseg.com/)** | **[Associate Solution Consultant, Real-Time and Historical Data](https://jobright.ai/jobs/info/6912a243d1047e3565cfde2a?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 24 |
@@ -206,9 +207,4 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - Brick, NJ](https://jobright.ai/jobs/info/69301fe1ef4b48533d14a7ce?utm_campaign=Consultant&utm_source=1103)** | Brick, NJ | On Site | Dec 24 |
 | ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69301b134c474121999e4076?utm_campaign=Consultant&utm_source=1103)** | Roslyn, NY | On Site | Dec 24 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Analytics Consultant](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e40c7?utm_campaign=Consultant&utm_source=1103)** | Harrisburg, PA | On Site | Dec 24 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/692f393bef4b48533d1437a0?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Dec 24 |
-| **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/69122debea9ab01b82bf01c7?utm_campaign=Consultant&utm_source=1103)** | Indiana, PA | On Site | Dec 24 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68f730baec6dbe7073fb656a?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA | On Site | Dec 24 |
-| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/688405266fcd973d15ae526c?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Dec 24 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/68f64c509a63986de757cfc7?utm_campaign=Consultant&utm_source=1103)** | Canton, IL | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
