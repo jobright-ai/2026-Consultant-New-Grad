@@ -57,9 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939b74856b68f3dc4e70f01?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Jan 01 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939ae57ac80bb5492bc26b5?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 01 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939b1e156b68f3dc4e70464?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 01 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939b4e0ac80bb5492bc2e38?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | Hybrid | Jan 01 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939a758ac80bb5492bc226f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Jan 01 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939abc856b68f3dc4e7005a?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 01 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939a626ac80bb5492bc21c1?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Hybrid | Jan 01 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/6901702ad5259a1b3cff4f36?utm_campaign=Consultant&utm_source=1103)** | Friendswood, TX | On Site | Jan 01 |
+| **[Lennox](http://www.lennox.com)** | **[Product Application Consultant](https://jobright.ai/jobs/info/68e54b84b99ec3563b0f2873?utm_campaign=Consultant&utm_source=1103)** | Richardson, TX | On Site | Jan 01 |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69008b4ee0c73b3a111a5abc?utm_campaign=Consultant&utm_source=1103)** | West Hempstead, NY | On Site | Jan 01 |
 | **[Newfold Digital](https://newfold.com)** | **[Business Consultant](https://jobright.ai/jobs/info/69563ca4f1f8465b79ed23af?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 01 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6941956d50bbaf76505363d7?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA, 90404 | On Site | Dec 31 |
 | **[Olympic College](http://www.olympic.edu/)** | **[Human Resource Consultant 1](https://jobright.ai/jobs/info/6956140a9f1b381eb26f52b6?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Dec 31 |
+| **[Aspire Health Partners](http://aspirehealthpartners.com)** | **[BEHAVIORAL HEALTH CONSULTANT](https://jobright.ai/jobs/info/69564571aa05c26e7ab077f7?utm_campaign=Consultant&utm_source=1103)** | ORLANDO, Florida | On Site | Dec 31 |
 | **[TripleLift](http://www.triplelift.com)** | **[Technical Solutions Consultant, Demand](https://jobright.ai/jobs/info/68fc01c5f55bb021a889f5b4?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Dec 31 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - Miami, FL](https://jobright.ai/jobs/info/6955abc4f1f8465b79eca288?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Dec 31 |
 | **[Kansas Department of Health and Environment](http://www.kdheks.gov)** | **[Program Consultant](https://jobright.ai/jobs/info/6955cf22f1f8465b79ecb0de?utm_campaign=Consultant&utm_source=1103)** | Shawnee County, KS | On Site | Dec 31 |
@@ -172,8 +183,8 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68924c214c7e851b90ad4731?utm_campaign=Consultant&utm_source=1103)** | Centennial, CO | On Site | Dec 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/694f09eba2668b7f54524b7c?utm_campaign=Consultant&utm_source=1103)** | Glen Allen, VA | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f439fa2668b7f545276f6?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Dec 26 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
 | ↳ | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/694fa12529655e4dd6590bad?utm_campaign=Consultant&utm_source=1103)** | Mansfield, TX | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694f167aa2668b7f54524d6b?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 26 |
 | **[MarshBerry](http://marshberry.com)** | **[Financial Analyst, Investment Banking & Consulting](https://jobright.ai/jobs/info/694ecd6529655e4dd6586751?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | Hybrid | Dec 26 |
