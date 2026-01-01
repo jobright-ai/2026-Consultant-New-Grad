@@ -62,8 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/69166a5a6f36db06ef056175?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Jan 01 |
 | **[WCG Services](https://www.wcgservices.com)** | **[Employment Consultant](https://jobright.ai/jobs/info/6939e86c48a8ce22990de0a0?utm_campaign=Consultant&utm_source=1103)** | Prince George, British Columbia, Canada | On Site | Jan 01 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68e4a955b99ec3563b0ecc00?utm_campaign=Consultant&utm_source=1103)** | Nebraska, United States | On Site | Jan 01 |
-| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691df3fe09cc522e87734177?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
-| ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691671e19c388539cbdfb5cc?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
+| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691671e19c388539cbdfb5cc?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/6917c5aa45fb6f5ead89e875?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691676166f36db06ef056c3d?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Jan 01 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Consultant Database Analyst](https://jobright.ai/jobs/info/694967aa63141d18845900c8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jan 01 |
@@ -100,7 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69008b4ee0c73b3a111a5abc?utm_campaign=Consultant&utm_source=1103)** | West Hempstead, NY | On Site | Jan 01 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939e01f48a8ce22990ddb61?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Jan 01 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939b2a7ac80bb5492bc28d7?utm_campaign=Consultant&utm_source=1103)** | Greater Cleveland | Hybrid | Jan 01 |
-| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939a43256b68f3dc4e6fbf2?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jan 01 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6901821ef8ce7a040fdc04d7?utm_campaign=Consultant&utm_source=1103)** | Tomah, WI | On Site | Jan 01 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939a43256b68f3dc4e6fbf2?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jan 01 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6939ff7456b68f3dc4e75212?utm_campaign=Consultant&utm_source=1103)** | Racine, WI | On Site | Jan 01 |
 | **[Newfold Digital](https://newfold.com)** | **[Business Consultant](https://jobright.ai/jobs/info/69563ca4f1f8465b79ed23af?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 01 |
 | **[Center for Developmentally Disabled](http://www.cddkc.org)** | **[Career Consultant](https://jobright.ai/jobs/info/6956a0a89f1b381eb26fd2c6?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Jan 01 |
@@ -206,8 +206,8 @@ For a complete list, click the following sortable link below:
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d5a424a1b456627b20b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69350e97a0dde7020e2f73f7?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d7a8b221b890c27807157?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | Hybrid | Dec 27 |
-| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d6f12221b890c27806ad7?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | Hybrid | Dec 27 |
+| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
 | **[Kx Advisors](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0cb9bb47fb001d689578a?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 27 |
 | ↳ | **[Associate Consultant](https://jobright.ai/jobs/info/68b9fbe96105227d11899ef1?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | Hybrid | Dec 27 |
 | **[Crete Professionals Alliance](https://cretepa.com/)** | **[Reports & Proposals Specialist](https://jobright.ai/jobs/info/6933a4aaa0dde7020e2f00e0?utm_campaign=Consultant&utm_source=1103)** | Honolulu, HI | On Site | Dec 27 |
@@ -245,5 +245,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69324467a0dde7020e2e4f08?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Dec 26 |
 | ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6932448fa0dde7020e2e4f2f?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Dec 26 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Associate, Change Management](https://jobright.ai/jobs/info/694e29fbf5bef51c96eb919f?utm_campaign=Consultant&utm_source=1103)** | Walnut Creek, CA | On Site | Dec 25 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Associate, Risk Consulting - Internal Audit and SOX](https://jobright.ai/jobs/info/6954b353aa05c26e7aaf421e?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | Hybrid | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
