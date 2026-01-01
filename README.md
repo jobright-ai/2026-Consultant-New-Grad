@@ -89,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/69544d295bb7de448ef747c0?utm_campaign=Consultant&utm_source=1103)** | Fort Lauderdale, FL | On Site | Dec 30 |
 | **[Donor Network West](https://www.donornetworkwest.org/)** | **[Donation Program Consultant](https://jobright.ai/jobs/info/69543cdff1f8465b79eb59fe?utm_campaign=Consultant&utm_source=1103)** | Stockton, CA | On Site | Dec 30 |
 | ↳ | **[Donation Program Consultant](https://jobright.ai/jobs/info/69543c75aa05c26e7aaea832?utm_campaign=Consultant&utm_source=1103)** | Stockton, CA | On Site | Dec 30 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Client Relationship Consultant](https://jobright.ai/jobs/info/69543ba4f1f8465b79eb5952?utm_campaign=Consultant&utm_source=1103)** | Grove City, OH | On Site | Dec 30 |
-| ↳ | **[Client Relationship Consultant 1](https://jobright.ai/jobs/info/69542b59aa05c26e7aae9e68?utm_campaign=Consultant&utm_source=1103)** | Maplewood, MN | On Site | Dec 30 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Client Relationship Consultant 1](https://jobright.ai/jobs/info/69542b59aa05c26e7aae9e68?utm_campaign=Consultant&utm_source=1103)** | Maplewood, MN | On Site | Dec 30 |
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69541b7e5bb7de448ef70de3?utm_campaign=Consultant&utm_source=1103)** | Travis AFB, Fairfield, CA | On Site | Dec 30 |
 | ↳ | **[Government Travel Consultant](https://jobright.ai/jobs/info/695416fff1f8465b79eb4381?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Dec 30 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant - NOVA](https://jobright.ai/jobs/info/695402a7f1f8465b79eb2a9a?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA, 22202 | On Site | Dec 30 |
@@ -140,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[ION](https://iongroup.com)** | **[Business Consultant L1 - WallStreet Suite](https://jobright.ai/jobs/info/68c63239db52c07d28844f7a?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Dec 29 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Travel Consultant – Remote VIP](https://jobright.ai/jobs/info/6933f422a0dde7020e2f35ee?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Remote | Dec 29 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant, Bilingual Spanish Preferred](https://jobright.ai/jobs/info/68faeb9e8d32c164778cc9e7?utm_campaign=Consultant&utm_source=1103)** | Beaver Dam, WI | On Site | Dec 29 |
-| **[Olympic College](http://www.olympic.edu/)** | **[Human Resource Consultant 1](https://jobright.ai/jobs/info/69534ceef1f8465b79ea95ce?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Dec 28 |
 | **[Capvision](https://www.capvision.com)** | **[Associate/Sr. Associate, Client Services - Consulting Client Strategy](https://jobright.ai/jobs/info/690a6e78d046ab6061cdc7e2?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Dec 28 |
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant (French Fluency)](https://jobright.ai/jobs/info/6951ddada2668b7f5454744b?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Dec 28 |
 | ↳ | **[Software Implementation Consultant](https://jobright.ai/jobs/info/6951d792a2668b7f545470fd?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 28 |
@@ -170,8 +168,8 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68924c214c7e851b90ad4731?utm_campaign=Consultant&utm_source=1103)** | Centennial, CO | On Site | Dec 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/694f09eba2668b7f54524b7c?utm_campaign=Consultant&utm_source=1103)** | Glen Allen, VA | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f439fa2668b7f545276f6?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Dec 26 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
 | ↳ | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/694fa12529655e4dd6590bad?utm_campaign=Consultant&utm_source=1103)** | Mansfield, TX | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694f167aa2668b7f54524d6b?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 26 |
 | **[MarshBerry](http://marshberry.com)** | **[Financial Analyst, Investment Banking & Consulting](https://jobright.ai/jobs/info/694ecd6529655e4dd6586751?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | Hybrid | Dec 26 |
