@@ -58,12 +58,16 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/6944525694730b7398777b69?utm_campaign=Consultant&utm_source=1103)** | Chevy Chase, MD, 20815 | On Site | Jan 01 |
+| **[Sares Regis Group](http://sares-regis.com)** | **[Floating Leasing Consultant](https://jobright.ai/jobs/info/6956fb48aa05c26e7ab11da0?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California | On Site | Jan 01 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/6956f952f1f8465b79edd2b6?utm_campaign=Consultant&utm_source=1103)** | San Diego, California | On Site | Jan 01 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/6956fa719f1b381eb2701c01?utm_campaign=Consultant&utm_source=1103)** | Los Alamitos, California | On Site | Jan 01 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/6956fb8f9f1b381eb2701c3e?utm_campaign=Consultant&utm_source=1103)** | Laguna Niguel, California | On Site | Jan 01 |
 | **[Hatch](https://www.hatch.com)** | **[Bus and Zero Emissions Consultant](https://jobright.ai/jobs/info/691d1bdfbcdbf3560c9ed404?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Jan 01 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[- Defense and Government Travel Consultant I (entry level) ONSITE Ellsworth AFB SD](https://jobright.ai/jobs/info/6905a545122e8474c78da94b?utm_campaign=Consultant&utm_source=1103)** | Ellsworth, ME | On Site | Jan 01 |
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/69166a5a6f36db06ef056175?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Jan 01 |
 | **[WCG Services](https://www.wcgservices.com)** | **[Employment Consultant](https://jobright.ai/jobs/info/6939e86c48a8ce22990de0a0?utm_campaign=Consultant&utm_source=1103)** | Prince George, British Columbia, Canada | On Site | Jan 01 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68e4a955b99ec3563b0ecc00?utm_campaign=Consultant&utm_source=1103)** | Nebraska, United States | On Site | Jan 01 |
-| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691df3fe09cc522e87734177?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
+| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691671e19c388539cbdfb5cc?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/6917c5aa45fb6f5ead89e875?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691676166f36db06ef056c3d?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Jan 01 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Consultant Database Analyst](https://jobright.ai/jobs/info/694967aa63141d18845900c8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jan 01 |
@@ -206,8 +210,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694347b050bbaf7650552d50?utm_campaign=Consultant&utm_source=1103)** | Wellington, FL, 33414 | On Site | Dec 27 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d5a424a1b456627b20b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d7a8b221b890c27807157?utm_campaign=Consultant&utm_source=1103)** | Kent, WA | Hybrid | Dec 27 |
-| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
 | ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d6f12221b890c27806ad7?utm_campaign=Consultant&utm_source=1103)** | Olympia, WA | Hybrid | Dec 27 |
+| ↳ | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d8aea44146d3b6ec4db1a?utm_campaign=Consultant&utm_source=1103)** | Auburn, WA | Hybrid | Dec 27 |
 | **[Kx Advisors](https://kxadvisors.com)** | **[Consultant](https://jobright.ai/jobs/info/68b0cb9bb47fb001d689578a?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69336403764507023d1b52b0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
 | **[Kx Advisors](https://kxadvisors.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/68b9fbe96105227d11899ef1?utm_campaign=Consultant&utm_source=1103)** | DC-Baltimore Area | Hybrid | Dec 27 |
@@ -220,8 +224,8 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/68924c214c7e851b90ad4731?utm_campaign=Consultant&utm_source=1103)** | Centennial, CO | On Site | Dec 26 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/694f09eba2668b7f54524b7c?utm_campaign=Consultant&utm_source=1103)** | Glen Allen, VA | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f439fa2668b7f545276f6?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico / West End) | On Site | Dec 26 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694fe68cce13cd105657fe7e?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Dec 26 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/694f24cfa2668b7f545250a9?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (near Short Pump) | On Site | Dec 26 |
 | ↳ | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/694fa12529655e4dd6590bad?utm_campaign=Consultant&utm_source=1103)** | Mansfield, TX | On Site | Dec 26 |
 | ↳ | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/694f167aa2668b7f54524d6b?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Dec 26 |
 | **[MarshBerry](http://marshberry.com)** | **[Financial Analyst, Investment Banking & Consulting](https://jobright.ai/jobs/info/694ecd6529655e4dd6586751?utm_campaign=Consultant&utm_source=1103)** | Plano, TX | Hybrid | Dec 26 |
