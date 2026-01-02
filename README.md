@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/6892c15d4c7e851b90ad80c1?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Jan 01 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69497983d1953b5d11c27f07?utm_campaign=Consultant&utm_source=1103)** | SUNNYVALE, CA, 94086 | On Site | Jan 01 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69572340aa05c26e7ab13940?utm_campaign=Consultant&utm_source=1103)** | Jackson, MS | Hybrid | Jan 01 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/695721b7f1f8465b79edeebc?utm_campaign=Consultant&utm_source=1103)** | Greater Indianapolis | Hybrid | Jan 01 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Newfold Digital](https://newfold.com)** | **[Business Consultant](https://jobright.ai/jobs/info/69563ca4f1f8465b79ed23af?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 01 |
 | **[Center for Developmentally Disabled](http://www.cddkc.org)** | **[Career Consultant](https://jobright.ai/jobs/info/6956a0a89f1b381eb26fd2c6?utm_campaign=Consultant&utm_source=1103)** | Kansas City, Missouri | On Site | Jan 01 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6941956d50bbaf76505363d7?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA, 90404 | On Site | Dec 31 |
-| **[Olympic College](http://www.olympic.edu/)** | **[Human Resource Consultant 1](https://jobright.ai/jobs/info/6956140a9f1b381eb26f52b6?utm_campaign=Consultant&utm_source=1103)** | Bremerton, WA | On Site | Dec 31 |
 | **[Aspire Health Partners](http://aspirehealthpartners.com)** | **[BEHAVIORAL HEALTH CONSULTANT](https://jobright.ai/jobs/info/69564571aa05c26e7ab077f7?utm_campaign=Consultant&utm_source=1103)** | ORLANDO, Florida | On Site | Dec 31 |
 | **[TripleLift](http://www.triplelift.com)** | **[Technical Solutions Consultant, Demand](https://jobright.ai/jobs/info/68fc01c5f55bb021a889f5b4?utm_campaign=Consultant&utm_source=1103)** | New York, New York, United States | On Site | Dec 31 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - Miami, FL](https://jobright.ai/jobs/info/6955abc4f1f8465b79eca288?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Dec 31 |
