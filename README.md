@@ -57,11 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MNP](http://www.mnp.ca)** | **[Consultant, Enterprise Risk - Internal Audit & Controls](https://jobright.ai/jobs/info/691f98a609cc522e87743827?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68e737191852e62f00823352?utm_campaign=Consultant&utm_source=1103)** | Homewood, AL | On Site | Jan 03 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Consultant, IT Audit & Assurance](https://jobright.ai/jobs/info/692f2b92fa28370be26a7d5d?utm_campaign=Consultant&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 03 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6903a8b8ff462851fefed326?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Jan 03 |
+| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/69039f0563502c0aded6a62e?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Jan 03 |
+| **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Enterprise Strategy & Execution](https://jobright.ai/jobs/info/693cd28749a7695fbd03884d?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jan 03 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Retirement Service Consultant](https://jobright.ai/jobs/info/6903a42263502c0aded6a8d1?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Jan 03 |
+| ↳ | **[Retirement Service Consultant](https://jobright.ai/jobs/info/69039d1163502c0aded6a494?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Jan 03 |
+| **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/691f546009cc522e8773fa7c?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Jan 03 |
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (General Surgery) - Full Time - Remote](https://jobright.ai/jobs/info/68f6a6b476a51a4307bdcce2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 03 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant](https://jobright.ai/jobs/info/69200f5ba49a885af9a365ff?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Jan 03 |
 | ↳ | **[Consultant I](https://jobright.ai/jobs/info/694521ee9516540735373ad1?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Jan 03 |
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant - Full Time - Remote](https://jobright.ai/jobs/info/693a964a5f2c001987ecb5f5?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 03 |
 | ↳ | **[Profee Coding Consultant (HCC/Profee) - PRN - Remote](https://jobright.ai/jobs/info/69073d3d63502c0aded85613?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 03 |
+| **[8am](https://www.8am.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/69591e77f1f8465b79efb038?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jan 03 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/691f736109cc522e877416be?utm_campaign=Consultant&utm_source=1103)** | Buford, GA | On Site | Jan 03 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/693cc22649a7695fbd037fe2?utm_campaign=Consultant&utm_source=1103)** | Greensboro, NC | On Site | Jan 03 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I-Float](https://jobright.ai/jobs/info/69032a2000a1816c41ea46ec?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jan 03 |
@@ -83,13 +93,13 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69586f3ff1f8465b79ef1359?utm_campaign=Consultant&utm_source=1103)** | Lake Norman/Cornelius, NC | On Site | Jan 02 |
 | **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69587fb6f1f8465b79ef1daa?utm_campaign=Consultant&utm_source=1103)** | Frankfort, IL | Hybrid | Jan 02 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69586032aa05c26e7ab23de5?utm_campaign=Consultant&utm_source=1103)** | Alexandria, VA | Hybrid | Jan 02 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585ed7aa05c26e7ab23d37?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585e55f1f8465b79eef3fb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585d92aa05c26e7ab23cda?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585cd2f1f8465b79eef383?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585b24aa05c26e7ab23bb0?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/695858669f1b381eb2713c08?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69584fbdf1f8465b79eeee4f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Perficient](http://www.perficient.com)** | **[Assoc Business Consultant](https://jobright.ai/jobs/info/6958487a9f1b381eb2713537?utm_campaign=Consultant&utm_source=1103)** | 2700 Post Oak Blvd, Suite 1350, Houston, TX, 77056, US | On Site | Jan 02 |
 | **[Apartment Insiders - Apartment Finders in Nashville, Charlotte, and Tampa Bay](https://www.apartmentinsiders.com)** | **[Apartment Search Consultant](https://jobright.ai/jobs/info/69371815a0dde7020e2feeef?utm_campaign=Consultant&utm_source=1103)** | Nashville Metro | Hybrid | Jan 02 |
-| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69584368f1f8465b79eee81b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Perficient](http://www.perficient.com)** | **[Assoc Business Consultant](https://jobright.ai/jobs/info/695842e2aa05c26e7ab23075?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Capgemini Invent - Organizational Purpose - Consultant](https://jobright.ai/jobs/info/6958418f9f1b381eb271311d?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jan 02 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/6958414eaa05c26e7ab22f68?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jan 02 |
@@ -141,7 +151,7 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/69166a5a6f36db06ef056175?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Jan 01 |
 | **[WCG Services](https://www.wcgservices.com)** | **[Employment Consultant](https://jobright.ai/jobs/info/6939e86c48a8ce22990de0a0?utm_campaign=Consultant&utm_source=1103)** | Prince George, British Columbia, Canada | On Site | Jan 01 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68e4a955b99ec3563b0ecc00?utm_campaign=Consultant&utm_source=1103)** | Nebraska, United States | On Site | Jan 01 |
-| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691df3fe09cc522e87734177?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
+| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691671e19c388539cbdfb5cc?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/6917c5aa45fb6f5ead89e875?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691676166f36db06ef056c3d?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Jan 01 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Consultant Database Analyst](https://jobright.ai/jobs/info/694967aa63141d18845900c8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jan 01 |
