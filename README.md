@@ -57,23 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69588db3aa05c26e7ab26b11?utm_campaign=Consultant&utm_source=1103)** | Carlsbad, CA | Hybrid | Jan 02 |
+| **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/6958af38aa05c26e7ab27d6c?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC, USA | Hybrid | Jan 02 |
 | **[PNC](http://www.pnc.com)** | **[Licensed Investment Services Consultant - PNC Wealth Management](https://jobright.ai/jobs/info/69588ad59f1b381eb2716d13?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/695898bff1f8465b79ef29d0?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69588db3aa05c26e7ab26b11?utm_campaign=Consultant&utm_source=1103)** | Carlsbad, CA | Hybrid | Jan 02 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[ADA Access Consultant](https://jobright.ai/jobs/info/69588ad09f1b381eb2716d0f?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 02 |
 | ↳ | **[ADA Access Consultant](https://jobright.ai/jobs/info/6958881af1f8465b79ef205d?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Jan 02 |
 | ↳ | **[ADA Access Consultant](https://jobright.ai/jobs/info/695883129f1b381eb2716ac7?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | Hybrid | Jan 02 |
 | ↳ | **[ADA Access Consultant](https://jobright.ai/jobs/info/6958769a9f1b381eb2716209?utm_campaign=Consultant&utm_source=1103)** | Colorado Springs, CO | Hybrid | Jan 02 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69586f3ff1f8465b79ef1359?utm_campaign=Consultant&utm_source=1103)** | Lake Norman/Cornelius, NC | On Site | Jan 02 |
 | **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69587fb6f1f8465b79ef1daa?utm_campaign=Consultant&utm_source=1103)** | Frankfort, IL | Hybrid | Jan 02 |
-| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6958652f9f1b381eb27140ab?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69586032aa05c26e7ab23de5?utm_campaign=Consultant&utm_source=1103)** | Alexandria, VA | Hybrid | Jan 02 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585e219f1b381eb2713de7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69586032aa05c26e7ab23de5?utm_campaign=Consultant&utm_source=1103)** | Alexandria, VA | Hybrid | Jan 02 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585d92aa05c26e7ab23cda?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585cd2f1f8465b79eef383?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585b24aa05c26e7ab23bb0?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69585250aa05c26e7ab2384d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6958523ff1f8465b79eeef4c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Perficient](http://www.perficient.com)** | **[Assoc Business Consultant](https://jobright.ai/jobs/info/6958487a9f1b381eb2713537?utm_campaign=Consultant&utm_source=1103)** | 2700 Post Oak Blvd, Suite 1350, Houston, TX, 77056, US | On Site | Jan 02 |
 | **[Apartment Insiders - Apartment Finders in Nashville, Charlotte, and Tampa Bay](https://www.apartmentinsiders.com)** | **[Apartment Search Consultant](https://jobright.ai/jobs/info/69371815a0dde7020e2feeef?utm_campaign=Consultant&utm_source=1103)** | Nashville Metro | Hybrid | Jan 02 |
 | **[Perficient](http://www.perficient.com)** | **[Assoc Business Consultant](https://jobright.ai/jobs/info/695842e2aa05c26e7ab23075?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
-| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/695841bbaa05c26e7ab22fb1?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Capgemini Invent](http://www.capgemini.com/invent)** | **[Capgemini Invent - Organizational Purpose - Consultant](https://jobright.ai/jobs/info/6958418f9f1b381eb271311d?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Hybrid | Jan 02 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/6958414eaa05c26e7ab22f68?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jan 02 |
 | **[Career Team](http://www.careerteam.com)** | **[Business Services Consultant](https://jobright.ai/jobs/info/69583fc0aa05c26e7ab22eac?utm_campaign=Consultant&utm_source=1103)** | Cleburne, TX | On Site | Jan 02 |
@@ -124,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/69166a5a6f36db06ef056175?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Jan 01 |
 | **[WCG Services](https://www.wcgservices.com)** | **[Employment Consultant](https://jobright.ai/jobs/info/6939e86c48a8ce22990de0a0?utm_campaign=Consultant&utm_source=1103)** | Prince George, British Columbia, Canada | On Site | Jan 01 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68e4a955b99ec3563b0ecc00?utm_campaign=Consultant&utm_source=1103)** | Nebraska, United States | On Site | Jan 01 |
-| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691df3fe09cc522e87734177?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
+| **[Arcadis](http://www.arcadis.com)** | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691671e19c388539cbdfb5cc?utm_campaign=Consultant&utm_source=1103)** | Akron, OH | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/6917c5aa45fb6f5ead89e875?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | Hybrid | Jan 01 |
 | ↳ | **[Management Consultant -  Asset Management](https://jobright.ai/jobs/info/691676166f36db06ef056c3d?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Jan 01 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Consultant Database Analyst](https://jobright.ai/jobs/info/694967aa63141d18845900c8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Jan 01 |
@@ -256,6 +258,4 @@ For a complete list, click the following sortable link below:
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Associate Project Consultant, Building Technology](https://jobright.ai/jobs/info/68fae2308d32c164778cc45c?utm_campaign=Consultant&utm_source=1103)** | Waltham, MA | On Site | Dec 28 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/68dec8cda125e75c422b66fc?utm_campaign=Consultant&utm_source=1103)** | Garden City, NY | On Site | Dec 28 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/694347b050bbaf7650552d50?utm_campaign=Consultant&utm_source=1103)** | Wellington, FL, 33414 | On Site | Dec 27 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant- Washington](https://jobright.ai/jobs/info/690d5a424a1b456627b20b1b?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Dec 27 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69350e97a0dde7020e2f73f7?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
