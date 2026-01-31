@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[84.51˚](http://8451.com/)** | **[Data Scientist, Client Consulting (P1957)](https://jobright.ai/jobs/info/697d3751727747250d580636?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Jan 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/697d2d5a137a051025663389?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester - Miami, FL](https://jobright.ai/jobs/info/697d2872727747250d57e81d?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Jan 30 |
 | **[Procurify](https://www.procurify.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/697d2596137a051025662056?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 30 |
@@ -67,13 +68,14 @@ For a complete list, click the following sortable link below:
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/69614e3de7ed9a5731ba16e0?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, WI | Hybrid | Jan 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/697d157c137a051025660b5b?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Jan 30 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant l (Entry Level) onsite CAMP DENALI* Alaska](https://jobright.ai/jobs/info/6905cf7963502c0aded7e37f?utm_campaign=Consultant&utm_source=1103)** | Joint Base Elmendorf Richardson, AK | On Site | Jan 30 |
+| **[Advanced Business Solutions](http://advanced-businessinc.com)** | **[Business-to Business Sales Consultant](https://jobright.ai/jobs/info/697d3b21727747250d580b24?utm_campaign=Consultant&utm_source=1103)** | Lubbock, TX | On Site | Jan 30 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman Actuarial Consulting - Analyst, Health Practice](https://jobright.ai/jobs/info/69614b32f3f4cd13250645d9?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Arcadis](http://www.arcadis.com)** | **[Design Consultant - Architectural Controls](https://jobright.ai/jobs/info/697cece8727747250d579932?utm_campaign=Consultant&utm_source=1103)** | 10120 103 Avenue, Suite 300, Edmonton, AB, T5J 3R6, CA | Hybrid | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/693254a7764507023d1ad34d?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Jan 30 |
 | ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6932596bf131d96e4845b6c3?utm_campaign=Consultant&utm_source=1103)** | St Paul, MN | On Site | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Y-Risk Actuarial Consultant](https://jobright.ai/jobs/info/697ce856727747250d5792e8?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Jan 30 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6932448fa0dde7020e2e4f2f?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Jan 30 |
-| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69324467a0dde7020e2e4f08?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Jan 30 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69324467a0dde7020e2e4f08?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Jan 30 |
+| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6932448fa0dde7020e2e4f2f?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Y-Risk Actuarial Consultant](https://jobright.ai/jobs/info/697ce35e3f57a33569668d1d?utm_campaign=Consultant&utm_source=1103)** | Unionville, CT | Hybrid | Jan 30 |
 | ↳ | **[Consultant Performance Analytics](https://jobright.ai/jobs/info/697ce0943f57a33569668b4a?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Jan 30 |
 | ↳ | **[Consultant Performance Analytics](https://jobright.ai/jobs/info/697ce02f3f57a33569668b0a?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Jan 30 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Deloitte](https://www2.deloitte.com)** | **[Functional Consultant, Technology & Transformation - Future of Service (CCaaS)](https://jobright.ai/jobs/info/697be1b91423772304ec21ec?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 29 |
 | **[Empower](https://www.empower.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/695fc6757ebc25398eb5a79d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Jan 29 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant – Retirement Benefits Group](https://jobright.ai/jobs/info/697be4e00b88cc7d6422c89a?utm_campaign=Consultant&utm_source=1103)** | LA Metro Area | On Site | Jan 29 |
-| **[Aire Serv Heating and Air Conditioning®](http://www.aireserv.com/)** | **[Comfort Design Consultant](https://jobright.ai/jobs/info/697beae50b88cc7d6422d147?utm_campaign=Consultant&utm_source=1103)** | Columbia, MO | On Site | Jan 29 |
-| ↳ | **[Comfort Design Consultant](https://jobright.ai/jobs/info/697be7cd1136d179eeef8327?utm_campaign=Consultant&utm_source=1103)** | Jefferson City, MO | On Site | Jan 29 |
+| **[Aire Serv Heating and Air Conditioning®](http://www.aireserv.com/)** | **[Comfort Design Consultant](https://jobright.ai/jobs/info/697be7cd1136d179eeef8327?utm_campaign=Consultant&utm_source=1103)** | Jefferson City, MO | On Site | Jan 29 |
+| ↳ | **[Comfort Design Consultant](https://jobright.ai/jobs/info/697beae50b88cc7d6422d147?utm_campaign=Consultant&utm_source=1103)** | Columbia, MO | On Site | Jan 29 |
 | **[Dream Finders Homes](https://www.dreamfindershomes.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/697bebe80b88cc7d6422d346?utm_campaign=Consultant&utm_source=1103)** | Mount Pleasant, SC | On Site | Jan 29 |
 | **[TopBloc](http://topbloc.com/)** | **[Workday Recruiting Consultant](https://jobright.ai/jobs/info/6899c92a83d13d1f5b694583?utm_campaign=Consultant&utm_source=1103)** | United States | Hybrid | Jan 29 |
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Planning Consultant](https://jobright.ai/jobs/info/697bdbe91423772304ec144b?utm_campaign=Consultant&utm_source=1103)** | Nationwide Remote | Remote | Jan 29 |
@@ -406,5 +408,4 @@ For a complete list, click the following sortable link below:
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Remote Travel Consultant -Sabre Experience](https://jobright.ai/jobs/info/6958d74eaa05c26e7ab2b747?utm_campaign=Consultant&utm_source=1103)** | New York, United States | Remote | Jan 24 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/691f736109cc522e877416be?utm_campaign=Consultant&utm_source=1103)** | Buford, GA | On Site | Jan 24 |
 | **[Lochridge-Priest, Inc.](https://lochridgepriest.com/)** | **[Comfort Consultant / Advisor](https://jobright.ai/jobs/info/6974996dbc8e722e7b19af36?utm_campaign=Consultant&utm_source=1103)** | Waco, TX | On Site | Jan 24 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate – Financial Services Risk and Controls Consulting](https://jobright.ai/jobs/info/697b295e1136d179eeee8ca2?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
