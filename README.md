@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69821f31c3101f1400c3c387?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 03 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69821db4a314e76369057683?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 03 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Oracle Fusion Financials Consultant](https://jobright.ai/jobs/info/698217960f6f7e7a2cdb372e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 03 |
+| **[Moneris](http://www.moneris.com)** | **[Business Development Consultant](https://jobright.ai/jobs/info/698213f70f6f7e7a2cdb3511?utm_campaign=Consultant&utm_source=1103)** | British Columbia Virtual | Hybrid | Feb 03 |
 | **[Empower](https://www.empower.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69820e13c3101f1400c3b9c1?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 03 |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/698220360f6f7e7a2cdb3c39?utm_campaign=Consultant&utm_source=1103)** | Merrimack, NH, 03054 | On Site | Feb 03 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[VOCATIONAL REHAB BUSINESS EMPLOYMENT CONSULTANT - 02032026-74891](https://jobright.ai/jobs/info/698200b3c3101f1400c3b008?utm_campaign=Consultant&utm_source=1103)** | Rutherford County, TN | On Site | Feb 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6949decb7d506e3808f4fb9e?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Feb 03 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst or Consultant, Insurance Solutions](https://jobright.ai/jobs/info/696582d3a112b402661376e4?utm_campaign=Consultant&utm_source=1103)** | Winnipeg, Manitoba, Canada | Hybrid | Feb 03 |
 | **[Datavant](https://datavant.com)** | **[Profee Coding Consultant (Surgery Coding)](https://jobright.ai/jobs/info/6949ff97c6f0e2546ceedde6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 03 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I - Float](https://jobright.ai/jobs/info/69661b657a34f5392054ab59?utm_campaign=Consultant&utm_source=1103)** | Strongsville, OH | On Site | Feb 03 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Cherry Creek, CO](https://jobright.ai/jobs/info/6965f2185ad3a93f82315864?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Feb 03 |
@@ -77,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69815acd49964d25b5e44f14?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/698159b07f40342e15da5c43?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/698156c6abff4c399aa04dd5?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6981560f7f40342e15da5874?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | **[Sun Tan City](http://www.suntancity.com)** | **[Wellness Consultant Part Time](https://jobright.ai/jobs/info/6981560449964d25b5e4494a?utm_campaign=Consultant&utm_source=1103)** | Kokomo, IN 46902 | On Site | Feb 02 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6981534e49964d25b5e44703?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6981530eabff4c399aa04b97?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
@@ -113,17 +118,15 @@ For a complete list, click the following sortable link below:
 | **[Kognitiv Inc.](https://www.kognitivinc.com)** | **[Associate Workday Consultant - HCM and Financials](https://jobright.ai/jobs/info/69812b147f40342e15da1285?utm_campaign=Consultant&utm_source=1103)** | Canada | Remote | Feb 02 |
 | **[WECU](http://www.wecu.com)** | **[Service Consultant](https://jobright.ai/jobs/info/69812fb3abff4c399aa015a0?utm_campaign=Consultant&utm_source=1103)** | Lynden, WA, US | On Site | Feb 02 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69814c6c7f40342e15da4fb1?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (Henrico/West End) | On Site | Feb 02 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69815345abff4c399aa04bc0?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Feb 02 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/698128147f40342e15da099c?utm_campaign=Consultant&utm_source=1103)** | Austin, TX (South) | On Site | Feb 02 |
+| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69815345abff4c399aa04bc0?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA (West End) | On Site | Feb 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6981009d7f40342e15d9d958?utm_campaign=Consultant&utm_source=1103)** | Maitland, FL, 32751 | On Site | Feb 02 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant -SIE & Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/698124c0abff4c399a9ff9d9?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 02 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Developmental Disabilities Surveyor Consultant-Public Health Licensing](https://jobright.ai/jobs/info/698129dd7f40342e15da0ea9?utm_campaign=Consultant&utm_source=1103)** | Lincoln, NE | On Site | Feb 02 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/6980f2ecabff4c399a9fc076?utm_campaign=Consultant&utm_source=1103)** | Manchester, MO | On Site | Feb 02 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6980dabbabff4c399a9f9735?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
-| ↳ | **[Remote Entry-Level Consulting Specialist](https://jobright.ai/jobs/info/6980d837abff4c399a9f9435?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6980cafa7f40342e15d99455?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6980cad5abff4c399a9f8a1a?utm_campaign=Consultant&utm_source=1103)** | Oklahoma City, OK | On Site | Feb 02 |
-| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6980c0d77f40342e15d98c73?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/6980e02649964d25b5e39787?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
+| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6980c0d77f40342e15d98c73?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | **[Artefact](https://artefact.com/)** | **[Data Consultant - Junior (New)](https://jobright.ai/jobs/info/6980c0c77f40342e15d98c68?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6980c0a149964d25b5e381d7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6980c0687f40342e15d98c2e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 02 |
@@ -155,7 +158,6 @@ For a complete list, click the following sortable link below:
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6952aefd5bb7de448ef5c934?utm_campaign=Consultant&utm_source=1103)** | Bethesda, Maryland, United States | On Site | Jan 31 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant ($2,500 Sign On Bonus)](https://jobright.ai/jobs/info/691ccbf722a2cb4b9bd1d453?utm_campaign=Consultant&utm_source=1103)** | Doral, FL, 33166 | On Site | Jan 31 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/697a5211a5b9804527e02598?utm_campaign=Consultant&utm_source=1103)** | DURHAM, NC, 27701 | On Site | Jan 31 |
-| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Sabre Travel Consultant](https://jobright.ai/jobs/info/696268da25e18715077f478b?utm_campaign=Consultant&utm_source=1103)** | Canada | Remote | Jan 31 |
 | **[One Pacific Financial Strategies](https://www.onepacificfs.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/697e6b65ce48107c05429b64?utm_campaign=Consultant&utm_source=1103)** | Carlsbad, CA | Hybrid | Jan 31 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/697e6a7e7f40342e15d73a73?utm_campaign=Consultant&utm_source=1103)** | Brea, CA | Hybrid | Jan 31 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Consultant / Senior Consultant - Monitor Deloitte](https://jobright.ai/jobs/info/697e3b9cabff4c399a9d0782?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 31 |
@@ -296,7 +298,6 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2fa71f0d9af73038ddb40?utm_campaign=Consultant&utm_source=1103)** | Iselin, NJ | Hybrid | Jan 29 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Consultant Relations Associate - Institutional Relationship Management & Business Development](https://jobright.ai/jobs/info/68f946e5a628d10664e8b633?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Jan 29 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Strategy Value Creation & Analytics - New Grad (2026)](https://jobright.ai/jobs/info/69743d46206da320f49e62b7?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 29 |
-| ↳ | **[Consultant, Risk Advisory Services - September 2026 (New Grad)](https://jobright.ai/jobs/info/697b9c0d1136d179eeef2831?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 29 |
 | ↳ | **[Consultant, Risk Advisory Services - September 2026 (New Grad)](https://jobright.ai/jobs/info/697b99931136d179eeef2727?utm_campaign=Consultant&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 29 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2f51f17554c2d9eeec0af?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Jan 29 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/697b940d1423772304ebb31b?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD | On Site | Jan 29 |
@@ -322,14 +323,13 @@ For a complete list, click the following sortable link below:
 | **[Tates Rents Inc](http://www.tatesrents.com/)** | **[Rental Consultant](https://jobright.ai/jobs/info/697c594c3f57a3356966084e?utm_campaign=Consultant&utm_source=1103)** | Boise, ID | On Site | Jan 28 |
 | **[Ridgeline](https://ridgelineapps.com)** | **[Associate Technical Consultant](https://jobright.ai/jobs/info/695ebfba08ab990f282a09a2?utm_campaign=Consultant&utm_source=1103)** | Reno, NV | On Site | Jan 28 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/695f069aa112b402660dbe02?utm_campaign=Consultant&utm_source=1103)** | Southlake, TX | On Site | Jan 28 |
-| **[Capco](http://www.capco.com)** | **[2026 Associate Talent Program (ATP) - Business Consulting](https://jobright.ai/jobs/info/6968741e1703f05405aa2be4?utm_campaign=Consultant&utm_source=1103)** | Canada - Toronto | Hybrid | Jan 28 |
 | **[Zendesk](http://zendesk.com)** | **[Junior Associate Solutions Consultant](https://jobright.ai/jobs/info/6971a6a551f726477184048b?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Jan 28 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[51700 - DESIGN CONSULTANT](https://jobright.ai/jobs/info/695f18f2a112b402660ddfc3?utm_campaign=Consultant&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 28 |
 | **[Optum](https://www.optum.com/)** | **[Advisory Services Consultant - Epic Trainer](https://jobright.ai/jobs/info/697ab8a78dbbf73badc80881?utm_campaign=Consultant&utm_source=1103)** | Owensboro, KY | Hybrid | Jan 28 |
-| **[Osaic](https://osaic.com/)** | **[Transitions Consultant](https://jobright.ai/jobs/info/697adcab1423772304eac0af?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | Remote | Jan 28 |
-| ↳ | **[Transitions Consultant](https://jobright.ai/jobs/info/697ae72517b11b1c2e41bb29?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Remote | Jan 28 |
-| ↳ | **[Transitions Consultant](https://jobright.ai/jobs/info/697af42617b11b1c2e41d6f7?utm_campaign=Consultant&utm_source=1103)** | Oakdale, MN | Remote | Jan 28 |
+| **[Osaic](https://osaic.com/)** | **[Transitions Consultant](https://jobright.ai/jobs/info/697af42617b11b1c2e41d6f7?utm_campaign=Consultant&utm_source=1103)** | Oakdale, MN | Remote | Jan 28 |
 | ↳ | **[Transitions Consultant](https://jobright.ai/jobs/info/697af288c532c4768fe0be2b?utm_campaign=Consultant&utm_source=1103)** | La Vista | Remote | Jan 28 |
+| ↳ | **[Transitions Consultant](https://jobright.ai/jobs/info/697ae72517b11b1c2e41bb29?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Remote | Jan 28 |
+| ↳ | **[Transitions Consultant](https://jobright.ai/jobs/info/697adcab1423772304eac0af?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | Remote | Jan 28 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Solutions Consultant (B2B Outside Sales)](https://jobright.ai/jobs/info/697ab3a59d60e431a16c554f?utm_campaign=Consultant&utm_source=1103)** | Fort Collins, CO | On Site | Jan 28 |
 | **[Sia Experience](https://www.siaxperience.com)** | **[Financial Services Strategy Consultant](https://jobright.ai/jobs/info/697af29f1423772304eaeb72?utm_campaign=Consultant&utm_source=1103)** | 48 Wall St, New York, NY 10005, USA | Hybrid | Jan 28 |
 | **[Trucordia](http://www.pcfoy.com/)** | **[Payroll & HR Solutions Consultant](https://jobright.ai/jobs/info/697ace149d60e431a16c750a?utm_campaign=Consultant&utm_source=1103)** | Lindon, UT, USA | On Site | Jan 28 |
@@ -371,8 +371,4 @@ For a complete list, click the following sortable link below:
 | **[Scan Design of Florida Inc](https://www.scandesign.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/69797287ca92cf0d6a829595?utm_campaign=Consultant&utm_source=1103)** | Naples, FL | On Site | Jan 27 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant - NOVA](https://jobright.ai/jobs/info/6979f127a8de441ca7351969?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA, 22202 | On Site | Jan 27 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6979c8bd0791bc1d72308c71?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Jan 27 |
-| **[Paycor](http://www.paycor.com)** | **[Implementation Consultant - Payroll](https://jobright.ai/jobs/info/69798d5e0791bc1d72303bf6?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Jan 27 |
-| **[Snap Inc.](https://careers.snap.com/)** | **[Technical Advertiser Solutions Consultant I](https://jobright.ai/jobs/info/695da8f5fbd62a0a65665e6b?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Jan 27 |
-| **[FISPAN](http://www.fispan.com)** | **[Product Consultant](https://jobright.ai/jobs/info/69796a9288e2b47213bdb3b6?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 27 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate – Tax Data & Process Consulting](https://jobright.ai/jobs/info/697964e352f3c27ec645db0f?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
