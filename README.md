@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Analyst Implementation - 1898 & Co., Tech Consulting (Newton / Wallingford)](https://jobright.ai/jobs/info/69850ad1348f733a5c39278c?utm_campaign=Consultant&utm_source=1103)** | Wallingford, CT | On Site | Feb 05 |
+| **[Lake Partners Strategy Consultants](http://www.lakepartners.com)** | **[Entry Level Strategy Consulting Analyst](https://jobright.ai/jobs/info/698504c70f6f7e7a2cdf7dfd?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Feb 05 |
 | **[Summit 7](https://www.summit7.us/)** | **[Microsoft 365 Consultant](https://jobright.ai/jobs/info/6984fce4348f733a5c39185c?utm_campaign=Consultant&utm_source=1103)** | Huntsville, AL | Remote | Feb 05 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Growth Consultant - Virtual-1](https://jobright.ai/jobs/info/6984e6108da7a612045f3113?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Remote | Feb 05 |
 | **[California Closets](https://www.californiaclosets.com)** | **[Sales and Design Consultant](https://jobright.ai/jobs/info/6984db330f6f7e7a2cdf54dd?utm_campaign=Consultant&utm_source=1103)** | Southlake, TX | On Site | Feb 05 |
@@ -337,10 +339,10 @@ For a complete list, click the following sortable link below:
 | **[Dynamic EcoHome](https://www.dynamicslr.com)** | **[Virtual Consultant](https://jobright.ai/jobs/info/697d53933f57a33569671d8a?utm_campaign=Consultant&utm_source=1103)** | Richardson, TX | Hybrid | Jan 30 |
 | **[CWTSatoTravel](http://cwtsatotravel.com)** | **[Defense and Government Travel Consultant l (Entry Level) onsite CAMP DENALI* Alaska](https://jobright.ai/jobs/info/6905cf7963502c0aded7e37f?utm_campaign=Consultant&utm_source=1103)** | Joint Base Elmendorf Richardson, AK | On Site | Jan 30 |
 | **[Advanced Business Solutions](http://advanced-businessinc.com)** | **[Business-to Business Sales Consultant](https://jobright.ai/jobs/info/697d3b21727747250d580b24?utm_campaign=Consultant&utm_source=1103)** | Lubbock, TX | On Site | Jan 30 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Client Project Consulting Associate – Health & Benefits](https://jobright.ai/jobs/info/69826bf1348f733a5c354075?utm_campaign=Consultant&utm_source=1103)** | Portland - SW Columbia | Hybrid | Jan 30 |
+| **[Mercer Company](https://mercer-company.com/)** | **[Client Project Consulting Associate – Health & Benefits](https://jobright.ai/jobs/info/69826b12348f733a5c353e7b?utm_campaign=Consultant&utm_source=1103)** | Irvine - Von Karman | Hybrid | Jan 30 |
 | ↳ | **[Client Project Consulting Associate – Health & Benefits](https://jobright.ai/jobs/info/6982701c0f6f7e7a2cdba1fe?utm_campaign=Consultant&utm_source=1103)** | San Francisco - Embarcadero | Hybrid | Jan 30 |
-| ↳ | **[Client Project Consulting Associate – Health & Benefits](https://jobright.ai/jobs/info/69826b12348f733a5c353e7b?utm_campaign=Consultant&utm_source=1103)** | Irvine - Von Karman | Hybrid | Jan 30 |
 | ↳ | **[Client Project Consulting Associate – Health & Benefits](https://jobright.ai/jobs/info/6982797c0f6f7e7a2cdbb5b6?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Jan 30 |
+| ↳ | **[Client Project Consulting Associate – Health & Benefits](https://jobright.ai/jobs/info/69826bf1348f733a5c354075?utm_campaign=Consultant&utm_source=1103)** | Portland - SW Columbia | Hybrid | Jan 30 |
 | **[Arcadis](http://www.arcadis.com)** | **[Design Consultant - Architectural Controls](https://jobright.ai/jobs/info/697cece8727747250d579932?utm_campaign=Consultant&utm_source=1103)** | 10120 103 Avenue, Suite 300, Edmonton, AB, T5J 3R6, CA | Hybrid | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/693254a7764507023d1ad34d?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | On Site | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Y-Risk Actuarial Consultant](https://jobright.ai/jobs/info/697ce856727747250d5792e8?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Jan 30 |
@@ -356,6 +358,4 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/68f0b88033489f7bb1c18a15?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, NY | On Site | Jan 30 |
 | **[Simpson Gumpertz & Heger (SGH)](http://www.sgh.com)** | **[Project Consultant](https://jobright.ai/jobs/info/68d18c72cece431f8b585010?utm_campaign=Consultant&utm_source=1103)** | Newport Beach, CA | On Site | Jan 30 |
 | **[Visa](https://www.visa.com)** | **[Associate Consulting Analyst, VCA](https://jobright.ai/jobs/info/6972d1271d55d64a20533057?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 29 |
-| **[Icertis](https://www.icertis.com)** | **[Associate Consultant, US Government SaaS Implementations](https://jobright.ai/jobs/info/6980517eabff4c399a9f1475?utm_campaign=Consultant&utm_source=1103)** | VA, United States | On Site | Jan 29 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/697c48791423772304ecbe1f?utm_campaign=Consultant&utm_source=1103)** | Tinley Park, IL | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
