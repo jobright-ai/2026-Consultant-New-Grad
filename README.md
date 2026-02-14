@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/68cf7f6ffb49c96ca6ea8f84?utm_campaign=Consultant&utm_source=1103)** | Newington, CT | On Site | Feb 13 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/698fdbde0f6f7e7a2cec222e?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH, US | Hybrid | Feb 13 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/699000d00cc8ea15f1da98d4?utm_campaign=Consultant&utm_source=1103)** | Virginia Beach, VA | Remote | Feb 13 |
-| **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/698ff0946ea51a7610f2534f?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 13 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/698fe3316ea51a7610f24843?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 13 |
+| **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/698fe3316ea51a7610f24843?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 13 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/698ff0946ea51a7610f2534f?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 13 |
 | **[HCLTech](https://www.hcltech.com/)** | **[Enterprise Resources Planning Consultant](https://jobright.ai/jobs/info/698fa3ff6ea51a7610f20d1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 13 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Consultant (Training Provided)](https://jobright.ai/jobs/info/698fd1520f6f7e7a2cec1c16?utm_campaign=Consultant&utm_source=1103)** | Saint Cloud, MN | Hybrid | Feb 13 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Consultant, Market Access](https://jobright.ai/jobs/info/698f97cf0f6f7e7a2cebdd87?utm_campaign=Consultant&utm_source=1103)** | New York, NY, USA | On Site | Feb 13 |
@@ -290,8 +290,8 @@ For a complete list, click the following sortable link below:
 | **[Public Sector Consultants](http://publicsectorconsultants.com)** | **[Consultant](https://jobright.ai/jobs/info/698bf3880f6f7e7a2ce77611?utm_campaign=Consultant&utm_source=1103)** | Lansing, MI | Hybrid | Feb 10 |
 | ↳ | **[Consultant](https://jobright.ai/jobs/info/698c0a23e4f6572f0e440389?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | Hybrid | Feb 10 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698be14006d9b06224960d4a?utm_campaign=Consultant&utm_source=1103)** | Woodlawn, VA | On Site | Feb 10 |
-| ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698bd40f0f6f7e7a2ce74a1e?utm_campaign=Consultant&utm_source=1103)** | Lebanon, VA | On Site | Feb 10 |
 | ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698bf1f206d9b0622496258a?utm_campaign=Consultant&utm_source=1103)** | Norfolk, VA | On Site | Feb 10 |
+| ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698bd40f0f6f7e7a2ce74a1e?utm_campaign=Consultant&utm_source=1103)** | Lebanon, VA | On Site | Feb 10 |
 | **[Sogeti](https://www.sogeti.no/)** | **[Associate Consultant - College Hire Program](https://jobright.ai/jobs/info/698bc9d5c5761b521a9b5950?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas Metropolitan Area | Hybrid | Feb 10 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Oracle Core HR Consultant](https://jobright.ai/jobs/info/698bd522c5761b521a9b6496?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 10 |
 | **[NewGen Strategies & Solutions](https://newgenstrategies.net)** | **[Financial Analyst / Utilities Consultant](https://jobright.ai/jobs/info/698ba9180f6f7e7a2ce723df?utm_campaign=Consultant&utm_source=1103)** | Richardson, TX | Hybrid | Feb 10 |
