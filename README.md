@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Consulting and Financial Services](https://jobright.ai/jobs/info/699160376ea51a7610f3c0f1?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Feb 14 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/699135b80cc8ea15f1dbc8fa?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 14 |
 | **[Agicap](https://agicap.com)** | **[Implementation Consultant - USA Market](https://jobright.ai/jobs/info/699132cb0cc8ea15f1dbc786?utm_campaign=Consultant&utm_source=1103)** | Austin, CO | On Site | Feb 14 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/697a5211a5b9804527e02598?utm_campaign=Consultant&utm_source=1103)** | DURHAM, NC, 27701 | On Site | Feb 14 |
@@ -166,8 +167,8 @@ For a complete list, click the following sortable link below:
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/698e8c290f6f7e7a2ceaabc5?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC (Steele Creek) | On Site | Feb 12 |
 | **[loanDepot](http://www.loandepot.com)** | **[Internal Loan Consultant](https://jobright.ai/jobs/info/698e9da978b4502f12a576bb?utm_campaign=Consultant&utm_source=1103)** | Windsor, Colorado | On Site | Feb 12 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Mental Health Consultant - PRN - AAMC](https://jobright.ai/jobs/info/698e5de1f64d441a165090a8?utm_campaign=Consultant&utm_source=1103)** | Annapolis, MD | On Site | Feb 12 |
-| **[Piper Sandler](https://www.pipersandler.com/)** | **[Business Consultant](https://jobright.ai/jobs/info/698e8ffef64d441a1650d99d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Feb 12 |
-| ↳ | **[Business Consultant](https://jobright.ai/jobs/info/698e89540f6f7e7a2ceaa9c8?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN - HQ | Hybrid | Feb 12 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Business Consultant](https://jobright.ai/jobs/info/698e89540f6f7e7a2ceaa9c8?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN - HQ | Hybrid | Feb 12 |
+| ↳ | **[Business Consultant](https://jobright.ai/jobs/info/698e8ffef64d441a1650d99d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Feb 12 |
 | **[ERM](http://www.erm.com/)** | **[Consulting Senior Associate, Scientist, Permit Coordinator](https://jobright.ai/jobs/info/69729c664ccbf64f8df29de2?utm_campaign=Consultant&utm_source=1103)** | Walnut Creek, CA | Hybrid | Feb 12 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Oliver Wyman- Temporary Consultant](https://jobright.ai/jobs/info/698e76f378b4502f12a548d2?utm_campaign=Consultant&utm_source=1103)** | New York - 1166 | Hybrid | Feb 12 |
 | **[Microsoft](https://www.microsoft.com)** | **[Power Platform Technology Consultant-CTJ-Top Secret](https://jobright.ai/jobs/info/6984fc260f6f7e7a2cdf7419?utm_campaign=Consultant&utm_source=1103)** | Springfield, MO | On Site | Feb 12 |
@@ -228,8 +229,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Client Relationship Consultant 1](https://jobright.ai/jobs/info/698d45a9f64d441a164f4b4d?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Feb 11 |
 | **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d442d0f6f7e7a2ce91677?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[Famous Supply](http://famous-supply.com)** | **[Windows and Doors Showroom Consultant](https://jobright.ai/jobs/info/698d42cc78b4502f12a3dd66?utm_campaign=Consultant&utm_source=1103)** | Bedford, OH | On Site | Feb 11 |
-| **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d6a9778b4502f12a4139c?utm_campaign=Consultant&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 11 |
-| ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d786bf64d441a164f8f66?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Feb 11 |
+| **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d786bf64d441a164f8f66?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Feb 11 |
+| ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d6a9778b4502f12a4139c?utm_campaign=Consultant&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 11 |
 | ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d696af64d441a164f727c?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | Hybrid | Feb 11 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[Life & Health Insurance Forms Consultant](https://jobright.ai/jobs/info/698d25f60f6f7e7a2ce8e94b?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Hybrid | Feb 11 |
 | **[BD](https://www.bd.com)** | **[Infusion Contracts Consultant](https://jobright.ai/jobs/info/698d1b270f6f7e7a2ce8d50e?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Feb 11 |
@@ -268,6 +269,7 @@ For a complete list, click the following sortable link below:
 | **[Uptown Cheapskate](http://uptowncheapskate.com)** | **[Fashion Consultant](https://jobright.ai/jobs/info/698cb63f78b4502f12a33103?utm_campaign=Consultant&utm_source=1103)** | Salisbury, MD | On Site | Feb 11 |
 | **[Empower](https://www.empower.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/698c914d78b4502f12a3113c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 11 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Consultant - SAP, Oracle, Tax Technology - R8dius](https://jobright.ai/jobs/info/691cac38ff70244984169400?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Remote | Feb 11 |
+| **[Visa](https://www.visa.com)** | **[Client Consulting Analyst](https://jobright.ai/jobs/info/699160660cc8ea15f1dc05c6?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA, US | Hybrid | Feb 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/69704fbf333b6343a14cbd78?utm_campaign=Consultant&utm_source=1103)** | Eureka, CA | On Site | Feb 11 |
 | **[Closets By Design](https://www.closetsbydesign.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/698c7453f64d441a164e6604?utm_campaign=Consultant&utm_source=1103)** | Elgin, SC | Hybrid | Feb 11 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/698c02400f6f7e7a2ce79210?utm_campaign=Consultant&utm_source=1103)** | Modesto, CA | Hybrid | Feb 11 |
@@ -375,5 +377,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68cc94c97342c7623ae66bf9?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | On Site | Feb 08 |
 | **[CCS Fundraising](https://ccsfundraising.com/)** | **[Consultant – San Francisco Bay Area](https://jobright.ai/jobs/info/6917d940bcdbf3560c9cbfc8?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 08 |
 | **[Excelacom](http://www.excelacom.com)** | **[Business Technology Consultant - Telecom & Media](https://jobright.ai/jobs/info/691e4b4e3f782d2f1afb386f?utm_campaign=Consultant&utm_source=1103)** | Greenwood Village, CO | On Site | Feb 08 |
-| **[Specsavers](https://www.specsavers.co.uk)** | **[Eyecare Consultant (Part Time)](https://jobright.ai/jobs/info/691759c73ea85638ae1c9f61?utm_campaign=Consultant&utm_source=1103)** | Cranbrook, British Columbia, Canada | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
