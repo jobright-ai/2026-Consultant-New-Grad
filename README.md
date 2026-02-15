@@ -228,8 +228,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Client Relationship Consultant 1](https://jobright.ai/jobs/info/698d45a9f64d441a164f4b4d?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | On Site | Feb 11 |
 | **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d442d0f6f7e7a2ce91677?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[Famous Supply](http://famous-supply.com)** | **[Windows and Doors Showroom Consultant](https://jobright.ai/jobs/info/698d42cc78b4502f12a3dd66?utm_campaign=Consultant&utm_source=1103)** | Bedford, OH | On Site | Feb 11 |
-| **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d6a9778b4502f12a4139c?utm_campaign=Consultant&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 11 |
-| ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d786bf64d441a164f8f66?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Feb 11 |
+| **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d786bf64d441a164f8f66?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Feb 11 |
+| ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d6a9778b4502f12a4139c?utm_campaign=Consultant&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 11 |
 | ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d696af64d441a164f727c?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | Hybrid | Feb 11 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[Life & Health Insurance Forms Consultant](https://jobright.ai/jobs/info/698d25f60f6f7e7a2ce8e94b?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Hybrid | Feb 11 |
 | **[BD](https://www.bd.com)** | **[Infusion Contracts Consultant](https://jobright.ai/jobs/info/698d1b270f6f7e7a2ce8d50e?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | Feb 11 |
