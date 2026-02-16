@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/69925d636ea51a7610f47c06?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Feb 15 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69924ac96ea51a7610f4742e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 15 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69924aa66ea51a7610f47404?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 15 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Financial Services Consultant](https://jobright.ai/jobs/info/699243a10cc8ea15f1dcb24b?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Feb 15 |
@@ -316,8 +317,8 @@ For a complete list, click the following sortable link below:
 | **[Public Sector Consultants](http://publicsectorconsultants.com)** | **[Consultant](https://jobright.ai/jobs/info/698bf3880f6f7e7a2ce77611?utm_campaign=Consultant&utm_source=1103)** | Lansing, MI | Hybrid | Feb 10 |
 | ↳ | **[Consultant](https://jobright.ai/jobs/info/698c0a23e4f6572f0e440389?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | Hybrid | Feb 10 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698be14006d9b06224960d4a?utm_campaign=Consultant&utm_source=1103)** | Woodlawn, VA | On Site | Feb 10 |
-| ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698bf1f206d9b0622496258a?utm_campaign=Consultant&utm_source=1103)** | Norfolk, VA | On Site | Feb 10 |
 | ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698bd40f0f6f7e7a2ce74a1e?utm_campaign=Consultant&utm_source=1103)** | Lebanon, VA | On Site | Feb 10 |
+| ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/698bf1f206d9b0622496258a?utm_campaign=Consultant&utm_source=1103)** | Norfolk, VA | On Site | Feb 10 |
 | **[Sogeti](https://www.sogeti.no/)** | **[Associate Consultant - College Hire Program](https://jobright.ai/jobs/info/698bc9d5c5761b521a9b5950?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas Metropolitan Area | Hybrid | Feb 10 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Oracle Core HR Consultant](https://jobright.ai/jobs/info/698bd522c5761b521a9b6496?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 10 |
 | **[NewGen Strategies & Solutions](https://newgenstrategies.net)** | **[Financial Analyst / Utilities Consultant](https://jobright.ai/jobs/info/698ba9180f6f7e7a2ce723df?utm_campaign=Consultant&utm_source=1103)** | Richardson, TX | Hybrid | Feb 10 |
@@ -369,8 +370,8 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Learning and Development Consultant](https://jobright.ai/jobs/info/698aa7d90f6f7e7a2ce5dd73?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | Feb 09 |
 | ↳ | **[Learning and Development Consultant](https://jobright.ai/jobs/info/698aac924db8972cec00091a?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Feb 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/698a7d6a4db8972cecffd038?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, NY | On Site | Feb 09 |
-| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/698a9b740f6f7e7a2ce5d07d?utm_campaign=Consultant&utm_source=1103)** | Longo Toyota | On Site | Feb 09 |
-| ↳ | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/698aa0384db8972cecfffb31?utm_campaign=Consultant&utm_source=1103)** | US-CA-El Monte | On Site | Feb 09 |
+| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/698aa0384db8972cecfffb31?utm_campaign=Consultant&utm_source=1103)** | US-CA-El Monte | On Site | Feb 09 |
+| ↳ | **[Longo Toyota Express Service Consultant](https://jobright.ai/jobs/info/698a9b740f6f7e7a2ce5d07d?utm_campaign=Consultant&utm_source=1103)** | Longo Toyota | On Site | Feb 09 |
 | **[Intel Corporation](http://www.intel.com)** | **[Learning and Development Consultant](https://jobright.ai/jobs/info/698a738fc5761b521a99ac6f?utm_campaign=Consultant&utm_source=1103)** | US, Arizona, Phoenix | On Site | Feb 09 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/698a7168c5761b521a99a8e9?utm_campaign=Consultant&utm_source=1103)** | Plymouth, MA, 02360 | On Site | Feb 09 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/6968b0a4f25a380066973bad?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Feb 09 |
