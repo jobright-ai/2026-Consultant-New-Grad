@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/699485fe81476f6176ac4b64?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 17 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/699482e4ce78e77b4fd88245?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 17 |
+| **[Simple Higher Ed](http://simplesyllabus.com/)** | **[Implementations Consultant](https://jobright.ai/jobs/info/699481eae0bddb6acac2f1df?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Feb 17 |
 | **[First Residential Independent Mortgage](firstresidential.com)** | **[Credit Consultant - Springfield, MO](https://jobright.ai/jobs/info/6978420b52f3c27ec6447f04?utm_campaign=Consultant&utm_source=1103)** | Springfield, MO | On Site | Feb 17 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant](https://jobright.ai/jobs/info/696b13b6db26b618950e8db6?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Feb 17 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/69944e19e0bddb6acac2b1ac?utm_campaign=Consultant&utm_source=1103)** | DENVER, CO, 80216 | On Site | Feb 17 |
@@ -95,14 +98,13 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/69938dcce0bddb6acac1d4cd?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Feb 16 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/68cf7f6ffb49c96ca6ea8f84?utm_campaign=Consultant&utm_source=1103)** | Newington, CT | On Site | Feb 16 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/6993659ece78e77b4fd73a43?utm_campaign=Consultant&utm_source=1103)** | Greenville, SC | On Site | Feb 16 |
-| **[DXC Technology](https://www.dxc.com)** | **[ETP Business Consultant](https://jobright.ai/jobs/info/6993a76bce78e77b4fd77b2e?utm_campaign=Consultant&utm_source=1103)** | USA - NY - ANY CITY | On Site | Feb 16 |
-| ↳ | **[ETP Business Consultant](https://jobright.ai/jobs/info/6993a11481476f6176ab371f?utm_campaign=Consultant&utm_source=1103)** | USA - MD - ANY CITY | On Site | Feb 16 |
+| **[DXC Technology](https://www.dxc.com)** | **[ETP Business Consultant](https://jobright.ai/jobs/info/6993a11481476f6176ab371f?utm_campaign=Consultant&utm_source=1103)** | USA - MD - ANY CITY | On Site | Feb 16 |
+| ↳ | **[ETP Business Consultant](https://jobright.ai/jobs/info/6993a76bce78e77b4fd77b2e?utm_campaign=Consultant&utm_source=1103)** | USA - NY - ANY CITY | On Site | Feb 16 |
 | **[Risk Strategies](https://www.riskstrategies.com.au)** | **[Analyst Consultant - Data, Reporting, and Analytics](https://jobright.ai/jobs/info/6993769ace78e77b4fd7474c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Analyst Consultant - Data, Reporting, and Analytics](https://jobright.ai/jobs/info/69937ab9ce78e77b4fd74afa?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6993686ee0bddb6acac1b225?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | On Site | Feb 16 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist](https://jobright.ai/jobs/info/699333efce78e77b4fd70dcc?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 16 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/699331c3e0bddb6acac18182?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 16 |
-| **[Arvento A](arventoa.com)** | **[Consulting Staff Financial Services](https://jobright.ai/jobs/info/69934d2be0bddb6acac18e6b?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Feb 16 |
 | **[Transamerica](http://www.transamerica.com)** | **[Retirement Plan Consultant-Financial Counselor (Remote)](https://jobright.ai/jobs/info/696377a1a112b40266119be2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[TopBloc](http://topbloc.com/)** | **[Workday Benefits Post Production Consultant](https://jobright.ai/jobs/info/68cd33d9e23def7af55b6c83?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/6967b2531703f05405a9578c?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Feb 16 |
@@ -335,7 +337,4 @@ For a complete list, click the following sortable link below:
 | **[Berkshire Hathaway Specialty Insurance](http://www.bhspecialty.com)** | **[Associate Medical Risk Consultant](https://jobright.ai/jobs/info/6994209481476f6176abdc99?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN, US | On Site | Feb 10 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/698c226091fdda424d58e585?utm_campaign=Consultant&utm_source=1103)** | Indiana, PA | On Site | Feb 10 |
 | ↳ | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/698c0cb991fdda424d58cbdb?utm_campaign=Consultant&utm_source=1103)** | Punxsutawney, PA | On Site | Feb 10 |
-| **[Metis Strategy](https://www.metisstrategy.com)** | **[Associate - Strategy and Technology Management Consultant](https://jobright.ai/jobs/info/698c04be0f6f7e7a2ce794a6?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Feb 10 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698bf2a0c5761b521a9b8c63?utm_campaign=Consultant&utm_source=1103)** | Princeton, NJ | On Site | Feb 10 |
-| **[Net at Work](http://www.netatwork.com)** | **[Sage Intacct Implementation Support Consultant](https://jobright.ai/jobs/info/698c1dd491fdda424d58df6b?utm_campaign=Consultant&utm_source=1103)** | Remote (United States) | Remote | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
