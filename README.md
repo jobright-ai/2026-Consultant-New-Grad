@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clio](https://www.clio.com)** | **[Workflow Consultant](https://jobright.ai/jobs/info/697921d139f7f96cc6d18107?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Feb 18 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant](https://jobright.ai/jobs/info/696b0763350cf438031247e0?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Feb 18 |
 | **[Clio](https://www.clio.com)** | **[Workflow Consultant](https://jobright.ai/jobs/info/697920d139f7f96cc6d17fa1?utm_campaign=Consultant&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Feb 18 |
-| ↳ | **[Workflow Consultant](https://jobright.ai/jobs/info/697925bc39f7f96cc6d186a2?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/695dd152924bd9135dd455ee?utm_campaign=Consultant&utm_source=1103)** | Estero, FL | On Site | Feb 18 |
+| **[Clio](https://www.clio.com)** | **[Workflow Consultant](https://jobright.ai/jobs/info/697925bc39f7f96cc6d186a2?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
+| **[Oracle](https://www.oracle.com/)** | **[Associate Consultant](https://jobright.ai/jobs/info/6995d2b581476f6176ad9e1a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 18 |
+| ↳ | **[Oracle NetSuite Customer Success Associate Consultant - Toronto](https://jobright.ai/jobs/info/6940aa5aaa598a08c3f04d9f?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 18 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Customer Success Associate Consultant](https://jobright.ai/jobs/info/697438ff206da320f49e5956?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Feb 18 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/6978f1e239f7f96cc6d144e5?utm_campaign=Consultant&utm_source=1103)** | TAMPA, FL, 33602 | On Site | Feb 17 |
 | **[Paymath](https://paymath.com)** | **[Business development consultant (Ontario, Canada)](https://jobright.ai/jobs/info/69958f0281476f6176ad79f5?utm_campaign=Consultant&utm_source=1103)** | Ontario, Canada | Remote | Feb 17 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6995306581476f6176ad0ffb?utm_campaign=Consultant&utm_source=1103)** | Longview, WA | On Site | Feb 17 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[ERP Implementation Consultant](https://jobright.ai/jobs/info/699559ba81476f6176ad4269?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 17 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Transmission Consulting Utility Forester](https://jobright.ai/jobs/info/699563ffce78e77b4fd98c5e?utm_campaign=Consultant&utm_source=1103)** | San Angelo, TX | On Site | Feb 17 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Digital Consulting Analyst-Oracle EPM, Planning](https://jobright.ai/jobs/info/69952042e0bddb6acac3a7fc?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Feb 17 |
-| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69953eecce78e77b4fd95bc4?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 17 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69950a81ce78e77b4fd921f5?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995098ee0bddb6acac391f6?utm_campaign=Consultant&utm_source=1103)** | Tallahassee, FL | Hybrid | Feb 17 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/696ceeb4db26b61895102a1d?utm_campaign=Consultant&utm_source=1103)** | Indiana, PA | On Site | Feb 17 |
@@ -88,12 +92,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69950faee0bddb6acac39906?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951985ce78e77b4fd930bb?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951a71e0bddb6acac3a380?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Feb 17 |
-| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951a9b81476f6176acf7fa?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699518e5e0bddb6acac3a21c?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Feb 17 |
+| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951a9b81476f6176acf7fa?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995133cce78e77b4fd92b59?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699513c1ce78e77b4fd92c0f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
-| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995241081476f6176ad01b3?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699510cbce78e77b4fd92895?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 17 |
+| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995241081476f6176ad01b3?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995107981476f6176acef10?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69952467ce78e77b4fd93c55?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | Hybrid | Feb 17 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/698c0cb991fdda424d58cbdb?utm_campaign=Consultant&utm_source=1103)** | Punxsutawney, PA | On Site | Feb 17 |
@@ -155,7 +159,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/6993ad6ae0bddb6acac1f485?utm_campaign=Consultant&utm_source=1103)** | Fairfield, CT | On Site | Feb 16 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Oracle Fusion Financial Consultant](https://jobright.ai/jobs/info/6993a75881476f6176ab3ff9?utm_campaign=Consultant&utm_source=1103)** | Canada | Remote | Feb 16 |
 | **[DXC Technology](https://www.dxc.com)** | **[ETP Business Consultant](https://jobright.ai/jobs/info/6993ab4581476f6176ab457e?utm_campaign=Consultant&utm_source=1103)** | New City, NY | On Site | Feb 16 |
-| **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69937ea2ce78e77b4fd74f9e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/68cf7f6ffb49c96ca6ea8f84?utm_campaign=Consultant&utm_source=1103)** | Newington, CT | On Site | Feb 16 |
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/6993659ece78e77b4fd73a43?utm_campaign=Consultant&utm_source=1103)** | Greenville, SC | On Site | Feb 16 |
 | **[DXC Technology](https://www.dxc.com)** | **[ETP Business Consultant](https://jobright.ai/jobs/info/6993a76bce78e77b4fd77b2e?utm_campaign=Consultant&utm_source=1103)** | USA - NY - ANY CITY | On Site | Feb 16 |
@@ -220,8 +223,8 @@ For a complete list, click the following sortable link below:
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/698fca2f0cc8ea15f1da6768?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 13 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/698fdbde0f6f7e7a2cec222e?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH, US | Hybrid | Feb 13 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/699000d00cc8ea15f1da98d4?utm_campaign=Consultant&utm_source=1103)** | Virginia Beach, VA | Remote | Feb 13 |
-| **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/698ff0946ea51a7610f2534f?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 13 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/698fe3316ea51a7610f24843?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 13 |
+| **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/698fe3316ea51a7610f24843?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 13 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/698ff0946ea51a7610f2534f?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 13 |
 | **[HCLTech](https://www.hcltech.com/)** | **[Enterprise Resources Planning Consultant](https://jobright.ai/jobs/info/698fa3ff6ea51a7610f20d1e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 13 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Consultant (Training Provided)](https://jobright.ai/jobs/info/698fd1520f6f7e7a2cec1c16?utm_campaign=Consultant&utm_source=1103)** | Saint Cloud, MN | Hybrid | Feb 13 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Consultant, Market Access](https://jobright.ai/jobs/info/698f97cf0f6f7e7a2cebdd87?utm_campaign=Consultant&utm_source=1103)** | New York, NY, USA | On Site | Feb 13 |
@@ -339,10 +342,8 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[IT Support Consultant - Deployment Technician](https://jobright.ai/jobs/info/698d44b7f64d441a164f4a04?utm_campaign=Consultant&utm_source=1103)** | Iowa City, IA | On Site | Feb 11 |
 | **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d442d0f6f7e7a2ce91677?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[Famous Supply](http://famous-supply.com)** | **[Windows and Doors Showroom Consultant](https://jobright.ai/jobs/info/698d42cc78b4502f12a3dd66?utm_campaign=Consultant&utm_source=1103)** | Bedford, OH | On Site | Feb 11 |
-| **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d786bf64d441a164f8f66?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Feb 11 |
-| ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d6a9778b4502f12a4139c?utm_campaign=Consultant&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 11 |
+| **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d6a9778b4502f12a4139c?utm_campaign=Consultant&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 11 |
+| ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d786bf64d441a164f8f66?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Feb 11 |
 | ↳ | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d696af64d441a164f727c?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | Hybrid | Feb 11 |
 | **[Perr&Knight](https://www.perrknight.com)** | **[Life & Health Insurance Forms Consultant](https://jobright.ai/jobs/info/698d25f60f6f7e7a2ce8e94b?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Hybrid | Feb 11 |
-| **[Grant County Public Utility District](https://grantpud.org)** | **[LMS Administrator - Learning & Development Consultant I](https://jobright.ai/jobs/info/698d4a470f6f7e7a2ce91eea?utm_campaign=Consultant&utm_source=1103)** | Ephrata, Washington, United States | Hybrid | Feb 11 |
-| **[University of Iowa Research](https://research.uiowa.edu)** | **[IT Support Consultant - Deployment Technician](https://jobright.ai/jobs/info/698d44b678b4502f12a3e012?utm_campaign=Consultant&utm_source=1103)** | Iowa City, Iowa, United States | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
