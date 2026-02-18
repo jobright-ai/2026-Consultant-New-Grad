@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LPL Financial](https://www.lpl.com)** | **[Associate Cost Basis Consultant](https://jobright.ai/jobs/info/6986b6058da7a61204619f7b?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Feb 18 |
+| **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Consultant](https://jobright.ai/jobs/info/69960cdcce78e77b4fda0298?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Feb 18 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6995fe56ce78e77b4fd9f7b7?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | On Site | Feb 18 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6995fbab81476f6176adba20?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 18 |
+| ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69960600e0bddb6acac467e0?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 18 |
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/6995f25ace78e77b4fd9eeeb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 18 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - Upper Montclair, NJ](https://jobright.ai/jobs/info/6995fd5cce78e77b4fd9f6fe?utm_campaign=Consultant&utm_source=1103)** | Upper Montclair, NJ | On Site | Feb 18 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Feb 18 |
@@ -106,18 +109,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69950faee0bddb6acac39906?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951985ce78e77b4fd930bb?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951a71e0bddb6acac3a380?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Feb 17 |
-| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699518e5e0bddb6acac3a21c?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951a9b81476f6176acf7fa?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Feb 17 |
+| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699518e5e0bddb6acac3a21c?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995133cce78e77b4fd92b59?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Hybrid | Feb 17 |
-| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699513c1ce78e77b4fd92c0f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995241081476f6176ad01b3?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699510cbce78e77b4fd92895?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 17 |
+| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699513c1ce78e77b4fd92c0f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995107981476f6176acef10?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69952467ce78e77b4fd93c55?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | Hybrid | Feb 17 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/698c0cb991fdda424d58cbdb?utm_campaign=Consultant&utm_source=1103)** | Punxsutawney, PA | On Site | Feb 17 |
 | ↳ | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/698c226091fdda424d58e585?utm_campaign=Consultant&utm_source=1103)** | Indiana, PA | On Site | Feb 17 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951456e0bddb6acac39e45?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 17 |
-| **[Microsoft](https://www.microsoft.com)** | **[Technology Consulting Management-CTJ-Poly](https://jobright.ai/jobs/info/6995eec7ce78e77b4fd9eceb?utm_campaign=Consultant&utm_source=1103)** | United States, Virginia, Reston | On Site | Feb 17 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[ADA Access Consultant](https://jobright.ai/jobs/info/698a9b930f6f7e7a2ce5d0a6?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Feb 17 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Digital Consulting Analyst-Oracle EPM, Planning](https://jobright.ai/jobs/info/6994f30f81476f6176accda1?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Feb 17 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/6994f1b7e0bddb6acac374eb?utm_campaign=Consultant&utm_source=1103)** | Noroton, CT, 06820 | On Site | Feb 17 |
@@ -339,6 +341,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[GOVERNMENT OPERATIONS CONSULTANT I - 60057825](https://jobright.ai/jobs/info/699041a46ea51a7610f2ccf4?utm_campaign=Consultant&utm_source=1103)** | Tallahassee, FL | On Site | Feb 11 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Network Management Consultant](https://jobright.ai/jobs/info/698d793b0f6f7e7a2ce95619?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Feb 11 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[ADA Access Consultant](https://jobright.ai/jobs/info/698a97a5c5761b521a99dcde?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | Hybrid | Feb 11 |
-| **[Demco, Inc.](http://demco.com)** | **[Learning Environment Field Consultant I](https://jobright.ai/jobs/info/698d51ea0f6f7e7a2ce929d7?utm_campaign=Consultant&utm_source=1103)** | Peoria, IL | Hybrid | Feb 11 |
-| **[Grant County Public Utility District](https://grantpud.org)** | **[LMS Administrator - Learning & Development Consultant I](https://jobright.ai/jobs/info/698d50c50f6f7e7a2ce92841?utm_campaign=Consultant&utm_source=1103)** | Ephrata, WA | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
