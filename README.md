@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crest Vale](crestvale.us)** | **[Consulting and Financial Services](https://jobright.ai/jobs/info/699751b7e0bddb6acac6139f?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Feb 19 |
+| **[Siemens](https://www.siemens.com)** | **[Power System Consultant](https://jobright.ai/jobs/info/69974ccdce78e77b4fdbae87?utm_campaign=Consultant&utm_source=1103)** | Schenectady, NY | Remote | Feb 19 |
 | **[Dupont Circle Solutions](https://www.dupontcirclesolutions.com/)** | **[Associate Salesforce Consultant](https://jobright.ai/jobs/info/698603d58ca8121a3a6834ce?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 19 |
 | **[Bath Planet](http://www.bathplanetwesternpa.com)** | **[In Home Design Consultant - Bathroom Remodel](https://jobright.ai/jobs/info/69973d2b81476f6176af5410?utm_campaign=Consultant&utm_source=1103)** | Green Bay, WI | On Site | Feb 19 |
 | **[Zendesk](http://zendesk.com)** | **[Junior Associate Solutions Consultant](https://jobright.ai/jobs/info/6971a6a551f726477184048b?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Feb 19 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Academy for Services & Consulting - Success Plan Manager - Palo Alto (Hybrid)](https://jobright.ai/jobs/info/699646d3e0bddb6acac4ae7c?utm_campaign=Consultant&utm_source=1103)** | Palo Alto, CA, US, 94304 | Hybrid | Feb 18 |
 | ↳ | **[SAP Academy for Services & Consulting - BTS Consultant - Toronto (Hybrid)](https://jobright.ai/jobs/info/69965728e0bddb6acac4c709?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON, CA, M5K 1B7 | Hybrid | Feb 18 |
 | ↳ | **[SAP Academy for Services & Consulting - BTS Consultant - Newtown Square PA (Hybrid)](https://jobright.ai/jobs/info/699644ddce78e77b4fda4002?utm_campaign=Consultant&utm_source=1103)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 18 |
-| ↳ | **[SAP Academy for Services & Consulting - BTS Consultant - Houston (Hybrid)](https://jobright.ai/jobs/info/699661fbe0bddb6acac4d533?utm_campaign=Consultant&utm_source=1103)** | Houston, TX, US, 77098 | Hybrid | Feb 18 |
 | ↳ | **[SAP Academy for Services & Consulting - BTS Consultant - Chicago (Hybrid)](https://jobright.ai/jobs/info/69963ecd81476f6176adfb60?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL, US, 60606 | Hybrid | Feb 18 |
+| ↳ | **[SAP Academy for Services & Consulting - BTS Consultant - Houston (Hybrid)](https://jobright.ai/jobs/info/699661fbe0bddb6acac4d533?utm_campaign=Consultant&utm_source=1103)** | Houston, TX, US, 77098 | Hybrid | Feb 18 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Technical Advertiser Solutions Consultant I](https://jobright.ai/jobs/info/695da8f5fbd62a0a65665e6b?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Feb 18 |
 | **[Acrisure](http://acrisure.com)** | **[Risk Consultant](https://jobright.ai/jobs/info/699675e281476f6176ae4ac1?utm_campaign=Consultant&utm_source=1103)** | Iselin, NJ | On Site | Feb 18 |
 | ↳ | **[Risk Consultant](https://jobright.ai/jobs/info/69964088ce78e77b4fda3987?utm_campaign=Consultant&utm_source=1103)** | Parsippany, NJ | On Site | Feb 18 |
@@ -117,9 +119,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Consultant](https://jobright.ai/jobs/info/6996574ece78e77b4fda5c8e?utm_campaign=Consultant&utm_source=1103)** | Garden City, NY | On Site | Feb 18 |
 | ↳ | **[Risk Consultant](https://jobright.ai/jobs/info/69964e79ce78e77b4fda4e94?utm_campaign=Consultant&utm_source=1103)** | Woodbury, NY | On Site | Feb 18 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Technical Advertiser Solutions Consultant I](https://jobright.ai/jobs/info/695da3b4fbd62a0a656656b2?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Feb 18 |
-| **[TransUnion](http://www.transunion.com)** | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/6996428481476f6176ae00c7?utm_campaign=Consultant&utm_source=1103)** | White Plains, New York | On Site | Feb 18 |
+| **[TransUnion](http://www.transunion.com)** | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/69964af7e0bddb6acac4b466?utm_campaign=Consultant&utm_source=1103)** | New York, New York | On Site | Feb 18 |
+| ↳ | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/6996428481476f6176ae00c7?utm_campaign=Consultant&utm_source=1103)** | White Plains, New York | On Site | Feb 18 |
 | ↳ | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/6996568cce78e77b4fda5b39?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois | On Site | Feb 18 |
-| ↳ | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/69964af7e0bddb6acac4b466?utm_campaign=Consultant&utm_source=1103)** | New York, New York | On Site | Feb 18 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Cost Basis Consultant](https://jobright.ai/jobs/info/6986b6058da7a61204619f7b?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Feb 18 |
 | **[SAP](https://www.sap.com)** | **[SAP Academy for Services & Consulting - Success Plan Manager - Palo Alto (Hybrid)](https://jobright.ai/jobs/info/6996306be0bddb6acac4907e?utm_campaign=Consultant&utm_source=1103)** | Palo Alto, CA | Hybrid | Feb 18 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/697939b139f7f96cc6d1a6c7?utm_campaign=Consultant&utm_source=1103)** | Coal Valley, IL | On Site | Feb 18 |
@@ -188,9 +190,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69951a9b81476f6176acf7fa?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699518e5e0bddb6acac3a21c?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995133cce78e77b4fd92b59?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Hybrid | Feb 17 |
-| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995241081476f6176ad01b3?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699510cbce78e77b4fd92895?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/699513c1ce78e77b4fd92c0f?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
+| ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995241081476f6176ad01b3?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/6995107981476f6176acef10?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 17 |
 | ↳ | **[Change Management Consultant II - Tax Transformation](https://jobright.ai/jobs/info/69952467ce78e77b4fd93c55?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | Hybrid | Feb 17 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/698c0cb991fdda424d58cbdb?utm_campaign=Consultant&utm_source=1103)** | Punxsutawney, PA | On Site | Feb 17 |
@@ -351,12 +353,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939ae2656b68f3dc4e7020d?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Feb 13 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939b74856b68f3dc4e70f01?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Feb 13 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939b21a48a8ce22990daac2?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Feb 13 |
-| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/698f12320f6f7e7a2ceb18aa?utm_campaign=Consultant&utm_source=1103)** | Vancouver | On Site | Feb 13 |
-| ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/698f05236ea51a7610f12852?utm_campaign=Consultant&utm_source=1103)** | Edmonton | On Site | Feb 13 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/698f05236ea51a7610f12852?utm_campaign=Consultant&utm_source=1103)** | Edmonton | On Site | Feb 13 |
+| ↳ | **[Business Intelligence Consulting Associate - Fall 2026](https://jobright.ai/jobs/info/698f12320f6f7e7a2ceb18aa?utm_campaign=Consultant&utm_source=1103)** | Vancouver | On Site | Feb 13 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6972fad4694e99351d144113?utm_campaign=Consultant&utm_source=1103)** | Ankeny, IA | On Site | Feb 13 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/698f12566ea51a7610f135f6?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 13 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6972fcd3694e99351d1442a7?utm_campaign=Consultant&utm_source=1103)** | Decorah, IA | On Site | Feb 12 |
 | **[Red Hat](http://www.redhat.com)** | **[Junior Consultant NAPS](https://jobright.ai/jobs/info/699173d66ea51a7610f3da4f?utm_campaign=Consultant&utm_source=1103)** | Tysons Corner, VA | On Site | Feb 12 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Retail Wireless Consultant](https://jobright.ai/jobs/info/6972fc34206da320f49cf1a2?utm_campaign=Consultant&utm_source=1103)** | Indianola, IA | On Site | Feb 12 |
-| **[State of Florida](http://www.myflorida.com)** | **[OPS GOVERNMENT OPERATIONS CONSULTANT I - 64855001](https://jobright.ai/jobs/info/69929cabe0bddb6acac0c26d?utm_campaign=Consultant&utm_source=1103)** | St. Petersburg, FL | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
