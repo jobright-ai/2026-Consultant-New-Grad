@@ -149,9 +149,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Risk Consultant](https://jobright.ai/jobs/info/6996574ece78e77b4fda5c8e?utm_campaign=Consultant&utm_source=1103)** | Garden City, NY | On Site | Feb 18 |
 | ↳ | **[Risk Consultant](https://jobright.ai/jobs/info/69964e79ce78e77b4fda4e94?utm_campaign=Consultant&utm_source=1103)** | Woodbury, NY | On Site | Feb 18 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Technical Advertiser Solutions Consultant I](https://jobright.ai/jobs/info/695da3b4fbd62a0a656656b2?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Feb 18 |
-| **[TransUnion](http://www.transunion.com)** | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/69964af7e0bddb6acac4b466?utm_campaign=Consultant&utm_source=1103)** | New York, New York | On Site | Feb 18 |
-| ↳ | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/6996568cce78e77b4fda5b39?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois | On Site | Feb 18 |
+| **[TransUnion](http://www.transunion.com)** | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/6996568cce78e77b4fda5b39?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois | On Site | Feb 18 |
 | ↳ | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/6996428481476f6176ae00c7?utm_campaign=Consultant&utm_source=1103)** | White Plains, New York | On Site | Feb 18 |
+| ↳ | **[Consulting Services  Marketing Solutions Analyst](https://jobright.ai/jobs/info/69964af7e0bddb6acac4b466?utm_campaign=Consultant&utm_source=1103)** | New York, New York | On Site | Feb 18 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Cost Basis Consultant](https://jobright.ai/jobs/info/6986b6058da7a61204619f7b?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Feb 18 |
 | **[SAP](https://www.sap.com)** | **[SAP Academy for Services & Consulting - Success Plan Manager - Palo Alto (Hybrid)](https://jobright.ai/jobs/info/6996306be0bddb6acac4907e?utm_campaign=Consultant&utm_source=1103)** | Palo Alto, CA | Hybrid | Feb 18 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/697939b139f7f96cc6d1a6c7?utm_campaign=Consultant&utm_source=1103)** | Coal Valley, IL | On Site | Feb 18 |
@@ -322,7 +322,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Consultant, Market Access](https://jobright.ai/jobs/info/698f8e550f6f7e7a2cebd238?utm_campaign=Consultant&utm_source=1103)** | New York, NY, USA | On Site | Feb 13 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Senior Consultant / Consultant - Enterprise Value Creation - Working Capital](https://jobright.ai/jobs/info/698fb7f96ea51a7610f222ff?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 13 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939b1e156b68f3dc4e70464?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 13 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[ADA Access Consultant](https://jobright.ai/jobs/info/698a98830f6f7e7a2ce5ccb5?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 13 |
-| **[Total Expert](http://totalexpert.com)** | **[Associate Professional Services Consultant](https://jobright.ai/jobs/info/698f7e410f6f7e7a2cebb972?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 13 |
-| **[Gateway Logistics, Inc.](https://gatewaylogisticsinc.com)** | **[Logistics Market Consultant](https://jobright.ai/jobs/info/698fa3440cc8ea15f1da3f0b?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
