@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riveron](https://riveron.com)** | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a24b25359fe034b1cd8653?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Feb 27 |
+| ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a24a71359fe034b1cd85c4?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | Feb 27 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a2367b0da45516f16b7eb4?utm_campaign=Consultant&utm_source=1103)** | Santa Rosa, CA | Hybrid | Feb 27 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a2345c0da45516f16b7ce2?utm_campaign=Consultant&utm_source=1103)** | Rancho Cucamonga, CA | Hybrid | Feb 27 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Internal Business Consultant](https://jobright.ai/jobs/info/69a22a94b600907a9628774a?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 27 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Wealth Management Finance - Associate (Consulting Group)](https://jobright.ai/jobs/info/69a21db3b600907a96286a02?utm_campaign=Consultant&utm_source=1103)** | Purchase, NY | On Site | Feb 27 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a238a7b600907a9628845c?utm_campaign=Consultant&utm_source=1103)** | Moreno Valley, CA | Hybrid | Feb 27 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a23977359fe034b1cd75dd?utm_campaign=Consultant&utm_source=1103)** | Glendale, CA | Hybrid | Feb 27 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a24716359fe034b1cd82b2?utm_campaign=Consultant&utm_source=1103)** | Ontario, CA | Hybrid | Feb 27 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a24222359fe034b1cd7e09?utm_campaign=Consultant&utm_source=1103)** | Oxnard, CA | Hybrid | Feb 27 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a24716359fe034b1cd82b2?utm_campaign=Consultant&utm_source=1103)** | Ontario, CA | Hybrid | Feb 27 |
 | **[Investor Group Services (IGS)](http://www.igsboston.com)** | **[Consultant](https://jobright.ai/jobs/info/69960cdcce78e77b4fda0298?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Feb 27 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a216400da45516f16b5f6e?utm_campaign=Consultant&utm_source=1103)** | Fresno, CA | Hybrid | Feb 27 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/69a23e67b600907a962889ab?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX (Clearfork) | On Site | Feb 27 |
@@ -76,9 +78,10 @@ For a complete list, click the following sortable link below:
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a235350da45516f16b7db9?utm_campaign=Consultant&utm_source=1103)** | Modesto, CA | Hybrid | Feb 27 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a23486b600907a962880c3?utm_campaign=Consultant&utm_source=1103)** | Anaheim, CA | Hybrid | Feb 27 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a236beb600907a962882a4?utm_campaign=Consultant&utm_source=1103)** | Fremont, CA | Hybrid | Feb 27 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a23bc0b600907a9628871d?utm_campaign=Consultant&utm_source=1103)** | Santa Clarita, CA | Hybrid | Feb 27 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a2474cb600907a96289208?utm_campaign=Consultant&utm_source=1103)** | Riverside, CA | Hybrid | Feb 27 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a23bc0b600907a9628871d?utm_campaign=Consultant&utm_source=1103)** | Santa Clarita, CA | Hybrid | Feb 27 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a2455b359fe034b1cd80f0?utm_campaign=Consultant&utm_source=1103)** | Irvine, CA | Hybrid | Feb 27 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a2488ab600907a96289335?utm_campaign=Consultant&utm_source=1103)** | Fontana, CA | Hybrid | Feb 27 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Consulting Utility Forester](https://jobright.ai/jobs/info/69a228ae359fe034b1cd6627?utm_campaign=Consultant&utm_source=1103)** | Ashland, KY | On Site | Feb 27 |
 | ↳ | **[Consulting Utility Forester](https://jobright.ai/jobs/info/69a22720b600907a962873e4?utm_campaign=Consultant&utm_source=1103)** | Hazard, KY | On Site | Feb 27 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69a207cf359fe034b1cd46b3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 27 |
@@ -154,19 +157,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0f54281476f6176bb510f?utm_campaign=Consultant&utm_source=1103)** | Pomona, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0fe1981476f6176bb57b9?utm_campaign=Consultant&utm_source=1103)** | Sunnyvale, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a112336b458d060735c722?utm_campaign=Consultant&utm_source=1103)** | Fullerton, CA | Hybrid | Feb 26 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a112c05218a816767248a8?utm_campaign=Consultant&utm_source=1103)** | Corona, CA | Hybrid | Feb 26 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a113a66b458d060735c92e?utm_campaign=Consultant&utm_source=1103)** | Oceanside, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a1078581476f6176bb5ec7?utm_campaign=Consultant&utm_source=1103)** | Visalia, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0f8b081476f6176bb53a6?utm_campaign=Consultant&utm_source=1103)** | Ontario, CA | Hybrid | Feb 26 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a113a66b458d060735c92e?utm_campaign=Consultant&utm_source=1103)** | Oceanside, CA | Hybrid | Feb 26 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a112c05218a816767248a8?utm_campaign=Consultant&utm_source=1103)** | Corona, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0f8695218a81676723346?utm_campaign=Consultant&utm_source=1103)** | Hayward, CA | Hybrid | Feb 26 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant – Retirement Benefits Group](https://jobright.ai/jobs/info/697be4e00b88cc7d6422c89a?utm_campaign=Consultant&utm_source=1103)** | LA Metro Area | On Site | Feb 26 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a0d4c15218a81676720070?utm_campaign=Consultant&utm_source=1103)** | Fontana, CA | Hybrid | Feb 26 |
-| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a12c896b458d060735e621?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States of America | On Site | Feb 26 |
+| **[RBC](https://www.rbc.com)** | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a110fe6b458d060735c57b?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States of America | On Site | Feb 26 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a0f7a95218a8167672329e?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Feb 26 |
+| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a0f6ac5218a816767231b0?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Feb 26 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a0f7b681476f6176bb52dc?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States of America | On Site | Feb 26 |
 | ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a1127781476f6176bb6705?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois, United States of America | On Site | Feb 26 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a0f6ac5218a816767231b0?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Feb 26 |
-| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a110fe6b458d060735c57b?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States of America | On Site | Feb 26 |
+| ↳ | **[Financial Advisor Transition Consultant](https://jobright.ai/jobs/info/69a12c896b458d060735e621?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States of America | On Site | Feb 26 |
 | **[Crane Financial Services](www.crane-financial.com/learn-more)** | **[Remote Insurance Consultant](https://jobright.ai/jobs/info/69a112916b458d060735c79d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 26 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a0feeb6b458d060735b6db?utm_campaign=Consultant&utm_source=1103)** | Santa Rosa, CA | Hybrid | Feb 26 |
 | **[Arcadis](http://www.arcadis.com)** | **[Energy and Carbon Consultant](https://jobright.ai/jobs/info/69a122b96b458d060735db29?utm_campaign=Consultant&utm_source=1103)** | The Woolworth Building, 233 Broadway, 16th Floor, New York, NY, 10279, US | Hybrid | Feb 26 |
@@ -177,22 +180,22 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Underwriting Consultant (Meritain Health)](https://jobright.ai/jobs/info/69a0de1a0836fe79d861e45a?utm_campaign=Consultant&utm_source=1103)** | Albany, NY | Remote | Feb 26 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a10b9981476f6176bb6174?utm_campaign=Consultant&utm_source=1103)** | Chula Vista, CA | Hybrid | Feb 26 |
 | **[The Construction Index Ltd](https://www.theconstructionindex.co.uk)** | **[Lettings Consultant](https://jobright.ai/jobs/info/69a112f16b458d060735c824?utm_campaign=Consultant&utm_source=1103)** | London, WV | On Site | Feb 26 |
-| **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a103c281476f6176bb5be9?utm_campaign=Consultant&utm_source=1103)** | Anaheim, CA | Hybrid | Feb 26 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0fe4a81476f6176bb57df?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 26 |
+| **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/69a0fe4a81476f6176bb57df?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 26 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a103c281476f6176bb5be9?utm_campaign=Consultant&utm_source=1103)** | Anaheim, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0da0f0836fe79d861dd90?utm_campaign=Consultant&utm_source=1103)** | Stockton, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0d5720836fe79d861d667?utm_campaign=Consultant&utm_source=1103)** | Riverside, CA | Hybrid | Feb 26 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0e2b80836fe79d861ebdb?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0e9690836fe79d861f80a?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 26 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a1075e81476f6176bb5ea9?utm_campaign=Consultant&utm_source=1103)** | Oakland, CA | Hybrid | Feb 26 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/69a0e2b80836fe79d861ebdb?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 26 |
 | **[RXO, Inc.](https://rxo.com)** | **[Procurement Analyst](https://jobright.ai/jobs/info/69a0e69f81476f6176bb3eb3?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Feb 26 |
-| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69a0dbb181476f6176bb2bb2?utm_campaign=Consultant&utm_source=1103)** | Asheville, NC | On Site | Feb 26 |
-| ↳ | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/69a0d29981476f6176bb1e4b?utm_campaign=Consultant&utm_source=1103)** | Beachwood, OH | On Site | Feb 26 |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/69a0d29981476f6176bb1e4b?utm_campaign=Consultant&utm_source=1103)** | Beachwood, OH | On Site | Feb 26 |
+| ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69a0dbb181476f6176bb2bb2?utm_campaign=Consultant&utm_source=1103)** | Asheville, NC | On Site | Feb 26 |
 | **[Frost, PLLC](http://frostpllc.com)** | **[Cost Segregation Consultant I](https://jobright.ai/jobs/info/69a0cee00836fe79d861ce1d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 26 |
 | **[PwC Canada](https://www.pwc.com/ca/en/)** | **[Associate, Consulting Financial Services, Insurance](https://jobright.ai/jobs/info/69843baf348f733a5c382fa0?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
 | ↳ | **[Consulting Associate, Full Time (Multiple positions) Sherbrooke, QC](https://jobright.ai/jobs/info/69843a678da7a612045e5179?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Feb 26 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant - Non Registered - Charlotte, NC National Contact Center](https://jobright.ai/jobs/info/6983b8d0348f733a5c36fb80?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 26 |
-| **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant I  (30-36 hours per week)](https://jobright.ai/jobs/info/69a0ad515218a8167671d969?utm_campaign=Consultant&utm_source=1103)** | Paynesville, Minnesota, United States | On Site | Feb 26 |
-| ↳ | **[Banking Consultant I  (30-36 hours per week)](https://jobright.ai/jobs/info/69a0baa781476f6176bb06fe?utm_campaign=Consultant&utm_source=1103)** | Spicer, Minnesota, United States | On Site | Feb 26 |
+| **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant I  (30-36 hours per week)](https://jobright.ai/jobs/info/69a0baa781476f6176bb06fe?utm_campaign=Consultant&utm_source=1103)** | Spicer, Minnesota, United States | On Site | Feb 26 |
+| ↳ | **[Banking Consultant I  (30-36 hours per week)](https://jobright.ai/jobs/info/69a0ad515218a8167671d969?utm_campaign=Consultant&utm_source=1103)** | Paynesville, Minnesota, United States | On Site | Feb 26 |
 | **[Hatch](https://www.hatch.com)** | **[Advisory Consulting Analyst](https://jobright.ai/jobs/info/6984da7e348f733a5c38f791?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Feb 26 |
 | **[Coyote Logistics](http://coyote.com/)** | **[Procurement Analyst](https://jobright.ai/jobs/info/69a08a965218a8167671b07b?utm_campaign=Consultant&utm_source=1103)** | US-IL-Chicago | On Site | Feb 26 |
 | **[Horizon Payments](https://www.savewithhorizon.com)** | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69a0833b0836fe79d8617fbb?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 26 |
@@ -225,8 +228,8 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[Aflac B2B Benefits Consultant (Independent Contractor)](https://jobright.ai/jobs/info/699fbb7dd643757b0e454183?utm_campaign=Consultant&utm_source=1103)** | Fargo, ND | On Site | Feb 25 |
 | ↳ | **[Aflac B2B Benefits Consultant (Independent Contractor)](https://jobright.ai/jobs/info/699fd23353d97f23ee655681?utm_campaign=Consultant&utm_source=1103)** | Grand Forks, ND | On Site | Feb 25 |
 | ↳ | **[Aflac B2B Benefits Consultant (Independent Contractor)](https://jobright.ai/jobs/info/699fdda753d97f23ee6564d0?utm_campaign=Consultant&utm_source=1103)** | Fergus Falls, MN | On Site | Feb 25 |
-| **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Associate Loss Control/Risk Management Consultant](https://jobright.ai/jobs/info/699fb490ce78e77b4fe59938?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 25 |
-| ↳ | **[Associate Loss Control/Risk Management Consultant](https://jobright.ai/jobs/info/699fbddbd643757b0e454382?utm_campaign=Consultant&utm_source=1103)** | Roseville, CA, US | Remote | Feb 25 |
+| **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Associate Loss Control/Risk Management Consultant](https://jobright.ai/jobs/info/699fbddbd643757b0e454382?utm_campaign=Consultant&utm_source=1103)** | Roseville, CA, US | Remote | Feb 25 |
+| ↳ | **[Associate Loss Control/Risk Management Consultant](https://jobright.ai/jobs/info/699fb490ce78e77b4fe59938?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 25 |
 | **[Michigan State University College of Engineering](https://linktr.ee/msuegr)** | **[Consultant](https://jobright.ai/jobs/info/699fab05d643757b0e452774?utm_campaign=Consultant&utm_source=1103)** | East Lansing, MI | On Site | Feb 25 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/694acd683019f50a4fe5e532?utm_campaign=Consultant&utm_source=1103)** | ORLANDO, FL, 32825 | On Site | Feb 25 |
 | **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Analyst, Supply Chain Solutions](https://jobright.ai/jobs/info/699f968f23374b3b6e6b682a?utm_campaign=Consultant&utm_source=1103)** | Des Plaines, IL | Hybrid | Feb 25 |
@@ -325,8 +328,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/699e7f3bce78e77b4fe3d9bf?utm_campaign=Consultant&utm_source=1103)** | Carefree, AZ | Hybrid | Feb 24 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Digital Experience Consultant](https://jobright.ai/jobs/info/699e298281476f6176b709b2?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 24 |
 | **[Lytegen](www.lytegen.com)** | **[Energy Consultant](https://jobright.ai/jobs/info/699e5f2981476f6176b7622b?utm_campaign=Consultant&utm_source=1103)** | Mesa, AZ | Hybrid | Feb 24 |
-| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/699e530fe0bddb6acacdc614?utm_campaign=Consultant&utm_source=1103)** | Tucson, AZ | Hybrid | Feb 24 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/699e65a381476f6176b76f0c?utm_campaign=Consultant&utm_source=1103)** | Cave Creek, AZ | Hybrid | Feb 24 |
+| ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/699e530fe0bddb6acacdc614?utm_campaign=Consultant&utm_source=1103)** | Tucson, AZ | Hybrid | Feb 24 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/699e4e59e0bddb6acacdbcbd?utm_campaign=Consultant&utm_source=1103)** | Maricopa, AZ | Hybrid | Feb 24 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/699ee28681476f6176b85cd7?utm_campaign=Consultant&utm_source=1103)** | Fountain Hills, AZ | Hybrid | Feb 24 |
 | ↳ | **[Energy Consultant](https://jobright.ai/jobs/info/699ec5c3e0bddb6acaceb710?utm_campaign=Consultant&utm_source=1103)** | Apache Junction, AZ | Hybrid | Feb 24 |
@@ -380,8 +383,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Exemption Certificate Solutions](https://jobright.ai/jobs/info/699d0888ce78e77b4fe1d7f8?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Feb 23 |
 | **[American Residential Services](http://ars.com)** | **[Retail Lead Generation Consultant](https://jobright.ai/jobs/info/699caf18e0bddb6acacbbe40?utm_campaign=Consultant&utm_source=1103)** | Neptune, NJ, US | On Site | Feb 23 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant](https://jobright.ai/jobs/info/699c9dede0bddb6acacbb236?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 23 |
-| **[SFM - The Work Comp Experts](https://www.sfmic.com/)** | **[Risk and Safety Consultant Representative (KS Location)](https://jobright.ai/jobs/info/699d3f7ce0bddb6acacc87e6?utm_campaign=Consultant&utm_source=1103)** | Topeka, Kansas, United States | Remote | Feb 23 |
-| ↳ | **[Risk and Safety Consultant Representative (KS Location)](https://jobright.ai/jobs/info/699d40b981476f6176b60c66?utm_campaign=Consultant&utm_source=1103)** | Overland Park, Kansas, United States | Remote | Feb 23 |
+| **[SFM - The Work Comp Experts](https://www.sfmic.com/)** | **[Risk and Safety Consultant Representative (KS Location)](https://jobright.ai/jobs/info/699d40b981476f6176b60c66?utm_campaign=Consultant&utm_source=1103)** | Overland Park, Kansas, United States | Remote | Feb 23 |
+| ↳ | **[Risk and Safety Consultant Representative (KS Location)](https://jobright.ai/jobs/info/699d3f7ce0bddb6acacc87e6?utm_campaign=Consultant&utm_source=1103)** | Topeka, Kansas, United States | Remote | Feb 23 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/699cc062ce78e77b4fe18114?utm_campaign=Consultant&utm_source=1103)** | Dublin, OH | On Site | Feb 23 |
 | **[American Residential Services](http://ars.com)** | **[Retail Lead Generation Consultant](https://jobright.ai/jobs/info/699cbb2cce78e77b4fe17c5f?utm_campaign=Consultant&utm_source=1103)** | Neptune, NJ | On Site | Feb 23 |
 | ↳ | **[Retail Lead Generation Consultant](https://jobright.ai/jobs/info/699cbd1881476f6176b55198?utm_campaign=Consultant&utm_source=1103)** | US-NJ-Neptune | On Site | Feb 23 |
@@ -419,5 +422,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Inverto / Consultant, Procurement](https://jobright.ai/jobs/info/69620f652cbf4e44756c0778?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Feb 21 |
 | **[Interior Logic Group, Inc.](http://interiorlogicgroup.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/697cf0813f57a3356966a3dc?utm_campaign=Consultant&utm_source=1103)** | Minnesota, United States | On Site | Feb 21 |
 | **[Elevate](https://www.oneelevate.com/)** | **[Associate Media Strategist Consultant](https://jobright.ai/jobs/info/6978445939f7f96cc6d09c9e?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Feb 21 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6999905381476f6176b25408?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
