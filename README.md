@@ -286,8 +286,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a644359fe034b1cf5cc6?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | Mar 01 |
 | ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a6440da45516f16d6834?utm_campaign=Consultant&utm_source=1103)** | Apex, NC | On Site | Mar 01 |
 | ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a6410da45516f16d6832?utm_campaign=Consultant&utm_source=1103)** | Langhorne, PA | On Site | Mar 01 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a63eb600907a962a6a08?utm_campaign=Consultant&utm_source=1103)** | Apex, NC | On Site | Mar 01 |
 | ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a63eb600907a962a6a06?utm_campaign=Consultant&utm_source=1103)** | Chapel Hill, NC | On Site | Mar 01 |
+| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a63eb600907a962a6a08?utm_campaign=Consultant&utm_source=1103)** | Apex, NC | On Site | Mar 01 |
 | ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a635359fe034b1cf5ca8?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | Mar 01 |
 | ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a6330da45516f16d6822?utm_campaign=Consultant&utm_source=1103)** | Trenton, NJ | On Site | Mar 01 |
 | ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69a4a628b600907a962a69f2?utm_campaign=Consultant&utm_source=1103)** | Pennsylvania, United States | On Site | Mar 01 |
@@ -332,5 +332,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a253290da45516f16b97bb?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Feb 27 |
 | ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a25313b600907a96289be9?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 27 |
 | ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a24b25359fe034b1cd8653?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Feb 27 |
-| ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a24a71359fe034b1cd85c4?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
