@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Associate Safety Services Consultant/Safety Services Consultant](https://jobright.ai/jobs/info/699ed74081476f6176b849fd?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Mar 18 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/699e6183ce78e77b4fe395a7?utm_campaign=Consultant&utm_source=1103)** | Gresham, OR | Remote | Mar 18 |
 | **[American Residential Services](http://ars.com)** | **[Retail Consultant - Lead Generation](https://jobright.ai/jobs/info/69ba24343b74eb1e2c882136?utm_campaign=Consultant&utm_source=1103)** | Evans, GA, US | On Site | Mar 17 |
 | ↳ | **[Retail Consultant - Lead Generation](https://jobright.ai/jobs/info/69ba241f06c1ba00c54c4311?utm_campaign=Consultant&utm_source=1103)** | ARS (Evans, GA) | On Site | Mar 17 |
 | ↳ | **[Retail Consultant - Lead Generation](https://jobright.ai/jobs/info/69ba240056973837413fabd8?utm_campaign=Consultant&utm_source=1103)** | US-GA-Evans | On Site | Mar 17 |
@@ -175,9 +177,9 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/69a7cf56637232443f652e79?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Network Management Consultant](https://jobright.ai/jobs/info/69b45b7606c1ba00c545b0c5?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Siemens](https://www.siemens.com)** | **[Power System Consultant](https://jobright.ai/jobs/info/69979d6581476f6176afb84e?utm_campaign=Consultant&utm_source=1103)** | Schenectady, NY | Remote | Mar 13 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6947a6317d506e3808f2f5c1?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Mar 13 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/698579ec348f733a5c39ea55?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Mar 13 |
+| ↳ | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6947a6317d506e3808f2f5c1?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Mar 13 |
 | ↳ | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/69a7ad1d76bbe83d3afb1690?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | On Site | Mar 13 |
-| ↳ | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/698579ec348f733a5c39ea55?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Mar 13 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Strategy Value Creation & Analytics - New Grad (2026)](https://jobright.ai/jobs/info/69b454d93b74eb1e2c818ae4?utm_campaign=Consultant&utm_source=1103)** | Toronto - Bay St | Hybrid | Mar 13 |
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Execution Consultant 1 - Contingent](https://jobright.ai/jobs/info/69ba579e06c1ba00c54c653c?utm_campaign=Consultant&utm_source=1103)** | SAINT LOUIS, MO | On Site | Mar 13 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Industry Solutions Consultant, Defined Contribution](https://jobright.ai/jobs/info/697bc4c31423772304ebf0dd?utm_campaign=Consultant&utm_source=1103)** | Madison, WI | Hybrid | Mar 13 |
@@ -199,8 +201,8 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Executive Compensation and Employee Benefits Consulting Entry Level Staff](https://jobright.ai/jobs/info/6971951f587dfa0bb55f4404?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | Hybrid | Mar 12 |
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394ffad360c0340a8b842?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394ffad360c0340a8b845?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
-| **[Seneca Holdings](http://www.senecaholdings.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394fead360c0340a8b841?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
-| ↳ | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394fead360c0340a8b840?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
+| **[Seneca Holdings](http://www.senecaholdings.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394fead360c0340a8b840?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
+| ↳ | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394fead360c0340a8b841?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
 | ↳ | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394fdad360c0340a8b83e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394d2ae2a534885eafcd7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 12 |
 | **[Capgemini Invent](http://www.capgemini.com/invent)** | **[(Position Closed) Capgemini Invent 2026 Associate Consultant](https://jobright.ai/jobs/info/69b634723b74eb1e2c83ea27?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Mar 12 |
@@ -278,46 +280,45 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant - Revenue Cycle, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/69b22619d04c69566c74da7d?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Mar 11 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Travel Consultant I](https://jobright.ai/jobs/info/69b2256865de58104c719a56?utm_campaign=Consultant&utm_source=1103)** | South Dakota, United States | On Site | Mar 11 |
 | ↳ | **[Travel Consultant I](https://jobright.ai/jobs/info/69b22553d04c69566c74d919?utm_campaign=Consultant&utm_source=1103)** | North Dakota, United States | On Site | Mar 11 |
-| **[EY](http://www.ey.com)** | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214ccd04c69566c74b78c?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214ccd04c69566c74b78b?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | Hybrid | Mar 11 |
+| **[EY](http://www.ey.com)** | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214ccd04c69566c74b78b?utm_campaign=Consultant&utm_source=1103)** | Rochester, NY | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214ccd04c69566c74b78c?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214c2d04c69566c74b77c?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214c2d04c69566c74b77e?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76b?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76c?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76e?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76c?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76b?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214bbd04c69566c74b76d?utm_campaign=Consultant&utm_source=1103)** | San Mateo, CA | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b764?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b760?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City, UT | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b761?utm_campaign=Consultant&utm_source=1103)** | Tulsa, OK | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b75f?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b763?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b760?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City, UT | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b75f?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b764?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214b4d04c69566c74b761?utm_campaign=Consultant&utm_source=1103)** | Tulsa, OK | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b214add04c69566c74b759?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2149465de58104c71805e?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2149465de58104c718060?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, WI | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2149465de58104c71805d?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2149465de58104c71805c?utm_campaign=Consultant&utm_source=1103)** | Toledo, OH | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2148965de58104c718047?utm_campaign=Consultant&utm_source=1103)** | Oklahoma City, OK | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2149465de58104c71805d?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2149465de58104c718060?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, WI | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2149465de58104c71805e?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2148965de58104c71804a?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2148965de58104c718048?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2148965de58104c718047?utm_campaign=Consultant&utm_source=1103)** | Oklahoma City, OK | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2148165de58104c718038?utm_campaign=Consultant&utm_source=1103)** | New Orleans, LA | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2147a65de58104c71802c?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2147a65de58104c71802b?utm_campaign=Consultant&utm_source=1103)** | Baton Rouge, LA | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2147a65de58104c71802a?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2147a65de58104c71802c?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21473548f140066e840db?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21469548f140066e840c7?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21469548f140066e840c8?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21469548f140066e840ca?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21469548f140066e840c7?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21460548f140066e840b3?utm_campaign=Consultant&utm_source=1103)** | Tallahassee, FL | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21460548f140066e840b1?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21460548f140066e840b0?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21460548f140066e840b5?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21460548f140066e840b1?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21460548f140066e840b3?utm_campaign=Consultant&utm_source=1103)** | Tallahassee, FL | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2145f548f140066e840af?utm_campaign=Consultant&utm_source=1103)** | Birmingham, AL | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b2145f548f140066e840ae?utm_campaign=Consultant&utm_source=1103)** | Albany, NY | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21458548f140066e8409f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21458548f140066e8409e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Hybrid | Mar 11 |
-| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21458548f140066e840a0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21458548f140066e8409d?utm_campaign=Consultant&utm_source=1103)** | Des Moines, IA | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21458548f140066e8409e?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21458548f140066e8409f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Mar 11 |
+| ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b21458548f140066e840a0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Mar 11 |
 | ↳ | **[FSO Tech Strategy Transformation - Staff 2 - US Consulting](https://jobright.ai/jobs/info/69b23e65ad360c0340a6f836?utm_campaign=Consultant&utm_source=1103)** | Stamford, CT | Hybrid | Mar 11 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/69b20da4d04c69566c74b0f8?utm_campaign=Consultant&utm_source=1103)** | McKinney, TX | On Site | Mar 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Technical Consultant CTJ - TS/SCI](https://jobright.ai/jobs/info/69b20aa765de58104c7177a4?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Mar 11 |
@@ -343,8 +344,6 @@ For a complete list, click the following sortable link below:
 | **[Vertafore](http://www.vertafore.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/69b1d093d04c69566c7425f2?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Mar 11 |
 | **[The Hartford](http://www.thehartford.com)** | **[Performance Analytics Consultant](https://jobright.ai/jobs/info/69b999b406c1ba00c54ba1c8?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Mar 11 |
 | ↳ | **[Performance Analytics Consultant](https://jobright.ai/jobs/info/69b999b406c1ba00c54ba1c7?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL-200 W Madison St | Hybrid | Mar 11 |
-| ↳ | **[Performance Analytics Consultant](https://jobright.ai/jobs/info/69b9999e3b74eb1e2c877fe3?utm_campaign=Consultant&utm_source=1103)** | Columbus OH-Worth Ave | Hybrid | Mar 11 |
 | ↳ | **[Performance Analytics Consultant](https://jobright.ai/jobs/info/69b999a056973837413f1265?utm_campaign=Consultant&utm_source=1103)** | Charlotte NC-South Tryon St. | Hybrid | Mar 11 |
-| **[SAP](https://www.sap.com)** | **[SAP Academy for Services & Consulting - Success Plan Manager -  Toronto (Hybrid)](https://jobright.ai/jobs/info/69958316e0bddb6acac41b02?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
-| **[Mastercard](http://www.mastercard.com)** | **[Consultant, Business Experimentation](https://jobright.ai/jobs/info/697815befdeb8243a27b0b6f?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
+| ↳ | **[Performance Analytics Consultant](https://jobright.ai/jobs/info/69b9999e3b74eb1e2c877fe3?utm_campaign=Consultant&utm_source=1103)** | Columbus OH-Worth Ave | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
