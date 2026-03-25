@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lake Partners Strategy Consultants](http://www.lakepartners.com)** | **[Entry Level Strategy Consulting Analyst](https://jobright.ai/jobs/info/69c4264933eecf31079443b2?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Mar 25 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/69c422516f4f855eeda67c77?utm_campaign=Consultant&utm_source=1103)** | Indiana, PA | On Site | Mar 25 |
 | ↳ | **[Telephone Financial Consultant](https://jobright.ai/jobs/info/69c420ddd5a1016e98db2a3d?utm_campaign=Consultant&utm_source=1103)** | Punxsutawney, PA | On Site | Mar 25 |
 | **[Benepass](http://www.getbenepass.com)** | **[Associate, Strategic Alliances](https://jobright.ai/jobs/info/69a8e9b12580d3183f011247?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 25 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Knight Transportation](http://knighttrans.com)** | **[Learning & Development Consultant](https://jobright.ai/jobs/info/69c2e824ec22f8310ab0e0dc?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Mar 24 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/69c2ddf294007a2195dee14b?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | On Site | Mar 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69a724882672cb0acb4b9247?utm_campaign=Consultant&utm_source=1103)** | Dearborn, MI | On Site | Mar 24 |
-| **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Financial Services / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Business Development / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f4?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
+| **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Business Development / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f4?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Financial Services / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant](https://jobright.ai/jobs/info/699d168fe0bddb6acacc34cb?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH | On Site | Mar 24 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/69c33a54753c101b2156df2f?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Mar 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69c2d0c394007a2195decdc2?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Mar 24 |
@@ -178,8 +179,8 @@ For a complete list, click the following sortable link below:
 | **[Mastagni Holstedt, A Professional Corporation](https://www.mastagni.com/)** | **[Labor Relations Consultant](https://jobright.ai/jobs/info/69c1959c75f7ff1cd80fbe67?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Mar 23 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Implementation Consultant - Financials - PACE](https://jobright.ai/jobs/info/69c1956675f7ff1cd80fbd87?utm_campaign=Consultant&utm_source=1103)** | Lubbock, Texas | On Site | Mar 23 |
 | ↳ | **[Implementation Consultant - Financials - PACE](https://jobright.ai/jobs/info/69c1956475f7ff1cd80fbd7d?utm_campaign=Consultant&utm_source=1103)** | Yarmouth, Maine | On Site | Mar 23 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Consultant - Data & Analytics, Assurance - New Grad 2027 - Vancouver](https://jobright.ai/jobs/info/69a59001359fe034b1d02b6c?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Mar 23 |
-| ↳ | **[Consultant - IT Audit & Assurance - New Grad 2026/2027 - Multiple Locations](https://jobright.ai/jobs/info/69a58e7e359fe034b1d02877?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Mar 23 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Consultant - IT Audit & Assurance - New Grad 2026/2027 - Multiple Locations](https://jobright.ai/jobs/info/69a58e7e359fe034b1d02877?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Mar 23 |
+| ↳ | **[Consultant - Data & Analytics, Assurance - New Grad 2027 - Vancouver](https://jobright.ai/jobs/info/69a59001359fe034b1d02b6c?utm_campaign=Consultant&utm_source=1103)** | Vancouver, BC | Hybrid | Mar 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69c18bf52c312363dcd48adc?utm_campaign=Consultant&utm_source=1103)** | Maitland, FL | On Site | Mar 23 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Consultant - Controls Assurance & Reporting Advisory - New Grad 2026/2027 - Multiple Locations](https://jobright.ai/jobs/info/69a58f2c0da45516f16e383b?utm_campaign=Consultant&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Mar 23 |
 | **[ADT](http://www.adt.com)** | **[Smart Home Consultant](https://jobright.ai/jobs/info/69c186f42c312363dcd484ce?utm_campaign=Consultant&utm_source=1103)** | Shoreview, MN | On Site | Mar 23 |
@@ -209,7 +210,8 @@ For a complete list, click the following sortable link below:
 | **[Riveron](https://riveron.com)** | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a254e8359fe034b1cd8e85?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Mar 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69461e21d1953b5d11bf38f5?utm_campaign=Consultant&utm_source=1103)** | Manassas, VA | On Site | Mar 21 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Consultant - Puerto Rico](https://jobright.ai/jobs/info/69bed702b1060245628445df?utm_campaign=Consultant&utm_source=1103)** | San Juan, PR, US | On Site | Mar 21 |
-| **[Riveron](https://riveron.com)** | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a24b25359fe034b1cd8653?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Mar 21 |
+| **[Riveron](https://riveron.com)** | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a2558fb600907a96289dfe?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Mar 21 |
+| ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a24b25359fe034b1cd8653?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a25a45359fe034b1cd93c6?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Mar 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6913af93e344172248f73396?utm_campaign=Consultant&utm_source=1103)** | Katy, TX | On Site | Mar 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69bebac248282272930178c0?utm_campaign=Consultant&utm_source=1103)** | Baton Rouge, LA | On Site | Mar 21 |
@@ -269,9 +271,9 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant](https://jobright.ai/jobs/info/69bcaecc4828227293fe93d6?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Mar 19 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69ae855c4f6bcc182809c754?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 19 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Mental Health Consultant- PRN -AAMC](https://jobright.ai/jobs/info/69bc7f3645e08b3dc1f93db8?utm_campaign=Consultant&utm_source=1103)** | Annapolis, MD | On Site | Mar 19 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc865f4828227293fe64c8?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Mar 19 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc829045e08b3dc1f9407e?utm_campaign=Consultant&utm_source=1103)** | Elmwood Park, NJ | On Site | Mar 19 |
+| ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc865f4828227293fe64c8?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Mar 19 |
 | ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc80f75b89c002acf23f89?utm_campaign=Consultant&utm_source=1103)** | New Jersey, United States | On Site | Mar 19 |
-| ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc829045e08b3dc1f9407e?utm_campaign=Consultant&utm_source=1103)** | Elmwood Park, NJ | On Site | Mar 19 |
 | ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc5f945b89c002acf1fbef?utm_campaign=Consultant&utm_source=1103)** | Blue Bell, PA | On Site | Mar 19 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Regional Leasing Consultant (South Bay Neighborhoods)](https://jobright.ai/jobs/info/69bc49504828227293fdea3f?utm_campaign=Consultant&utm_source=1103)** | Cupertino, California, United States | On Site | Mar 19 |
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[Strategy and Execution - Business Execution Consultant 1 - Contingent](https://jobright.ai/jobs/info/69c4239c6f4f855eeda67f57?utm_campaign=Consultant&utm_source=1103)** | MCLEAN, VA | On Site | Mar 19 |
@@ -302,26 +304,4 @@ For a complete list, click the following sortable link below:
 | **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Analyst, Supply Chain Solutions](https://jobright.ai/jobs/info/699f968f23374b3b6e6b682a?utm_campaign=Consultant&utm_source=1103)** | Des Plaines, IL | Hybrid | Mar 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69bbcb4dc42b5f0532920341?utm_campaign=Consultant&utm_source=1103)** | Crown Point, IN | On Site | Mar 19 |
 | **[Aramark](http://www.aramark.com)** | **[Purchasing Consultant](https://jobright.ai/jobs/info/69bb9c91569738374141afd6?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Mar 18 |
-| **[Renuity](http://renuityhome.com/)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71d43b74eb1e2c89dd74?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71cb3b74eb1e2c89dd5b?utm_campaign=Consultant&utm_source=1103)** | Trenton, NJ | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71cb3b74eb1e2c89dd5c?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71ca56973837414174dd?utm_campaign=Consultant&utm_source=1103)** | Wilson, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71ca56973837414174e1?utm_campaign=Consultant&utm_source=1103)** | Morrisville, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71c13b74eb1e2c89dd3e?utm_campaign=Consultant&utm_source=1103)** | Malvern, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71c13b74eb1e2c89dd43?utm_campaign=Consultant&utm_source=1103)** | Exton, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71c13b74eb1e2c89dd3c?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71ba56973837414174be?utm_campaign=Consultant&utm_source=1103)** | Langhorne, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71ba56973837414174bb?utm_campaign=Consultant&utm_source=1103)** | Bensalem, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71b156973837414174a2?utm_campaign=Consultant&utm_source=1103)** | Greensboro, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71b156973837414174a0?utm_campaign=Consultant&utm_source=1103)** | Pennsylvania, United States | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71b156973837414174a1?utm_campaign=Consultant&utm_source=1103)** | Chapel Hill, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb71a75697383741417484?utm_campaign=Consultant&utm_source=1103)** | Newark, DE | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb711006c1ba00c54de7eb?utm_campaign=Consultant&utm_source=1103)** | Durham, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb710706c1ba00c54de7cf?utm_campaign=Consultant&utm_source=1103)** | King of Prussia, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb710706c1ba00c54de7c8?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb70fe06c1ba00c54de7ad?utm_campaign=Consultant&utm_source=1103)** | Apex, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb70fe06c1ba00c54de7ac?utm_campaign=Consultant&utm_source=1103)** | West Chester, PA | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb70f606c1ba00c54de75f?utm_campaign=Consultant&utm_source=1103)** | Winston-Salem, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb70f606c1ba00c54de75d?utm_campaign=Consultant&utm_source=1103)** | Winston-Salem, NC | On Site | Mar 18 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69bb70eb06c1ba00c54de71c?utm_campaign=Consultant&utm_source=1103)** | Chapel Hill, NC | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
