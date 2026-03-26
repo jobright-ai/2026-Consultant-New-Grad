@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnifi Financial](https://www.mymagnifi.org/)** | **[Banking Consultant I](https://jobright.ai/jobs/info/69c455a96f4f855eeda6c9fb?utm_campaign=Consultant&utm_source=1103)** | Little Falls, MN | On Site | Mar 25 |
 | **[The Hartford](http://www.thehartford.com)** | **[Payroll and Tax Consultant](https://jobright.ai/jobs/info/69c44d9d33eecf3107948507?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Mar 25 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/67d1d23e894512f198a95cf8?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Mar 25 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69c439b733eecf31079463cc?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Mar 25 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Fath Properties](https://fathproperties.com/)** | **[Leasing Consultant - Floater](https://jobright.ai/jobs/info/69c44f9e6f4f855eeda6c1bd?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, Ohio, Ohio | On Site | Mar 25 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69c404c6d5a1016e98db0a5e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 25 |
 | ↳ | **[Remote Entry-Level Consulting Specialist WILL TRAIN](https://jobright.ai/jobs/info/69c404c56f4f855eeda65b5e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 25 |
-| **[Jacobs](http://www.jacobs.com)** | **[Jr Digital Advisory Consultant](https://jobright.ai/jobs/info/69b270c5a8ac8e70ff665c7c?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Mar 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Cost Basis Consultant](https://jobright.ai/jobs/info/69c3fdbc33eecf3107941774?utm_campaign=Consultant&utm_source=1103)** | Fort Mill, SC | Hybrid | Mar 25 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/698aa759c5761b521a99ee2f?utm_campaign=Consultant&utm_source=1103)** | California, United States | On Site | Mar 25 |
 | **[The Hartford](http://www.thehartford.com)** | **[Payroll and Tax Consultant](https://jobright.ai/jobs/info/69c421dc33eecf3107943c95?utm_campaign=Consultant&utm_source=1103)** | United States - Remote | Remote | Mar 25 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Knight Transportation](http://knighttrans.com)** | **[Learning & Development Consultant](https://jobright.ai/jobs/info/69c2e824ec22f8310ab0e0dc?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | On Site | Mar 24 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/69c2ddf294007a2195dee14b?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | On Site | Mar 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69a724882672cb0acb4b9247?utm_campaign=Consultant&utm_source=1103)** | Dearborn, MI | On Site | Mar 24 |
-| **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Financial Services / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Business Development / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f4?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
+| **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Business Development / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f4?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Financial Services / Remote / will Train](https://jobright.ai/jobs/info/69c3037aec22f8310ab109f3?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 24 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Risk Control Consultant](https://jobright.ai/jobs/info/699d168fe0bddb6acacc34cb?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH | On Site | Mar 24 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Alternative Schedule](https://jobright.ai/jobs/info/69c33a54753c101b2156df2f?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | Mar 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69c2d0c394007a2195decdc2?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Mar 24 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[Crossmark Global Investments, Inc.](https://www.crossmarkwealth.com)** | **[Regional Consultant (Internal Wholesaler)](https://jobright.ai/jobs/info/69a5da5a359fe034b1d086d8?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Mar 24 |
 | **[Pariveda](http://www.parivedasolutions.com)** | **[Technical Consultant, Software Engineering](https://jobright.ai/jobs/info/69a60b080da45516f16ee60e?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON | Hybrid | Mar 24 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Implementation Consultant, Sage Intacct](https://jobright.ai/jobs/info/696de91a5fc86241853caecd?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | Remote | Mar 24 |
-| ↳ | **[Implementation Consultant, Sage Intacct](https://jobright.ai/jobs/info/696df5df350cf4380314be7a?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Remote | Mar 24 |
 | ↳ | **[Implementation Consultant, Sage Intacct](https://jobright.ai/jobs/info/696df7f7350cf4380314c42a?utm_campaign=Consultant&utm_source=1103)** | Oregon, United States | Remote | Mar 24 |
+| ↳ | **[Implementation Consultant, Sage Intacct](https://jobright.ai/jobs/info/696df5df350cf4380314be7a?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Remote | Mar 24 |
 | **[ADT](http://www.adt.com)** | **[Smart Home Consultant](https://jobright.ai/jobs/info/69c29188ec22f8310ab06baf?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | On Site | Mar 24 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Implementation Consultant, Sage Intacct](https://jobright.ai/jobs/info/696de8eddb26b6189510d668?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA | Remote | Mar 24 |
 | **[SchoolsFirst Federal Credit Union](http://www.schoolsfirstfcu.org)** | **[Real Estate Branch Loan Consultant](https://jobright.ai/jobs/info/69a5e225359fe034b1d09754?utm_campaign=Consultant&utm_source=1103)** | West Covina, CA | On Site | Mar 24 |
@@ -280,9 +280,9 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Functional Consultant](https://jobright.ai/jobs/info/69bcaecc4828227293fe93d6?utm_campaign=Consultant&utm_source=1103)** | San Francisco Bay Area | Hybrid | Mar 19 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69ae855c4f6bcc182809c754?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 19 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Mental Health Consultant- PRN -AAMC](https://jobright.ai/jobs/info/69bc7f3645e08b3dc1f93db8?utm_campaign=Consultant&utm_source=1103)** | Annapolis, MD | On Site | Mar 19 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc865f4828227293fe64c8?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Mar 19 |
-| ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc80f75b89c002acf23f89?utm_campaign=Consultant&utm_source=1103)** | New Jersey, United States | On Site | Mar 19 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc80f75b89c002acf23f89?utm_campaign=Consultant&utm_source=1103)** | New Jersey, United States | On Site | Mar 19 |
 | ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc829045e08b3dc1f9407e?utm_campaign=Consultant&utm_source=1103)** | Elmwood Park, NJ | On Site | Mar 19 |
+| ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc865f4828227293fe64c8?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Mar 19 |
 | ↳ | **[Broker Consultant I](https://jobright.ai/jobs/info/69bc5f945b89c002acf1fbef?utm_campaign=Consultant&utm_source=1103)** | Blue Bell, PA | On Site | Mar 19 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Regional Leasing Consultant (South Bay Neighborhoods)](https://jobright.ai/jobs/info/69bc49504828227293fdea3f?utm_campaign=Consultant&utm_source=1103)** | Cupertino, California, United States | On Site | Mar 19 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/69b3bb2aae2a534885eb28cf?utm_campaign=Consultant&utm_source=1103)** | Armonk, NY | On Site | Mar 19 |
@@ -297,8 +297,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/699f84cb81476f6176b92279?utm_campaign=Consultant&utm_source=1103)** | Youngstown, OH | On Site | Mar 19 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Associate Consultant - Business Analyst](https://jobright.ai/jobs/info/69ae50da3de6821aaccda7c9?utm_campaign=Consultant&utm_source=1103)** | Albany, NY | Hybrid | Mar 19 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/699fe58b53d97f23ee6571f5?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | On Site | Mar 19 |
-| ↳ | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/69aa4d669ca4e908ec65a579?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | Mar 19 |
 | ↳ | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/699fc1d2d643757b0e45478a?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Mar 19 |
+| ↳ | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/69aa4d669ca4e908ec65a579?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | Mar 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69bc042d5b89c002acf0ee7a?utm_campaign=Consultant&utm_source=1103)** | Santa Rosa, CA | On Site | Mar 19 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69bc04255b89c002acf0ee4b?utm_campaign=Consultant&utm_source=1103)** | Edinburg, TX | On Site | Mar 19 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69bc040a4828227293fd1b88?utm_campaign=Consultant&utm_source=1103)** | Hoover, AL | On Site | Mar 19 |
@@ -310,5 +310,4 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Analytics Consultant](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e40c7?utm_campaign=Consultant&utm_source=1103)** | Harrisburg, PA | On Site | Mar 19 |
 | **[CJ Logistics America](https://cjlogisticsamerica.com/)** | **[Analyst, Supply Chain Solutions](https://jobright.ai/jobs/info/699f968f23374b3b6e6b682a?utm_campaign=Consultant&utm_source=1103)** | Des Plaines, IL | Hybrid | Mar 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69bbcb4dc42b5f0532920341?utm_campaign=Consultant&utm_source=1103)** | Crown Point, IN | On Site | Mar 19 |
-| **[Aramark](http://www.aramark.com)** | **[Purchasing Consultant](https://jobright.ai/jobs/info/69bb9c91569738374141afd6?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
