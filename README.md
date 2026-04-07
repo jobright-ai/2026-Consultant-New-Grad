@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69bb899606c1ba00c54e0568?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, NY | On Site | Apr 07 |
+| **[Rokt](https://www.rokt.com)** | **[Solutions Consultant, Customer Data Platform](https://jobright.ai/jobs/info/69d4df3e366bb95ba55412cb?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 07 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Health Consulting Analyst- Los Angeles](https://jobright.ai/jobs/info/69d48d4fe63cea7a8b65ac58?utm_campaign=Consultant&utm_source=1103)** | Denver - 1001 17th St | Hybrid | Apr 06 |
 | ↳ | **[Health Consulting Analyst- Los Angeles](https://jobright.ai/jobs/info/69d48d4a54f00230c6d322fa?utm_campaign=Consultant&utm_source=1103)** | Los Angeles - West 5th | Hybrid | Apr 06 |
 | ↳ | **[Health Consulting Analyst- Los Angeles](https://jobright.ai/jobs/info/69d48d48cfdc6132f945bc83?utm_campaign=Consultant&utm_source=1103)** | Seattle - Fifth Avenue | Hybrid | Apr 06 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2f51f17554c2d9eeec0af?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Apr 04 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d219cd366bb95ba552c298?utm_campaign=Consultant&utm_source=1103)** | Morehead City, NC | On Site | Apr 04 |
 | **[Sun Life Québec](https://www.sunlife.ca/ca?vgnLocale=fr_CA)** | **[Financial Services Consultant - Client Relationship Team](https://jobright.ai/jobs/info/69bc082e4828227293fd20f0?utm_campaign=Consultant&utm_source=1103)** | Montreal, QC | Hybrid | Apr 04 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927b43fd47de4798ecdfbd4?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 04 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/69438fcfdd382f5f5669b1ce?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 04 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cecdee366bb95ba550f87f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 04 |
 | **[Ackermann Group](https://ackermanngroup.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69d0ccc40b098b7a6707db8f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | On Site | Apr 04 |
 | **[Coretelligent](http://coretelligent.com)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/69cbf6c5891d7b11cfca9c1b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 03 |
@@ -168,24 +170,23 @@ For a complete list, click the following sortable link below:
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698638490f6f7e7a2ce11a57?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Apr 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Cybersecurity Consultant](https://jobright.ai/jobs/info/69ceff77366bb95ba5511eec?utm_campaign=Consultant&utm_source=1103)** | LA Metro Area | Hybrid | Apr 02 |
 | **[Lightspeed Commerce](http://www.lightspeedhq.com)** | **[Implementation Consultant (Golf)](https://jobright.ai/jobs/info/69ceee6ccfdc6132f942e009?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON | Hybrid | Apr 02 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76a?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439d9366bb95ba553be04?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a7c?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76c?utm_campaign=Consultant&utm_source=1103)** | Detroit, Michigan, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658061?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f9459060?utm_campaign=Consultant&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f945905f?utm_campaign=Consultant&utm_source=1103)** | Miami, Florida, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43934891d7b11cfcf8a33?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania, United States | On Site | Apr 02 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658061?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658060?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, Michigan, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a79?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439d9366bb95ba553be04?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439e0366bb95ba553be0a?utm_campaign=Consultant&utm_source=1103)** | Tempe, Arizona, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76c?utm_campaign=Consultant&utm_source=1103)** | Detroit, Michigan, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43934891d7b11cfcf8a33?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f9459060?utm_campaign=Consultant&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a79?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f945905f?utm_campaign=Consultant&utm_source=1103)** | Miami, Florida, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76a?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a7c?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States | On Site | Apr 02 |
 | **[Georgia United Credit Union](http://gucu.org)** | **[Consumer Lending Consultant (Hybrid)](https://jobright.ai/jobs/info/69cee340891d7b11cfccdef7?utm_campaign=Consultant&utm_source=1103)** | Duluth, GA | Hybrid | Apr 02 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Business Technology Analyst / Consultant (Technology Strategy and Transformation)](https://jobright.ai/jobs/info/69cf9455891d7b11cfcd48fc?utm_campaign=Consultant&utm_source=1103)** | Kitchener, ON | Hybrid | Apr 02 |
 | **[Logistics Reply US](http://www.lea-reply.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69cee16154f00230c6d044fa?utm_campaign=Consultant&utm_source=1103)** | Detroit Metro | Hybrid | Apr 02 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Analyst - Health and Benefits Consulting](https://jobright.ai/jobs/info/69cee13c891d7b11cfccdb87?utm_campaign=Consultant&utm_source=1103)** | One World Financial Center, New York, NY, 10281, US | On Site | Apr 02 |
 | **[Logistics Reply US](http://www.lea-reply.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69ceff64398fb071abf8b8b0?utm_campaign=Consultant&utm_source=1103)** | Greater Chicago Area | Hybrid | Apr 02 |
 | **[Lightspeed Commerce](http://www.lightspeedhq.com)** | **[Implementation Consultant (Golf)](https://jobright.ai/jobs/info/69ced447cfdc6132f942ca2c?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 02 |
-| **[SocialPrint](https://www.linkedin.com/company/107639756)** | **[Automotive Consultant](https://jobright.ai/jobs/info/69ceea49398fb071abf8aa24?utm_campaign=Consultant&utm_source=1103)** | Atlanta Metro | On Site | Apr 02 |
 | **[Leyton](https://www.leyton.com/uk)** | **[Experienced Consultant – R&D & Innovation Funding (Financial Consultant)](https://jobright.ai/jobs/info/69b203fcd04c69566c74a9cc?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Apr 02 |
 | **[Fath Properties](https://fathproperties.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69cee1c1cdb525785fb9c972?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX, Texas | On Site | Apr 02 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/68caf76cd905e25191d9df3a?utm_campaign=Consultant&utm_source=1103)** | Melville, NY | On Site | Apr 02 |
@@ -235,8 +236,8 @@ For a complete list, click the following sortable link below:
 | **[DXC Technology](https://www.dxc.com)** | **[Early Career Strategy Consultant – Insurance & Business Administration](https://jobright.ai/jobs/info/69cdd7b854f00230c6cf70eb?utm_campaign=Consultant&utm_source=1103)** | USA - NY - NEW YORK | On Site | Apr 01 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69cdd1c3cdb525785fb8f103?utm_campaign=Consultant&utm_source=1103)** | NEW HAVEN, CT, 06511 | On Site | Apr 01 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69cdd19d398fb071abf7ca98?utm_campaign=Consultant&utm_source=1103)** | Everett, MA, 02149 | On Site | Apr 01 |
-| ↳ | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/69ce55c3cdb525785fb96b2e?utm_campaign=Consultant&utm_source=1103)** | Stamford, CT, 06901 | On Site | Apr 01 |
 | ↳ | **[Roving Leasing Consultant ($2,000 Sign-On Bonus)](https://jobright.ai/jobs/info/69cdf2cd891d7b11cfcc317c?utm_campaign=Consultant&utm_source=1103)** | Noroton, CT, 06820 | On Site | Apr 01 |
+| ↳ | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/69ce55c3cdb525785fb96b2e?utm_campaign=Consultant&utm_source=1103)** | Stamford, CT, 06901 | On Site | Apr 01 |
 | **[ADT](http://www.adt.com)** | **[Smart Home Consultant](https://jobright.ai/jobs/info/69ce0c93398fb071abf80ba4?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | On Site | Apr 01 |
 | ↳ | **[Smart Home Consultant](https://jobright.ai/jobs/info/69ce0c9f398fb071abf80bb7?utm_campaign=Consultant&utm_source=1103)** | Winston-Salem, NC | On Site | Apr 01 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/69cdcbcc54f00230c6cf65b5?utm_campaign=Consultant&utm_source=1103)** | McKinney, TX | On Site | Apr 01 |
@@ -282,8 +283,8 @@ For a complete list, click the following sortable link below:
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd3fbb398fb071abf73358?utm_campaign=Consultant&utm_source=1103)** | California, United States | Remote | Apr 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cd4f8354f00230c6cee382?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 01 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cd4f93891d7b11cfcb7a62?utm_campaign=Consultant&utm_source=1103)** | Port Chester, NY | On Site | Apr 01 |
-| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd2fa654f00230c6cecec7?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - MA | Remote | Apr 01 |
-| ↳ | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd2fa654f00230c6cececa?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - CO | Remote | Apr 01 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd2fa654f00230c6cececa?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - CO | Remote | Apr 01 |
+| ↳ | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd2fa654f00230c6cecec7?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - MA | Remote | Apr 01 |
 | ↳ | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd2fa2cdb525785fb8564c?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - IL | Remote | Apr 01 |
 | ↳ | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd2fa2cdb525785fb8564b?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - AZ | Remote | Apr 01 |
 | ↳ | **[Chronosphere - Professional Service Consultant](https://jobright.ai/jobs/info/69cd2f9e366bb95ba54f950d?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - NJ | Remote | Apr 01 |
@@ -315,8 +316,8 @@ For a complete list, click the following sortable link below:
 | **[STOUT](http://www.wearestout.com)** | **[Consultant, Industrials/Professional Services - Stout Strategy](https://jobright.ai/jobs/info/69cc88a58130af1ac833b3a1?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Mar 31 |
 | ↳ | **[Consultant, Industrials/Professional Services - Stout Strategy](https://jobright.ai/jobs/info/69cc88a0e1921223acc78d79?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Mar 31 |
 | **[Arizona Financial Credit Union](https://www.arizonafinancial.org)** | **[Teleservices Consultant- Bilingual](https://jobright.ai/jobs/info/69cca33ee1921223acc7afc0?utm_campaign=Consultant&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
-| **[Stout](http://www.stout.com)** | **[Consultant, Industrials/Professional Services - Stout Strategy](https://jobright.ai/jobs/info/69cc7934cdb525785fb7ba15?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Mar 31 |
-| ↳ | **[Consultant, Industrials/Professional Services - Stout Strategy](https://jobright.ai/jobs/info/69cc7934366bb95ba54efa0c?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Mar 31 |
+| **[Stout](http://www.stout.com)** | **[Consultant, Industrials/Professional Services - Stout Strategy](https://jobright.ai/jobs/info/69cc7934366bb95ba54efa0c?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Mar 31 |
+| ↳ | **[Consultant, Industrials/Professional Services - Stout Strategy](https://jobright.ai/jobs/info/69cc7934cdb525785fb7ba15?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | On Site | Mar 31 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/69829eae0f6f7e7a2cdbf0c2?utm_campaign=Consultant&utm_source=1103)** | Concord, NC | On Site | Mar 31 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Burlingame, CA](https://jobright.ai/jobs/info/69cc8bbd891d7b11cfcafb7c?utm_campaign=Consultant&utm_source=1103)** | Burlingame, CA | On Site | Mar 31 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69cc825ae1921223acc7799d?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Mar 31 |
@@ -336,8 +337,4 @@ For a complete list, click the following sortable link below:
 | **[Unum](http://www.unum.com)** | **[Client Experience Consultant](https://jobright.ai/jobs/info/69cc3159e1921223acc74763?utm_campaign=Consultant&utm_source=1103)** | Chattanooga, TN | On Site | Mar 31 |
 | **[Coretelligent](http://coretelligent.com)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/69cc6513891d7b11cfcac218?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Mar 31 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68d7574c295f8e37655d53d3?utm_campaign=Consultant&utm_source=1103)** | Summerfield, FL | On Site | Mar 31 |
-| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Technology Implementation Consultant](https://jobright.ai/jobs/info/69af73dd749500645093e75c?utm_campaign=Consultant&utm_source=1103)** | Madison, WI | Hybrid | Mar 31 |
-| **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69ccfb94891d7b11cfcb56b1?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Remote | Mar 31 |
-| **[PanAgora Asset Management](http://www.panagora.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cd8beacfdc6132f941cdb3?utm_campaign=Consultant&utm_source=1103)** | IL Chicago - Remote | Remote | Mar 31 |
-| ↳ | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cd8c17366bb95ba54ffe19?utm_campaign=Consultant&utm_source=1103)** | Nationwide Remote | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
