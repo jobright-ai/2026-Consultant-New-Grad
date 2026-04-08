@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KCOM](http://www.kcom.com)** | **[Purchasing Consultant](https://jobright.ai/jobs/info/69d69d0d52a5bf5800129bab?utm_campaign=Consultant&utm_source=1103)** | Hull, TX | Hybrid | Apr 08 |
+| **[Freedom Mortgage](https://www.freedommortgage.com)** | **[Home Loan Consultant](https://jobright.ai/jobs/info/69bb8c19569738374141a1b7?utm_campaign=Consultant&utm_source=1103)** | Columbia, MD | On Site | Apr 08 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d68ce852a5bf5800129763?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d68cbecfdc6132f946aa22?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Financial Services Consultant- Teller Banker (Part Time)Financial Services Consultant- Teller / Personal Banker](https://jobright.ai/jobs/info/69d68a20706f771673bab5ce?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Apr 08 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[ERP Implementation Consultant](https://jobright.ai/jobs/info/69d59dfacdb525785fbd229c?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 07 |
 | **[Sia Experience](https://www.siaxperience.com)** | **[Strategy Consultant- Healthcare and Life Sciences](https://jobright.ai/jobs/info/69d594e0cfdc6132f9463672?utm_campaign=Consultant&utm_source=1103)** | 6810 Deerpath Rd Suite 405, Elkridge, Maryland, United States | On Site | Apr 07 |
 | **[Mansfield Agency](https://www.linkedin.com/company/106334908)** | **[Virtual Consultants - Remote Work From Home Position](https://jobright.ai/jobs/info/69d58de0891d7b11cfd02eb4?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | Remote | Apr 07 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c86?utm_campaign=Consultant&utm_source=1103)** | Edmonton, AB | Hybrid | Apr 07 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c87?utm_campaign=Consultant&utm_source=1103)** | Calgary, AB | Hybrid | Apr 07 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c87?utm_campaign=Consultant&utm_source=1103)** | Calgary, AB | Hybrid | Apr 07 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c86?utm_campaign=Consultant&utm_source=1103)** | Edmonton, AB | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d58360e63cea7a8b661ea2?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d582c6cdb525785fbd17ae?utm_campaign=Consultant&utm_source=1103)** | Ottawa, ON | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d582b4366bb95ba5545aed?utm_campaign=Consultant&utm_source=1103)** | Halifax, NS | Hybrid | Apr 07 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540f6e63cea7a8b65fbe4?utm_campaign=Consultant&utm_source=1103)** | Naperville, IL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e7366bb95ba55438fc?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e0891d7b11cfd00718?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2d?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2e?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | Hybrid | Apr 07 |
+| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2d?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540d4cdb525785fbcf56d?utm_campaign=Consultant&utm_source=1103)** | Sunrise, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540d0706f771673ba1a12?utm_campaign=Consultant&utm_source=1103)** | Clinton, NY | Hybrid | Apr 07 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d53dc5e63cea7a8b65f95c?utm_campaign=Consultant&utm_source=1103)** | Halifax - Mumford Rd | Hybrid | Apr 07 |
@@ -134,14 +136,13 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef7d?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ-Raintree Drive | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef75?utm_campaign=Consultant&utm_source=1103)** | Charlotte NC-South Tryon St. | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532b8366bb95ba55432dd?utm_campaign=Consultant&utm_source=1103)** | Alpharetta,GA-NPointPkwy-Maxum | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d53252891d7b11cfd000d4?utm_campaign=Consultant&utm_source=1103)** | Clinton NY, 301 Woods Park Dr | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d53252891d7b11cfd000d2?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
+| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d53252891d7b11cfd000d4?utm_campaign=Consultant&utm_source=1103)** | Clinton NY, 301 Woods Park Dr | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d5320fcfdc6132f94605a5?utm_campaign=Consultant&utm_source=1103)** | Hartford CT- Home Office | Hybrid | Apr 07 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69d531ea366bb95ba5543169?utm_campaign=Consultant&utm_source=1103)** | Coram, NY, 11727 | On Site | Apr 07 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69d531e7366bb95ba5543159?utm_campaign=Consultant&utm_source=1103)** | Alexandria, VA, 22301 | On Site | Apr 07 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Advisory](https://jobright.ai/jobs/info/69ce4175398fb071abf8340d?utm_campaign=Consultant&utm_source=1103)** | Sault Ste. Marie, ON | Hybrid | Apr 07 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Associate Consultant](https://jobright.ai/jobs/info/6970144c82817106e9772fc5?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Apr 07 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d5264e706f771673ba0da9?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d60dd2cfdc6132f94684dc?utm_campaign=Consultant&utm_source=1103)** | Key West, FL | On Site | Apr 07 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Business Generation Consultant](https://jobright.ai/jobs/info/69d5261f891d7b11cfcffa9d?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Apr 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d60dc8891d7b11cfd08020?utm_campaign=Consultant&utm_source=1103)** | Ridgeland, MS | On Site | Apr 07 |
@@ -149,7 +150,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d52264cfdc6132f945fdca?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Apr 07 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d538a8cdb525785fbcf214?utm_campaign=Consultant&utm_source=1103)** | Palm Desert, CA | On Site | Apr 07 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/69a72b2d2672cb0acb4b999e?utm_campaign=Consultant&utm_source=1103)** | Malta, NY | On Site | Apr 07 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d51422706f771673ba06fc?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 07 |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d50a95706f771673ba048c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d5e08f4a12eb12c5e14489?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Apr 07 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d5ff6ee63cea7a8b66727d?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Apr 07 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d5f9f8366bb95ba554a7e7?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Apr 07 |
@@ -218,7 +219,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Staff II Consultant - Strategic CFO Advisory Service - Finance & Business Transformation](https://jobright.ai/jobs/info/68d2f51f17554c2d9eeec0af?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Apr 04 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d219cd366bb95ba552c298?utm_campaign=Consultant&utm_source=1103)** | Morehead City, NC | On Site | Apr 04 |
 | **[Sun Life Québec](https://www.sunlife.ca/ca?vgnLocale=fr_CA)** | **[Financial Services Consultant - Client Relationship Team](https://jobright.ai/jobs/info/69bc082e4828227293fd20f0?utm_campaign=Consultant&utm_source=1103)** | Montreal, QC | Hybrid | Apr 04 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927b43fd47de4798ecdfbd4?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 04 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/69438fcfdd382f5f5669b1ce?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 04 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cecdee366bb95ba550f87f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 04 |
 | **[Ackermann Group](https://ackermanngroup.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69d0ccc40b098b7a6707db8f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | On Site | Apr 04 |
 | **[Coretelligent](http://coretelligent.com)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/69cbf6c5891d7b11cfca9c1b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 03 |
@@ -269,17 +270,17 @@ For a complete list, click the following sortable link below:
 | **[Reply](http://www.reply.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69d5c234891d7b11cfd04eab?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL, US | On Site | Apr 02 |
 | ↳ | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69d5c2d3cfdc6132f94653d4?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI, US | On Site | Apr 02 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant – Retirement Benefits Group](https://jobright.ai/jobs/info/69ce6e54398fb071abf8518c?utm_campaign=Consultant&utm_source=1103)** | Fort Myers, FL | On Site | Apr 02 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a7c?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f9459060?utm_campaign=Consultant&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Apr 02 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43934891d7b11cfcf8a33?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76a?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76c?utm_campaign=Consultant&utm_source=1103)** | Detroit, Michigan, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439e0366bb95ba553be0a?utm_campaign=Consultant&utm_source=1103)** | Tempe, Arizona, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658061?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439d9366bb95ba553be04?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658060?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, Michigan, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43934891d7b11cfcf8a33?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f945905f?utm_campaign=Consultant&utm_source=1103)** | Miami, Florida, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a79?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658060?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, Michigan, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f9459060?utm_campaign=Consultant&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f945905f?utm_campaign=Consultant&utm_source=1103)** | Miami, Florida, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76c?utm_campaign=Consultant&utm_source=1103)** | Detroit, Michigan, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a7c?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States | On Site | Apr 02 |
 | **[Georgia United Credit Union](http://gucu.org)** | **[Consumer Lending Consultant (Hybrid)](https://jobright.ai/jobs/info/69cee340891d7b11cfccdef7?utm_campaign=Consultant&utm_source=1103)** | Duluth, GA | Hybrid | Apr 02 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Business Technology Analyst / Consultant (Technology Strategy and Transformation)](https://jobright.ai/jobs/info/69cf9455891d7b11cfcd48fc?utm_campaign=Consultant&utm_source=1103)** | Kitchener, ON | Hybrid | Apr 02 |
 | **[Logistics Reply US](http://www.lea-reply.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69cee16154f00230c6d044fa?utm_campaign=Consultant&utm_source=1103)** | Detroit Metro | Hybrid | Apr 02 |
@@ -326,10 +327,4 @@ For a complete list, click the following sortable link below:
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Spend Management Analyst - Kyriba Consultant](https://jobright.ai/jobs/info/69d5e831891d7b11cfd06bc2?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Remote | Apr 01 |
 | **[DXC Technology](https://www.dxc.com)** | **[Early Career Strategy Consultant – Insurance & Business Administration](https://jobright.ai/jobs/info/69cdee9d366bb95ba5504872?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/68e926170930fe0bc46229aa?utm_campaign=Consultant&utm_source=1103)** | Utica, MI | On Site | Apr 01 |
-| **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69cdd1c3cdb525785fb8f103?utm_campaign=Consultant&utm_source=1103)** | NEW HAVEN, CT, 06511 | On Site | Apr 01 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69cdd19d398fb071abf7ca98?utm_campaign=Consultant&utm_source=1103)** | Everett, MA, 02149 | On Site | Apr 01 |
-| ↳ | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/69ce55c3cdb525785fb96b2e?utm_campaign=Consultant&utm_source=1103)** | Stamford, CT, 06901 | On Site | Apr 01 |
-| ↳ | **[Roving Leasing Consultant ($2,000 Sign-On Bonus)](https://jobright.ai/jobs/info/69cdf2cd891d7b11cfcc317c?utm_campaign=Consultant&utm_source=1103)** | Noroton, CT, 06820 | On Site | Apr 01 |
-| **[ADT](http://www.adt.com)** | **[Smart Home Consultant](https://jobright.ai/jobs/info/69ce0c9f398fb071abf80bb7?utm_campaign=Consultant&utm_source=1103)** | Winston-Salem, NC | On Site | Apr 01 |
-| ↳ | **[Smart Home Consultant](https://jobright.ai/jobs/info/69ce0c93398fb071abf80ba4?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
