@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist](https://jobright.ai/jobs/info/69d7d5949f97a42dc9c1865e?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 09 |
+| **[EY-Parthenon](https://www.ey-parthenon.de/)** | **[EY-Parthenon - Strategy and Execution - Economist - Senior Associate-Consultant](https://jobright.ai/jobs/info/69bb5b1d3b74eb1e2c89c8b8?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
+| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist](https://jobright.ai/jobs/info/69d7d053738f2f099e8980b4?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d7c6ad738f2f099e89737a?utm_campaign=Consultant&utm_source=1103)** | Crown Point, IN | On Site | Apr 09 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d7c626f4ea471a51fe087f?utm_campaign=Consultant&utm_source=1103)** | Clearwater, Florida, United States | On Site | Apr 09 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d7c61cb861c42857c45538?utm_campaign=Consultant&utm_source=1103)** | Fort Wayne, IN | On Site | Apr 09 |
@@ -115,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[Financial Services Consultant- Teller Banker](https://jobright.ai/jobs/info/69d689cde63cea7a8b669717?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | Apr 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Technology Consulting Management-CTJ-Poly](https://jobright.ai/jobs/info/69cedaae366bb95ba5510357?utm_campaign=Consultant&utm_source=1103)** | Reston, VA | On Site | Apr 08 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d68cbecfdc6132f946aa22?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
-| ↳ | **[Remote Entry-Level Consulting Specialist](https://jobright.ai/jobs/info/69d6a344366bb95ba554dc96?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69ce9a53398fb071abf86b66?utm_campaign=Consultant&utm_source=1103)** | Santa Monica, CA, 90404 | On Site | Apr 08 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Part Time Leasing Consultant](https://jobright.ai/jobs/info/69d68197706f771673bab0af?utm_campaign=Consultant&utm_source=1103)** | Cedar Park, TX | On Site | Apr 08 |
 | **[FlexibilityCapital](https://flexibilitycapital.com/)** | **[Funding Consultant (Business Financing)](https://jobright.ai/jobs/info/69d6815548f0c8161d2f829a?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 08 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Butler Finacial Services](https://www.linkedin.com/company/111920169)** | **[Independent Financial Consultant](https://jobright.ai/jobs/info/69d66e55e63cea7a8b668d6c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Sun Tan City](http://www.suntancity.com)** | **[Flexible Full Time Wellness Consultant](https://jobright.ai/jobs/info/69d661ba366bb95ba554c55e?utm_campaign=Consultant&utm_source=1103)** | Knoxville, TN | On Site | Apr 08 |
 | ↳ | **[Wellness Consultant Flexible Full Time](https://jobright.ai/jobs/info/69d661b9366bb95ba554c55c?utm_campaign=Consultant&utm_source=1103)** | Knoxville, TN | On Site | Apr 08 |
-| **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d6619748f0c8161d2f7814?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Raymond James](http://www.raymondjames.com)** | **[Financial Planning Consultant](https://jobright.ai/jobs/info/69ba8ef43b74eb1e2c8887b4?utm_campaign=Consultant&utm_source=1103)** | Sycamore, IL | On Site | Apr 08 |
 | **[Blytheco](http://www.blytheco.com)** | **[Sage Intacct Consultant](https://jobright.ai/jobs/info/68b8b7b35b42bc45628274a7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Sun Tan City](http://www.suntancity.com)** | **[Flexible Full Time Wellness Consultant](https://jobright.ai/jobs/info/69d6617c706f771673baa63d?utm_campaign=Consultant&utm_source=1103)** | Cookeville, TN | On Site | Apr 08 |
@@ -152,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Consultant - Flex](https://jobright.ai/jobs/info/69d5a791cdb525785fbd2655?utm_campaign=Consultant&utm_source=1103)** | Langford, BC | On Site | Apr 07 |
 | **[Odoo](http://www.odoo.com)** | **[ERP Implementation Consultant](https://jobright.ai/jobs/info/69d59dfacdb525785fbd229c?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 07 |
 | **[Sia Experience](https://www.siaxperience.com)** | **[Strategy Consultant- Healthcare and Life Sciences](https://jobright.ai/jobs/info/69d594e0cfdc6132f9463672?utm_campaign=Consultant&utm_source=1103)** | 6810 Deerpath Rd Suite 405, Elkridge, Maryland, United States | On Site | Apr 07 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c87?utm_campaign=Consultant&utm_source=1103)** | Calgary, AB | Hybrid | Apr 07 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c86?utm_campaign=Consultant&utm_source=1103)** | Edmonton, AB | Hybrid | Apr 07 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c86?utm_campaign=Consultant&utm_source=1103)** | Edmonton, AB | Hybrid | Apr 07 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d583bf706f771673ba3c87?utm_campaign=Consultant&utm_source=1103)** | Calgary, AB | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d58360e63cea7a8b661ea2?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d582c6cdb525785fbd17ae?utm_campaign=Consultant&utm_source=1103)** | Ottawa, ON | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d582b4366bb95ba5545aed?utm_campaign=Consultant&utm_source=1103)** | Halifax, NS | Hybrid | Apr 07 |
@@ -174,8 +175,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540f6e63cea7a8b65fbe4?utm_campaign=Consultant&utm_source=1103)** | Naperville, IL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e7366bb95ba55438fc?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e0891d7b11cfd00718?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2d?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2e?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | Hybrid | Apr 07 |
+| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2d?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540d4cdb525785fbcf56d?utm_campaign=Consultant&utm_source=1103)** | Sunrise, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540d0706f771673ba1a12?utm_campaign=Consultant&utm_source=1103)** | Clinton, NY | Hybrid | Apr 07 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d53dc5e63cea7a8b65f95c?utm_campaign=Consultant&utm_source=1103)** | Halifax - Mumford Rd | Hybrid | Apr 07 |
@@ -186,8 +187,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d53dadcdb525785fbcf2ea?utm_campaign=Consultant&utm_source=1103)** | Ottawa - Kent St | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d53dabcfdc6132f9460988?utm_campaign=Consultant&utm_source=1103)** | Montreal - 1000 Rue De La Gauchetière Ouest | Hybrid | Apr 07 |
 | **[The Clearing, Inc.](https://theclearing.com)** | **[Analyst (Management Consulting) - Active Top Secret Clearance Required](https://jobright.ai/jobs/info/690e2b76221b890c2780b6a3?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Apr 07 |
-| **[The Hartford](http://www.thehartford.com)** | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef7d?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ-Raintree Drive | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef75?utm_campaign=Consultant&utm_source=1103)** | Charlotte NC-South Tryon St. | Hybrid | Apr 07 |
+| **[The Hartford](http://www.thehartford.com)** | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef75?utm_campaign=Consultant&utm_source=1103)** | Charlotte NC-South Tryon St. | Hybrid | Apr 07 |
+| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef7d?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ-Raintree Drive | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532b8366bb95ba55432dd?utm_campaign=Consultant&utm_source=1103)** | Alpharetta,GA-NPointPkwy-Maxum | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d53252891d7b11cfd000d2?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d53252891d7b11cfd000d4?utm_campaign=Consultant&utm_source=1103)** | Clinton NY, 301 Woods Park Dr | Hybrid | Apr 07 |
@@ -276,16 +277,17 @@ For a complete list, click the following sortable link below:
 | **[Brainlab](http://www.brainlab.com)** | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/69d739c2e63cea7a8b66fa29?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | Apr 03 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/6997a0d5ce78e77b4fdbf60d?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Apr 03 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69d07023cfdc6132f943b3e6?utm_campaign=Consultant&utm_source=1103)** | St Paul, MN | On Site | Apr 03 |
-| **[Brainlab](http://www.brainlab.com)** | **[Biomedical Engineer (Application Consultant)](https://jobright.ai/jobs/info/69d013a5366bb95ba551b37b?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL, USA | On Site | Apr 03 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6998cd1b81476f6176b13731?utm_campaign=Consultant&utm_source=1103)** | St Paul, MN | On Site | Apr 03 |
+| ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/6998cd1b81476f6176b13731?utm_campaign=Consultant&utm_source=1103)** | St Paul, MN | On Site | Apr 03 |
 | ↳ | **[Wealth Management Investment Consultant, Advisory Services](https://jobright.ai/jobs/info/69c90a281818a24cd84d946d?utm_campaign=Consultant&utm_source=1103)** | Hopkins, MN | On Site | Apr 03 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394d0ae2a534885eafcd1?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[ENTRUST Solutions Group](https://entrustsol.com)** | **[Consulting Engineer I - New Grads Welcome! (May 2026)](https://jobright.ai/jobs/info/69b2e767a8ac8e70ff670baf?utm_campaign=Consultant&utm_source=1103)** | Greenville, SC | On Site | Apr 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cfe889891d7b11cfcd6af8?utm_campaign=Consultant&utm_source=1103)** | Midland, TX | On Site | Apr 03 |
-| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cfe889891d7b11cfcd6af6?utm_campaign=Consultant&utm_source=1103)** | Altamonte Springs, FL | On Site | Apr 03 |
+| **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cfe889891d7b11cfcd6af6?utm_campaign=Consultant&utm_source=1103)** | Altamonte Springs, FL | On Site | Apr 03 |
+| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cfe889891d7b11cfcd6af8?utm_campaign=Consultant&utm_source=1103)** | Midland, TX | On Site | Apr 03 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cfe875891d7b11cfcd6ac3?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | On Site | Apr 03 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cfe859366bb95ba55197d3?utm_campaign=Consultant&utm_source=1103)** | San Rafael, CA | On Site | Apr 03 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69cfe84fcfdc6132f9436750?utm_campaign=Consultant&utm_source=1103)** | Brooklyn, NY | On Site | Apr 03 |
+| **[TransUnion](http://www.transunion.com)** | **[Consulting Services Marketing Solutions Analyst](https://jobright.ai/jobs/info/69d7d458f4ea471a51fe1c6f?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 03 |
+| **[Deloitte](https://www2.deloitte.com)** | **[First Nations/Inuit/Métis Candidates: Analyst or Consultant, Insurance Solutions](https://jobright.ai/jobs/info/69d7d4e6b861c42857c46a01?utm_campaign=Consultant&utm_source=1103)** | Winnipeg, MB | Hybrid | Apr 03 |
 | **[The Purlee Group LLC](www.thepurleegroup.com)** | **[Client Relationship Consultant (Remote)](https://jobright.ai/jobs/info/69d001a154f00230c6d0e3c2?utm_campaign=Consultant&utm_source=1103)** | Ohio, United States | Remote | Apr 03 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Health Information Management Consultant](https://jobright.ai/jobs/info/69d3cedc366bb95ba553773b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d0fd69891d7b11cfce0fcb?utm_campaign=Consultant&utm_source=1103)** | West Lebanon, NH | On Site | Apr 03 |
