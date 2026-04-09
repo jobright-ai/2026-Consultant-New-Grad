@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Associate Consultant - Business Analyst](https://jobright.ai/jobs/info/69ae50da3de6821aaccda7c9?utm_campaign=Consultant&utm_source=1103)** | Albany, NY | Hybrid | Apr 09 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Marketing Analytics Consultant](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e40c7?utm_campaign=Consultant&utm_source=1103)** | Harrisburg, PA | On Site | Apr 09 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - Huntington Station NY](https://jobright.ai/jobs/info/69d783becfdc6132f94735b3?utm_campaign=Consultant&utm_source=1103)** | Huntington Station, NY | On Site | Apr 09 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Associate, Institutional Client Group (Global Consultant Relations)](https://jobright.ai/jobs/info/699ecce781476f6176b8415e?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Apr 09 |
+| **[3 Day Blinds](http://www.3dayblinds.com)** | **[Design Consultant](https://jobright.ai/jobs/info/69bb03033b74eb1e2c894dbc?utm_campaign=Consultant&utm_source=1103)** | El Cajon, CA | On Site | Apr 09 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/69d7312fe63cea7a8b66ebe9?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 08 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394d2ae2a534885eafcd7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[ADT](http://www.adt.com)** | **[Smart Home Consultant](https://jobright.ai/jobs/info/69d70bdf52a5bf580012d6cf?utm_campaign=Consultant&utm_source=1103)** | Chattanooga, TN | On Site | Apr 08 |
@@ -129,8 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - North Babylon (Float)](https://jobright.ai/jobs/info/69d62112706f771673ba9964?utm_campaign=Consultant&utm_source=1103)** | North Babylon, NY | On Site | Apr 08 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant -SIE & Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/69d612b8e63cea7a8b667692?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Apr 08 |
 | **[SOCAL Workforce](https://socalworkforce.org/)** | **[MEETING, CONVENTION AND EVENTS PLANNERS](https://jobright.ai/jobs/info/69d72c88cfdc6132f946fa2b?utm_campaign=Consultant&utm_source=1103)** | San Marcos, CA | On Site | Apr 08 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d75fd3cfdc6132f947248b?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, MI | On Site | Apr 08 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d76018e63cea7a8b6711fe?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Apr 08 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d76018e63cea7a8b6711fe?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | Apr 08 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d744cd366bb95ba5554136?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Apr 07 |
 | **[Joyner Homes](https://www.joynerhomesonline.com)** | **[New Home Design Consultant](https://jobright.ai/jobs/info/69d5e3bc891d7b11cfd0686b?utm_campaign=Consultant&utm_source=1103)** | Greenfield, IN | On Site | Apr 07 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d727bce63cea7a8b66e6ff?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Apr 07 |
@@ -165,8 +167,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540f6e63cea7a8b65fbe4?utm_campaign=Consultant&utm_source=1103)** | Naperville, IL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e7366bb95ba55438fc?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e0891d7b11cfd00718?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2d?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2e?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | Hybrid | Apr 07 |
+| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2d?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540d4cdb525785fbcf56d?utm_campaign=Consultant&utm_source=1103)** | Sunrise, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540d0706f771673ba1a12?utm_campaign=Consultant&utm_source=1103)** | Clinton, NY | Hybrid | Apr 07 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d53dc5e63cea7a8b65f95c?utm_campaign=Consultant&utm_source=1103)** | Halifax - Mumford Rd | Hybrid | Apr 07 |
@@ -198,7 +200,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d5f9f8366bb95ba554a7e5?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | Apr 07 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Building Technology Systems - Intermediate Consultant](https://jobright.ai/jobs/info/69c90b0f1b5ad02887397b6f?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Apr 07 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d5f53a891d7b11cfd072fa?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Apr 07 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d50284e63cea7a8b65e315?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, PA | On Site | Apr 07 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d5f53a891d7b11cfd072f9?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | On Site | Apr 07 |
 | **[RACQ](https://www.racq.com.au)** | **[Retail Consultant](https://jobright.ai/jobs/info/69d4f70fcdb525785fbcd996?utm_campaign=Consultant&utm_source=1103)** | Greater Cleveland | On Site | Apr 07 |
 | **[Transamerica](http://www.transamerica.com)** | **[Regional Retirement Consultant (Denver)](https://jobright.ai/jobs/info/69b8553e3b74eb1e2c85f85f?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Apr 07 |
@@ -306,23 +307,16 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Executive Compensation and Employee Benefits Consulting Entry Level Staff](https://jobright.ai/jobs/info/69d704d4706f771673baf367?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | Hybrid | Apr 02 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Brand Consultant](https://jobright.ai/jobs/info/69cf16c9891d7b11cfccfef8?utm_campaign=Consultant&utm_source=1103)** | Calgary, AB | On Site | Apr 02 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Cybersecurity Consultant](https://jobright.ai/jobs/info/69ceff77366bb95ba5511eec?utm_campaign=Consultant&utm_source=1103)** | LA Metro Area | Hybrid | Apr 02 |
-| **[Reply](http://www.reply.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69d79f29b861c42857c43501?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL, US | On Site | Apr 02 |
-| ↳ | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69d7a05c9f97a42dc9c15079?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI, US | On Site | Apr 02 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant – Retirement Benefits Group](https://jobright.ai/jobs/info/69ce6e54398fb071abf8518c?utm_campaign=Consultant&utm_source=1103)** | Fort Myers, FL | On Site | Apr 02 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43934891d7b11cfcf8a33?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania, United States | On Site | Apr 02 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f9459060?utm_campaign=Consultant&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439e0366bb95ba553be0a?utm_campaign=Consultant&utm_source=1103)** | Tempe, Arizona, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658060?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, Michigan, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f945905f?utm_campaign=Consultant&utm_source=1103)** | Miami, Florida, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43934891d7b11cfcf8a33?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania, United States | On Site | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76a?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658061?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a7c?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43a03e63cea7a8b658060?utm_campaign=Consultant&utm_source=1103)** | Grand Rapids, Michigan, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76c?utm_campaign=Consultant&utm_source=1103)** | Detroit, Michigan, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439d9366bb95ba553be04?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f945905f?utm_campaign=Consultant&utm_source=1103)** | Miami, Florida, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d4393554f00230c6d2f76a?utm_campaign=Consultant&utm_source=1103)** | Houston, Texas, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439e0366bb95ba553be0a?utm_campaign=Consultant&utm_source=1103)** | Tempe, Arizona, United States | On Site | Apr 02 |
 | ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43937cdb525785fbc7a79?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, United States | On Site | Apr 02 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d43999cfdc6132f9459060?utm_campaign=Consultant&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Apr 02 |
-| **[Georgia United Credit Union](http://gucu.org)** | **[Consumer Lending Consultant (Hybrid)](https://jobright.ai/jobs/info/69cee340891d7b11cfccdef7?utm_campaign=Consultant&utm_source=1103)** | Duluth, GA | Hybrid | Apr 02 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Business Technology Analyst / Consultant (Technology Strategy and Transformation)](https://jobright.ai/jobs/info/69cf9455891d7b11cfcd48fc?utm_campaign=Consultant&utm_source=1103)** | Kitchener, ON | Hybrid | Apr 02 |
-| **[Logistics Reply US](http://www.lea-reply.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69cee16154f00230c6d044fa?utm_campaign=Consultant&utm_source=1103)** | Detroit Metro | Hybrid | Apr 02 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Analyst - Health and Benefits Consulting](https://jobright.ai/jobs/info/69cee13c891d7b11cfccdb87?utm_campaign=Consultant&utm_source=1103)** | One World Financial Center, New York, NY, 10281, US | On Site | Apr 02 |
-| **[Logistics Reply US](http://www.lea-reply.com)** | **[Junior Technical Consultant](https://jobright.ai/jobs/info/69ceff64398fb071abf8b8b0?utm_campaign=Consultant&utm_source=1103)** | Greater Chicago Area | Hybrid | Apr 02 |
+| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69d439d9366bb95ba553be04?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas, United States | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
