@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d7fe10738f2f099e899926?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Apr 09 |
+| **[ICE](https://www.ice.com)** | **[Analyst, Client Services Operations](https://jobright.ai/jobs/info/69d7fd00b861c42857c479ee?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | On Site | Apr 09 |
+| **[EY](http://www.ey.com)** | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d7fc89869c7e25d8592a5f?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Apr 09 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist WILL TRAIN](https://jobright.ai/jobs/info/69d7ecc9f4ea471a51fe274c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 09 |
 | ↳ | **[Remote Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69d7ecbff4ea471a51fe272a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69d7eca6738f2f099e8991e7?utm_campaign=Consultant&utm_source=1103)** | Ypsilanti, MI | On Site | Apr 09 |
@@ -180,7 +183,6 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d54101e63cea7a8b65fbf0?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540f6e63cea7a8b65fbe4?utm_campaign=Consultant&utm_source=1103)** | Naperville, IL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e7366bb95ba55438fc?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540e0891d7b11cfd00718?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2e?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540dfcfdc6132f9460c2d?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d540d4cdb525785fbcf56d?utm_campaign=Consultant&utm_source=1103)** | Sunrise, FL | Hybrid | Apr 07 |
@@ -193,10 +195,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d53dadcdb525785fbcf2ea?utm_campaign=Consultant&utm_source=1103)** | Ottawa - Kent St | Hybrid | Apr 07 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d53dabcfdc6132f9460988?utm_campaign=Consultant&utm_source=1103)** | Montreal - 1000 Rue De La Gauchetière Ouest | Hybrid | Apr 07 |
 | **[The Clearing, Inc.](https://theclearing.com)** | **[Analyst (Management Consulting) - Active Top Secret Clearance Required](https://jobright.ai/jobs/info/690e2b76221b890c2780b6a3?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Apr 07 |
-| **[The Hartford](http://www.thehartford.com)** | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef7d?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ-Raintree Drive | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef75?utm_campaign=Consultant&utm_source=1103)** | Charlotte NC-South Tryon St. | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532b8366bb95ba55432dd?utm_campaign=Consultant&utm_source=1103)** | Alpharetta,GA-NPointPkwy-Maxum | Hybrid | Apr 07 |
-| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d53252891d7b11cfd000d2?utm_campaign=Consultant&utm_source=1103)** | Lake Mary, FL | Hybrid | Apr 07 |
+| **[The Hartford](http://www.thehartford.com)** | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef75?utm_campaign=Consultant&utm_source=1103)** | Charlotte NC-South Tryon St. | Hybrid | Apr 07 |
+| ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d532c6cdb525785fbcef7d?utm_campaign=Consultant&utm_source=1103)** | Scottsdale, AZ-Raintree Drive | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d53252891d7b11cfd000d4?utm_campaign=Consultant&utm_source=1103)** | Clinton NY, 301 Woods Park Dr | Hybrid | Apr 07 |
 | ↳ | **[Employee Benefits Sales Support Consultant](https://jobright.ai/jobs/info/69d5320fcfdc6132f94605a5?utm_campaign=Consultant&utm_source=1103)** | Hartford CT- Home Office | Hybrid | Apr 07 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69d531ea366bb95ba5543169?utm_campaign=Consultant&utm_source=1103)** | Coram, NY, 11727 | On Site | Apr 07 |
@@ -275,7 +275,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69d219cd366bb95ba552c298?utm_campaign=Consultant&utm_source=1103)** | Morehead City, NC | On Site | Apr 04 |
 | **[Sun Life Québec](https://www.sunlife.ca/ca?vgnLocale=fr_CA)** | **[Financial Services Consultant - Client Relationship Team](https://jobright.ai/jobs/info/69bc082e4828227293fd20f0?utm_campaign=Consultant&utm_source=1103)** | Montreal, QC | Hybrid | Apr 04 |
 | **[Wire One Communications](http://www.wireone.com)** | **[Event Rental Consultant](https://jobright.ai/jobs/info/69d7b35d738f2f099e8967f5?utm_campaign=Consultant&utm_source=1103)** | Woburn, MA | On Site | Apr 04 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/69438fcfdd382f5f5669b1ce?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 04 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927b43fd47de4798ecdfbd4?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 04 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cecdee366bb95ba550f87f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 04 |
 | **[Ackermann Group](https://ackermanngroup.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69d0ccc40b098b7a6707db8f?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | On Site | Apr 04 |
 | **[Coretelligent](http://coretelligent.com)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/69cbf6c5891d7b11cfca9c1b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 03 |
