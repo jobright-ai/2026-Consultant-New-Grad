@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Nuclear Inside Sales Consultant](https://jobright.ai/jobs/info/69de7a70433ac8430e0d9ee7?utm_campaign=Consultant&utm_source=1103)** | AL-Alabama-Work from Home | Remote | Apr 14 |
+| ↳ | **[Nuclear Inside Sales Consultant](https://jobright.ai/jobs/info/69de7a63aba61f14173153ad?utm_campaign=Consultant&utm_source=1103)** | AZ-Arizona-Work from Home | Remote | Apr 14 |
+| ↳ | **[Nuclear Inside Sales Consultant](https://jobright.ai/jobs/info/69de7a615913ad339813d624?utm_campaign=Consultant&utm_source=1103)** | LA-Louisiana-Work from Home | Remote | Apr 14 |
+| ↳ | **[Nuclear Inside Sales Consultant](https://jobright.ai/jobs/info/69de7a5918cf504166e2d4f6?utm_campaign=Consultant&utm_source=1103)** | TX-Texas-Work from Home | Remote | Apr 14 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Multi-Site Leasing Consultant](https://jobright.ai/jobs/info/69de6eccaba61f1417314f42?utm_campaign=Consultant&utm_source=1103)** | HARRISON, NJ, 07029 | On Site | Apr 14 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69de6e2d433ac8430e0d9a26?utm_campaign=Consultant&utm_source=1103)** | Boston, MA, 02210 | On Site | Apr 14 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Valuation Consultant / 2026](https://jobright.ai/jobs/info/69de69a6433ac8430e0d97bf?utm_campaign=Consultant&utm_source=1103)** | 4849 Greenville Avenue, Suite 1000, Dallas, TX, 75206, US | On Site | Apr 14 |
@@ -102,42 +106,42 @@ For a complete list, click the following sortable link below:
 | **[UST](https://www.ust.com)** | **[Jr. SAP Consultant](https://jobright.ai/jobs/info/69dd5a8f738f2f099e8b5e1a?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Apr 13 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d582b4366bb95ba5545aed?utm_campaign=Consultant&utm_source=1103)** | Halifax, NS | Hybrid | Apr 13 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d57378cfdc6132f94626c8?utm_campaign=Consultant&utm_source=1103)** | Oakville, ON | Hybrid | Apr 13 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d57382e63cea7a8b6616fd?utm_campaign=Consultant&utm_source=1103)** | Montreal, QC | Hybrid | Apr 13 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d58360e63cea7a8b661ea2?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON | Hybrid | Apr 13 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69d57382e63cea7a8b6616fd?utm_campaign=Consultant&utm_source=1103)** | Montreal, QC | Hybrid | Apr 13 |
 | **[Strategies for Wealth](http://strategiesforwealth.com)** | **[Financial Consultant](https://jobright.ai/jobs/info/69dd86dc5356a60f40fee6e1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 13 |
 | **[UST](https://www.ust.com)** | **[Jr. SAP Consultant](https://jobright.ai/jobs/info/69dd5402bc6f6622c9911a11?utm_campaign=Consultant&utm_source=1103)** | New York | On Site | Apr 13 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Consultant Database Analyst](https://jobright.ai/jobs/info/69dd4dd15356a60f40fed72f?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Apr 13 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/69350e97a0dde7020e2f73f7?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 13 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc45d?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Vermont | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc456?utm_campaign=Consultant&utm_source=1103)** | Work At Home-West Virginia | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44b?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Michigan | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc457?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Minnesota | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc455?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Virginia | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc450?utm_campaign=Consultant&utm_source=1103)** | Work At Home - Utah | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc444?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Delaware | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc459?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Florida | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44a?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Iowa | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44c?utm_campaign=Consultant&utm_source=1103)** | Work At Home-North Dakota | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc460?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Wyoming | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc458?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Mississippi | Remote | Apr 13 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc453?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Oklahoma | Remote | Apr 13 |
 | ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc445?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Indiana | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44f?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Alabama | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc461?utm_campaign=Consultant&utm_source=1103)** | Work At Home-South Carolina | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc447?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Kentucky | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc453?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Oklahoma | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc465?utm_campaign=Consultant&utm_source=1103)** | Work At Home-New York | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc451?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Texas | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc45c?utm_campaign=Consultant&utm_source=1103)** | AZ - Work from home | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc454?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Tennessee | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc457?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Minnesota | Remote | Apr 13 |
 | ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc464?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Georgia | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc43d?utm_campaign=Consultant&utm_source=1103)** | Work At Home-South Dakota | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc43a?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Kansas | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc437?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Missouri | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc436?utm_campaign=Consultant&utm_source=1103)** | Work At Home-District of Columbia | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc43e?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Connecticut | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc441?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Washington | Remote | Apr 13 |
-| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc440?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Colorado | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc450?utm_campaign=Consultant&utm_source=1103)** | Work At Home - Utah | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc451?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Texas | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc465?utm_campaign=Consultant&utm_source=1103)** | Work At Home-New York | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc45c?utm_campaign=Consultant&utm_source=1103)** | AZ - Work from home | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc460?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Wyoming | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc45d?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Vermont | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44a?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Iowa | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc459?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Florida | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc454?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Tennessee | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc458?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Mississippi | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44b?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Michigan | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc456?utm_campaign=Consultant&utm_source=1103)** | Work At Home-West Virginia | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc461?utm_campaign=Consultant&utm_source=1103)** | Work At Home-South Carolina | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc455?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Virginia | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc447?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Kentucky | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44f?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Alabama | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc44c?utm_campaign=Consultant&utm_source=1103)** | Work At Home-North Dakota | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0b61f6ed54321fc444?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Delaware | Remote | Apr 13 |
 | ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc43c?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Ohio | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc43e?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Connecticut | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc43a?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Kansas | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc436?utm_campaign=Consultant&utm_source=1103)** | Work At Home-District of Columbia | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc43d?utm_campaign=Consultant&utm_source=1103)** | Work At Home-South Dakota | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc440?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Colorado | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc437?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Missouri | Remote | Apr 13 |
+| ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4d0a61f6ed54321fc441?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Washington | Remote | Apr 13 |
 | ↳ | **[Membership Operations Analyst](https://jobright.ai/jobs/info/69dd4cf09f97a42dc9c3537f?utm_campaign=Consultant&utm_source=1103)** | Work At Home-Nevada | Remote | Apr 13 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[FP&A Consultant Associate / Hybrid](https://jobright.ai/jobs/info/69dd3a4461f6ed54321fc049?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 13 |
 | **[Envision Pharma Group](https://www.envisionpharmagroup.com)** | **[Consulting Analyst, Business Process Resourcing](https://jobright.ai/jobs/info/69dd39f561f6ed54321fbf72?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 13 |
@@ -234,6 +238,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Generation Consultant I](https://jobright.ai/jobs/info/69cab647aa3c2c1995e2f41f?utm_campaign=Consultant&utm_source=1103)** | Concord, CA | Hybrid | Apr 10 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[IT Audit, Cybersecurity & Risk Experienced Consultant](https://jobright.ai/jobs/info/6969574d1703f05405ab2f62?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Apr 10 |
 | ↳ | **[IT Audit, Cybersecurity & Risk Experienced Consultant](https://jobright.ai/jobs/info/69d5cac4cfdc6132f9465d91?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | Hybrid | Apr 10 |
+| **[PCS Software Inc](https://www.pcssoft.com)** | **[Implementation Consultant](https://jobright.ai/jobs/info/69de7a8daba61f141731541f?utm_campaign=Consultant&utm_source=1103)** | Houston,TX,US | Hybrid | Apr 10 |
 | **[State of Indiana](https://www.in.gov)** | **[Business Systems Consultant - Associate](https://jobright.ai/jobs/info/69d8405bb67cec4f9b09b97b?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | Apr 10 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Internal Business Consultant](https://jobright.ai/jobs/info/69bd178c4828227293ff4b78?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | Apr 10 |
 | **[Adobe](http://www.adobe.com)** | **[Solutions Consultant](https://jobright.ai/jobs/info/69bccd3e4828227293fecd59?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Apr 10 |
@@ -246,7 +251,6 @@ For a complete list, click the following sortable link below:
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/69ddc543433ac8430e0d6e7e?utm_campaign=Consultant&utm_source=1103)** | Youngstown, OH | On Site | Apr 09 |
 | **[Terminix](http://www.terminix.com/)** | **[Pest Control Consultant](https://jobright.ai/jobs/info/69d877a4f4ea471a51fe6140?utm_campaign=Consultant&utm_source=1103)** | Sacramento, CA | On Site | Apr 09 |
 | **[Oregon State Credit Union](https://www.oregonstatecu.com/)** | **[Financial Services Consultant I](https://jobright.ai/jobs/info/69d8779c869c7e25d8595cf2?utm_campaign=Consultant&utm_source=1103)** | Corvallis, OR | On Site | Apr 09 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[Sage Intacct Implementation Consultant](https://jobright.ai/jobs/info/69dda1954d3bec4144b4c8fc?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | Apr 09 |
 | **[Surefire Cyber Inc.](https://surefirecyber.com)** | **[Consultant, Restoration and Remediation (Remote)](https://jobright.ai/jobs/info/69d843a99f97a42dc9c1b5a2?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Attentive](https://attentive.com)** | **[Associate Implementation Consultant](https://jobright.ai/jobs/info/69d83b5a9f97a42dc9c1b394?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69d83afef4ea471a51fe4bc9?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Apr 09 |
@@ -261,12 +265,9 @@ For a complete list, click the following sortable link below:
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[Consultant, Healthcare Business Transformation Operations / Corporate Finance & Restructuring](https://jobright.ai/jobs/info/69d80f10f4ea471a51fe3924?utm_campaign=Consultant&utm_source=1103)** | United States, New York, New York | On Site | Apr 09 |
 | ↳ | **[Consultant, Healthcare Business Transformation Operations/ Corporate Finance & Restructuring](https://jobright.ai/jobs/info/69d80f0bb67cec4f9b09a614?utm_campaign=Consultant&utm_source=1103)** | United States, New York, New York | On Site | Apr 09 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69d80a72869c7e25d8593422?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | On Site | Apr 09 |
-| **[EY](http://www.ey.com)** | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d80924b861c42857c47e90?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Apr 09 |
-| ↳ | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d8091ef4ea471a51fe31b8?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City, UT | Hybrid | Apr 09 |
-| ↳ | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d80913869c7e25d8592f7c?utm_campaign=Consultant&utm_source=1103)** | Oklahoma City, OK | Hybrid | Apr 09 |
+| **[EY](http://www.ey.com)** | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d80913869c7e25d8592f7c?utm_campaign=Consultant&utm_source=1103)** | Oklahoma City, OK | Hybrid | Apr 09 |
 | ↳ | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d80909f4ea471a51fe3116?utm_campaign=Consultant&utm_source=1103)** | Baton Rouge, LA | Hybrid | Apr 09 |
 | ↳ | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d80901869c7e25d8592e4c?utm_campaign=Consultant&utm_source=1103)** | Wichita, KS | Hybrid | Apr 09 |
-| ↳ | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d808efb861c42857c47ca5?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
 | ↳ | **[Sector Tech: Power & Utilities - Digital Grid - Staff 2 Consultant- US Consulting](https://jobright.ai/jobs/info/69d808eeb861c42857c47c95?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/69d7eca6738f2f099e8991e7?utm_campaign=Consultant&utm_source=1103)** | Ypsilanti, MI | On Site | Apr 09 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internal Consulting Associate](https://jobright.ai/jobs/info/69d7242352a5bf580012e271?utm_campaign=Consultant&utm_source=1103)** | Fort Mill, SC | Hybrid | Apr 09 |
@@ -351,8 +352,7 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I - Montclair, NJ](https://jobright.ai/jobs/info/69660ca4a112b402661412a3?utm_campaign=Consultant&utm_source=1103)** | Montclair, NJ | On Site | Apr 08 |
 | **[Griffis Residential](https://griffisresidential.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69d021a1cdb525785fba7990?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, United States | On Site | Apr 08 |
 | **[TIAA](https://www.tiaa.org)** | **[Financial Services Consultant -SIE & Registered - Frisco, TX National Contact Center](https://jobright.ai/jobs/info/69d612b8e63cea7a8b667692?utm_campaign=Consultant&utm_source=1103)** | Frisco, TX | Hybrid | Apr 08 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69ddf2c636823d1b4257f396?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Apr 07 |
-| ↳ | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69ddf3ef18cf504166e2b3b6?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Apr 07 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69ddf3ef18cf504166e2b3b6?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | Apr 07 |
 | **[Joyner Homes](https://www.joynerhomesonline.com)** | **[New Home Design Consultant](https://jobright.ai/jobs/info/69d5e3bc891d7b11cfd0686b?utm_campaign=Consultant&utm_source=1103)** | Greenfield, IN | On Site | Apr 07 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Strategic Analytics Analyst](https://jobright.ai/jobs/info/69ddc0e24d3bec4144b4df6e?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | Apr 07 |
 | **[Aisle & Abroad](https://aisleandabroad.online/)** | **[Destination Wedding & Honeymoon Travel Consultant / Fully Remote](https://jobright.ai/jobs/info/69d5c80dcfdc6132f9465d1c?utm_campaign=Consultant&utm_source=1103)** | Atlanta | Remote | Apr 07 |
@@ -360,6 +360,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Consultant-Early-Stage Solar](https://jobright.ai/jobs/info/697e1d77ce48107c05425ef5?utm_campaign=Consultant&utm_source=1103)** | Norwell, MA | On Site | Apr 07 |
 | **[ADT](http://www.adt.com)** | **[Smart Home Consultant](https://jobright.ai/jobs/info/69d5bab6e63cea7a8b66333c?utm_campaign=Consultant&utm_source=1103)** | Morrisville, NC | On Site | Apr 07 |
 | ↳ | **[Smart Home Consultant](https://jobright.ai/jobs/info/69d5baa6cfdc6132f9464316?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA | On Site | Apr 07 |
-| **[SEPHORA](https://www.sephora.com)** | **[Operations Consultant - Full Time](https://jobright.ai/jobs/info/69d5a796706f771673ba4ac7?utm_campaign=Consultant&utm_source=1103)** | Kelowna, BC | On Site | Apr 07 |
-| ↳ | **[Operations Consultant - Flex](https://jobright.ai/jobs/info/69d5a791cdb525785fbd2655?utm_campaign=Consultant&utm_source=1103)** | Langford, BC | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
