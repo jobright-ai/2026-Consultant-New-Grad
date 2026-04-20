@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transamerica](http://www.transamerica.com)** | **[Advisor Service Consultant](https://jobright.ai/jobs/info/69e680c4e0cd471b2f126243?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado | Hybrid | Apr 20 |
+| **[CCS Fundraising](https://ccsfundraising.com/)** | **[Faith-Based Fundraising Consultant – Atlantic Region](https://jobright.ai/jobs/info/69e67b8d9b6eb37e26f806f4?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Apr 20 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Retirement Consultant](https://jobright.ai/jobs/info/69e675d4e0cd471b2f125d14?utm_campaign=Consultant&utm_source=1103)** | Montreal, Quebec | Hybrid | Apr 20 |
 | **[Thompson Thrift](https://www.thompsonthrift.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69e66d9ff8fa2f3ec32a1c3a?utm_campaign=Consultant&utm_source=1103)** | Wheat Ridge, Colorado | On Site | Apr 20 |
-| **[CapTech](http://www.captechconsulting.com)** | **[Business Systems Analyst: Associate Consultant (Graduating Dec. 2025- Summer 2026)](https://jobright.ai/jobs/info/69e65f9a3cfd986aa6f854cf?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Apr 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Intermediate Consultant - Commissioning](https://jobright.ai/jobs/info/6974347f206da320f49e54e6?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 20 |
 | **[CCS Fundraising](https://ccsfundraising.com/)** | **[Faith-Based Fundraising Consultant – Atlantic Region](https://jobright.ai/jobs/info/69e65ee63cfd986aa6f8533c?utm_campaign=Consultant&utm_source=1103)** | South Carolina, United States | On Site | Apr 20 |
 | **[3 Day Blinds](http://www.3dayblinds.com)** | **[Design Consultant (No Experience Needed)](https://jobright.ai/jobs/info/69e651a49b6eb37e26f7f644?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | Apr 20 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69e626717820c036924ce8a4?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 20 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Consultant - Program Delivery, Cloud Strategy, Architecture and Delivery](https://jobright.ai/jobs/info/698575ee348f733a5c39e08b?utm_campaign=Consultant&utm_source=1103)** | Toronto, ON, CA, M5C 3G7 | Hybrid | Apr 20 |
 | **[Resolution Economics](http://resecon.com)** | **[Consultant I](https://jobright.ai/jobs/info/69b4f3c53b74eb1e2c826eae?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Apr 20 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e602c13cfd986aa6f83411?utm_campaign=Consultant&utm_source=1103)** | Greater Cleveland | Hybrid | Apr 20 |
-| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939a4da56b68f3dc4e6fc50?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | Hybrid | Apr 20 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939a4da56b68f3dc4e6fc50?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | Hybrid | Apr 20 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e602c13cfd986aa6f83411?utm_campaign=Consultant&utm_source=1103)** | Greater Cleveland | Hybrid | Apr 20 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e625643aa0c47964392390?utm_campaign=Consultant&utm_source=1103)** | Hartford, CT | Hybrid | Apr 20 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e625b2e0cd471b2f123ca0?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Apr 20 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e62621f8fa2f3ec329fe25?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | Hybrid | Apr 20 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69ae855c4f6bcc182809c754?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 18 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Network Management Consultant - Ancillary Contracting - Work From Home](https://jobright.ai/jobs/info/69ab1f4a2747003c3d50be4b?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | Apr 18 |
 | ↳ | **[Network Management Consultant - Ambulatory Surgery Centers - Work From Home](https://jobright.ai/jobs/info/69ab1c57142d5b4265fc54f0?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Remote | Apr 18 |
-| **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Business Development $104k + / Remote /](https://jobright.ai/jobs/info/69e3cf8391e75b75f04f016d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 18 |
-| ↳ | **[Client Specialist $104k + / Financial Services / Remote /](https://jobright.ai/jobs/info/69e3d0022664c278c1dd5631?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 18 |
+| **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Client Specialist $104k + / Financial Services / Remote /](https://jobright.ai/jobs/info/69e3d0022664c278c1dd5631?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 18 |
+| ↳ | **[Business Development $104k + / Remote /](https://jobright.ai/jobs/info/69e3cf8391e75b75f04f016d?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 18 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698638490f6f7e7a2ce11a57?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | On Site | Apr 18 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Consultant, NetSuite](https://jobright.ai/jobs/info/69a9bfc59ca4e908ec64f4d0?utm_campaign=Consultant&utm_source=1103)** | New York, United States | On Site | Apr 18 |
 | ↳ | **[Experienced Consultant, Energy and Utilities](https://jobright.ai/jobs/info/698e605d0f6f7e7a2cea66f5?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Apr 18 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/69ab26a97e1fab39d382ac62?utm_campaign=Consultant&utm_source=1103)** | Rockville, MD | On Site | Apr 18 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/6939ab2356b68f3dc4e6ffe2?utm_campaign=Consultant&utm_source=1103)** | Stamford, CT | Hybrid | Apr 18 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e62d7f3aa0c479643925a1?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | Hybrid | Apr 18 |
-| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e62d9c7820c036924ce9de?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Hybrid | Apr 18 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e62d903cfd986aa6f83eac?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | Hybrid | Apr 18 |
+| ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e62d9c7820c036924ce9de?utm_campaign=Consultant&utm_source=1103)** | San Jose, CA | Hybrid | Apr 18 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e63a893cfd986aa6f844a8?utm_campaign=Consultant&utm_source=1103)** | Greater Sacramento | Hybrid | Apr 18 |
 | ↳ | **[Tax Consultant II, SAP Global Trade Services (GTS)](https://jobright.ai/jobs/info/69e642913aa0c47964392d22?utm_campaign=Consultant&utm_source=1103)** | Tempe, AZ | Hybrid | Apr 18 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698e475a0f6f7e7a2cea50af?utm_campaign=Consultant&utm_source=1103)** | Tyler, TX | On Site | Apr 18 |
@@ -205,8 +207,8 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Communications Advisory Services Specialist](https://jobright.ai/jobs/info/69e1ae5c6c20aa114954261e?utm_campaign=Consultant&utm_source=1103)** | Vancouver, WA | On Site | Apr 16 |
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394d0ae2a534885eafcd1?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Communications Advisory Services Specialist](https://jobright.ai/jobs/info/69e197c8acc736112f5c4511?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | On Site | Apr 16 |
-| **[American Residential Services](http://ars.com)** | **[Bilingual Retail Consultant - Job Leads Support](https://jobright.ai/jobs/info/69e2ad293770bd5361cd983c?utm_campaign=Consultant&utm_source=1103)** | Hialeah, FL, US | On Site | Apr 16 |
-| ↳ | **[Bilingual Retail Consultant - Job Leads Support](https://jobright.ai/jobs/info/69e2acd0be46fa3a4ef58398?utm_campaign=Consultant&utm_source=1103)** | US-FL-Hialeah | On Site | Apr 16 |
+| **[American Residential Services](http://ars.com)** | **[Bilingual Retail Consultant - Job Leads Support](https://jobright.ai/jobs/info/69e2acd0be46fa3a4ef58398?utm_campaign=Consultant&utm_source=1103)** | US-FL-Hialeah | On Site | Apr 16 |
+| ↳ | **[Bilingual Retail Consultant - Job Leads Support](https://jobright.ai/jobs/info/69e2ad293770bd5361cd983c?utm_campaign=Consultant&utm_source=1103)** | Hialeah, FL, US | On Site | Apr 16 |
 | ↳ | **[Bilingual Retail Consultant - Job Leads Support](https://jobright.ai/jobs/info/69e2acec3ce36005badbf330?utm_campaign=Consultant&utm_source=1103)** | ARS ( Hialeah, FL) | On Site | Apr 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Communications Advisory Services Specialist](https://jobright.ai/jobs/info/69e18373ff71e82d604b749f?utm_campaign=Consultant&utm_source=1103)** | Vancouver, WA | On Site | Apr 16 |
 | ↳ | **[Associate Consultant, Communications Advisory Services Specialist](https://jobright.ai/jobs/info/69e182eefd1c0456f3fae9e8?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | On Site | Apr 16 |
@@ -275,14 +277,14 @@ For a complete list, click the following sortable link below:
 | **[Brown Advisory](http://www.brownadvisory.com)** | **[Strategic Advisory Associate](https://jobright.ai/jobs/info/69dfbc415913ad3398145628?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | On Site | Apr 15 |
 | **[Arcadis](http://www.arcadis.com)** | **[Entry Level Management Consultant – Digital EHS&S](https://jobright.ai/jobs/info/69dfbbc3aba61f141731d036?utm_campaign=Consultant&utm_source=1103)** | 50 Fountain Plaza, Suite 360, Buffalo, NY, 14202, US | On Site | Apr 15 |
 | **[Red Hat](http://www.redhat.com)** | **[Consultant - OpenShift](https://jobright.ai/jobs/info/69dfb89ae34484770f1a9e44?utm_campaign=Consultant&utm_source=1103)** | North Carolina, United States | On Site | Apr 15 |
-| ↳ | **[Consultant - OpenShift](https://jobright.ai/jobs/info/69dfb7a2aba61f141731cdd0?utm_campaign=Consultant&utm_source=1103)** | Illinois, United States | On Site | Apr 15 |
 | ↳ | **[Consultant - OpenShift](https://jobright.ai/jobs/info/69dfb7a2aba61f141731cdd1?utm_campaign=Consultant&utm_source=1103)** | Washington, United States | On Site | Apr 15 |
+| ↳ | **[Consultant - OpenShift](https://jobright.ai/jobs/info/69dfb7a2aba61f141731cdd0?utm_campaign=Consultant&utm_source=1103)** | Illinois, United States | On Site | Apr 15 |
 | ↳ | **[Consultant - OpenShift](https://jobright.ai/jobs/info/69dfb7594920452a85dceed0?utm_campaign=Consultant&utm_source=1103)** | District of Columbia, United States | On Site | Apr 15 |
 | ↳ | **[Consultant - OpenShift](https://jobright.ai/jobs/info/69dfb74d433ac8430e0e1a3f?utm_campaign=Consultant&utm_source=1103)** | Colorado, United States | On Site | Apr 15 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant](https://jobright.ai/jobs/info/69d3fcc4cfdc6132f94565b8?utm_campaign=Consultant&utm_source=1103)** | DURHAM, NC, 27701 | On Site | Apr 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69dfc9c8433ac8430e0e2322?utm_campaign=Consultant&utm_source=1103)** | St Louis, MO | On Site | Apr 15 |
-| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69dfc8b5e34484770f1aa761?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69dfc8cc4920452a85dcf75d?utm_campaign=Consultant&utm_source=1103)** | Ann Arbor, MI | On Site | Apr 15 |
+| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69dfc8b5e34484770f1aa761?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69e0d370acc736112f5c01ab?utm_campaign=Consultant&utm_source=1103)** | Sun Prairie Town, WI | On Site | Apr 15 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69e0d3226c20aa114953dc9e?utm_campaign=Consultant&utm_source=1103)** | New Berlin, WI | On Site | Apr 15 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69e0d5ded612782e61145578?utm_campaign=Consultant&utm_source=1103)** | Bermuda Dunes, CA | On Site | Apr 15 |
@@ -333,8 +335,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69de6df7aba61f1417314ea9?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69de6e5b5913ad339813d37a?utm_campaign=Consultant&utm_source=1103)** | Fairfax, VA | On Site | Apr 14 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69de6a2518cf504166e2ce27?utm_campaign=Consultant&utm_source=1103)** | Lubbock, TX | On Site | Apr 14 |
-| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69de6e0eaba61f1417314ecf?utm_campaign=Consultant&utm_source=1103)** | Decatur, AL | On Site | Apr 14 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69de6a61433ac8430e0d986b?utm_campaign=Consultant&utm_source=1103)** | Orlando, FL | On Site | Apr 14 |
+| ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69de6e0eaba61f1417314ecf?utm_campaign=Consultant&utm_source=1103)** | Decatur, AL | On Site | Apr 14 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/69c27f2f94007a2195de5c17?utm_campaign=Consultant&utm_source=1103)** | North Babylon, NY | On Site | Apr 14 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/696e9948350cf43803155648?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 14 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/69c27f3794007a2195de5c2e?utm_campaign=Consultant&utm_source=1103)** | Bay Shore, NY | On Site | Apr 14 |
@@ -344,5 +346,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[ServiceNow Implementation Consultant](https://jobright.ai/jobs/info/69c27b15a5b03d40c194d6ba?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | Apr 14 |
 | ↳ | **[ServiceNow Implementation Consultant](https://jobright.ai/jobs/info/69c2230c75f7ff1cd810e8dc?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | Apr 14 |
 | **[RBC](https://www.rbc.com)** | **[Financial Advisor Services Consultant](https://jobright.ai/jobs/info/69ddf782433ac8430e0d81aa?utm_campaign=Consultant&utm_source=1103)** | Minneapolis, MN | On Site | Apr 14 |
-| **[Acuity](https://www.acuityinc.com)** | **[Talent Solutions Consultant / (JR13276)](https://jobright.ai/jobs/info/69d6c71e366bb95ba554fdf9?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
