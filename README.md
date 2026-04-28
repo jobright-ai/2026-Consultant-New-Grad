@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RACQ](https://www.racq.com.au)** | **[Retail Consultant](https://jobright.ai/jobs/info/69d4f70fcdb525785fbcd996?utm_campaign=Consultant&utm_source=1103)** | Greater Cleveland | On Site | Apr 28 |
+| **[Accenture](https://www.accenture.com)** | **[SAP Supply Chain Consultant](https://jobright.ai/jobs/info/69f10374ecbc8c2f7320324a?utm_campaign=Consultant&utm_source=1103)** | Nashville, 4101 Charlotte Ave., Corp, US | Hybrid | Apr 28 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Mission Viejo, CA](https://jobright.ai/jobs/info/69d4039b891d7b11cfcf6925?utm_campaign=Consultant&utm_source=1103)** | Mission Viejo, CA | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[$20/hr Training Pay - Sales Consultant FT/PT Evenings & Weekends](https://jobright.ai/jobs/info/69de7fbf36823d1b425815c0?utm_campaign=Consultant&utm_source=1103)** | Louisville, KY | On Site | Apr 28 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Analyst - Consultant](https://jobright.ai/jobs/info/69f0fb5d62b48c6838792e9a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 28 |
 | ↳ | **[Analyst - Consultant](https://jobright.ai/jobs/info/69f0f47d8feca91f1491d9d4?utm_campaign=Consultant&utm_source=1103)** | Remote - USA, US | Remote | Apr 28 |
@@ -156,7 +159,7 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Graduate Enclosure Consultant - Diagnostics](https://jobright.ai/jobs/info/6947a6317d506e3808f2f5c1?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Apr 26 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Experienced Consultant, Mergers & Acquisitions (Merger & Carve-out)](https://jobright.ai/jobs/info/696e30295fc86241853cfe29?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | Apr 26 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69edfc28dc35f7132c4b985d?utm_campaign=Consultant&utm_source=1103)** | Madison Heights, MI | On Site | Apr 26 |
-| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/69438fcfdd382f5f5669b1ce?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 26 |
+| **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/6927b43fd47de4798ecdfbd4?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | Apr 26 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/69edfbff16b2612c2a125680?utm_campaign=Consultant&utm_source=1103)** | Willowick, OH | On Site | Apr 26 |
 | **[Careers In Travel | Destination Planners](https://calendly.com/travel-agent-career/informational-meeting)** | **[Travel Consultant / Entry Level / Online](https://jobright.ai/jobs/info/69edfbb34b0fa35a70785783?utm_campaign=Consultant&utm_source=1103)** | Dallas, Texas | Remote | Apr 26 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69edfbaf4b0fa35a7078577d?utm_campaign=Consultant&utm_source=1103)** | Hyde Park, NY | On Site | Apr 26 |
@@ -186,8 +189,8 @@ For a complete list, click the following sortable link below:
 | **[Highspring (Formerly MorganFranklin Consulting)](http://morganfranklin.com)** | **[Consultant, Risk & Regulatory](https://jobright.ai/jobs/info/69e7c0713aa0c4796439b97e?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | Hybrid | Apr 24 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cecdffcfdc6132f942c708?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Remote | Apr 24 |
 | **[Epiq](https://www.epiqglobal.com/)** | **[Implementation Specialist](https://jobright.ai/jobs/info/69ec26b00a6e09555304ce66?utm_campaign=Consultant&utm_source=1103)** | Overland Park, KS | On Site | Apr 24 |
-| **[NERA](http://www.nera.com)** | **[NERA Consultant - Antitrust/Labor Economist (Job Market/New PhD)](https://jobright.ai/jobs/info/69ec11a1dc35f7132c4b561f?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Apr 24 |
-| ↳ | **[NERA Consultant - Antitrust/Labor Economist (Job Market/New PhD)](https://jobright.ai/jobs/info/69ec11a1dc35f7132c4b561d?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 24 |
+| **[NERA](http://www.nera.com)** | **[NERA Consultant - Antitrust/Labor Economist (Job Market/New PhD)](https://jobright.ai/jobs/info/69ec11a1dc35f7132c4b561d?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 24 |
+| ↳ | **[NERA Consultant - Antitrust/Labor Economist (Job Market/New PhD)](https://jobright.ai/jobs/info/69ec11a1dc35f7132c4b561f?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Apr 24 |
 | ↳ | **[NERA Consultant - Antitrust/Labor Economist (Job Market/New PhD)](https://jobright.ai/jobs/info/69ec11870a6e09555304c58d?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Writing Studio Consultant](https://jobright.ai/jobs/info/69ec0ac316b2612c2a1209cc?utm_campaign=Consultant&utm_source=1103)** | Richmond, VA | On Site | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP Academy for Services & Consulting - Success Plan Manager - Alpharetta (Hybrid)](https://jobright.ai/jobs/info/69ebfc510a6e09555304bbff?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA, US, 30009 | Hybrid | Apr 24 |
@@ -251,25 +254,25 @@ For a complete list, click the following sortable link below:
 | **[Armanino](https://www.armanino.com)** | **[Business Central Consultant](https://jobright.ai/jobs/info/69eb3d8f16b2612c2a11a671?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | Apr 23 |
 | **[Ranch Ehrlo Society](https://ehrlo.com)** | **[Clinical Consultant - Regina SK](https://jobright.ai/jobs/info/69eb4b1edc35f7132c4af3d7?utm_campaign=Consultant&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | Apr 23 |
 | **[Armanino](https://www.armanino.com)** | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad9058811370cb134b41?utm_campaign=Consultant&utm_source=1103)** | Irvine, California, US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad9058811370cb134b43?utm_campaign=Consultant&utm_source=1103)** | San Jose, California, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad9058811370cb134b40?utm_campaign=Consultant&utm_source=1103)** | Salt Lake City, Utah, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad9058811370cb134b43?utm_campaign=Consultant&utm_source=1103)** | San Jose, California, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad9058811370cb134b42?utm_campaign=Consultant&utm_source=1103)** | Garden City, New York, US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab856?utm_campaign=Consultant&utm_source=1103)** | San Ramon, California, US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab853?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab855?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, Florida, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab858?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania, US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad257820c036924ef1b7?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad257820c036924ef1b9?utm_campaign=Consultant&utm_source=1103)** | Open to Location, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab853?utm_campaign=Consultant&utm_source=1103)** | Austin, Texas, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad29dc35f7132c4ab856?utm_campaign=Consultant&utm_source=1103)** | San Ramon, California, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad257820c036924ef1b4?utm_campaign=Consultant&utm_source=1103)** | Denver, Colorado, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad257820c036924ef1b6?utm_campaign=Consultant&utm_source=1103)** | Bellevue, Washington, US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1d3aa0c479643b1380?utm_campaign=Consultant&utm_source=1103)** | Century City, California, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad257820c036924ef1b9?utm_campaign=Consultant&utm_source=1103)** | Open to Location, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad257820c036924ef1b7?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1d3aa0c479643b1381?utm_campaign=Consultant&utm_source=1103)** | Boise, Idaho, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1d3aa0c479643b1382?utm_campaign=Consultant&utm_source=1103)** | Woodland Hills, California, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1d3aa0c479643b1383?utm_campaign=Consultant&utm_source=1103)** | New York City, New York (Madison Ave.), US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1c0a6e095553042697?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1d3aa0c479643b1380?utm_campaign=Consultant&utm_source=1103)** | Century City, California, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1c0a6e095553042696?utm_campaign=Consultant&utm_source=1103)** | Brunswick, Georgia, US | On Site | Apr 23 |
-| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1a0a6e09555304268e?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1c0a6e095553042697?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1a0a6e095553042691?utm_campaign=Consultant&utm_source=1103)** | Nashville, Tennessee, US | On Site | Apr 23 |
+| ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaad1a0a6e09555304268e?utm_campaign=Consultant&utm_source=1103)** | Chicago, Illinois, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaacd04b0fa35a70775b11?utm_campaign=Consultant&utm_source=1103)** | El Segundo, California, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaaccf4b0fa35a70775b09?utm_campaign=Consultant&utm_source=1103)** | St. Louis, Missouri, US | On Site | Apr 23 |
 | ↳ | **[Business Central Consultant](https://jobright.ai/jobs/info/69eaaccf4b0fa35a70775b05?utm_campaign=Consultant&utm_source=1103)** | Downtown Los Angeles, California, US | On Site | Apr 23 |
@@ -369,8 +372,8 @@ For a complete list, click the following sortable link below:
 | **[BDO USA](https://www.bdo.com/)** | **[IT Audit Consultant - Public Sector, Federal Civilian](https://jobright.ai/jobs/info/69e933f4e0cd471b2f13bc95?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 22 |
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Consultant](https://jobright.ai/jobs/info/679a7baa59c2460634ba2df1?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | On Site | Apr 22 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Consultant, Market Access](https://jobright.ai/jobs/info/69e901577820c036924e4689?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Remote | Apr 22 |
-| **[BDO](https://global-www.bdo.global/)** | **[IT Audit Consultant - Public Sector, Federal Civilian](https://jobright.ai/jobs/info/69e8fc19e0cd471b2f139750?utm_campaign=Consultant&utm_source=1103)** | 8401 Greensboro Drive, McLean, VA, 22102, US | On Site | Apr 22 |
-| ↳ | **[IT Audit Consultant - Public Sector, Federal Civilian](https://jobright.ai/jobs/info/69e8fc197820c036924e426f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 22 |
+| **[BDO](https://global-www.bdo.global/)** | **[IT Audit Consultant - Public Sector, Federal Civilian](https://jobright.ai/jobs/info/69e8fc197820c036924e426f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 22 |
+| ↳ | **[IT Audit Consultant - Public Sector, Federal Civilian](https://jobright.ai/jobs/info/69e8fc19e0cd471b2f139750?utm_campaign=Consultant&utm_source=1103)** | 8401 Greensboro Drive, McLean, VA, 22102, US | On Site | Apr 22 |
 | **[Sun Tan City](http://www.suntancity.com)** | **[Tanning Consultant Part Time](https://jobright.ai/jobs/info/69e979b04b0fa35a7076f167?utm_campaign=Consultant&utm_source=1103)** | Springfield, MO, US | On Site | Apr 22 |
 | ↳ | **[Tanning Consultant Part Time](https://jobright.ai/jobs/info/69e979b24b0fa35a7076f184?utm_campaign=Consultant&utm_source=1103)** | Nixa, MO, US | On Site | Apr 22 |
 | **[t2 group](http://www.t2group.co.uk)** | **[Business Development Consultant](https://jobright.ai/jobs/info/69e8fb4ce0cd471b2f139535?utm_campaign=Consultant&utm_source=1103)** | Cardiff, Wales, United Kingdom | Hybrid | Apr 22 |
@@ -418,29 +421,29 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c26158811370cb1280ee?utm_campaign=Consultant&utm_source=1103)** | Omaha, NE | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2624b0fa35a707690f2?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2560a6e09555303646a?utm_campaign=Consultant&utm_source=1103)** | Des Moines, IA | Hybrid | Apr 22 |
-| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2624b0fa35a707690ec?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c26058811370cb1280dc?utm_campaign=Consultant&utm_source=1103)** | Cincinnati, OH | Hybrid | Apr 22 |
+| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2624b0fa35a707690ec?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2650a6e09555303648d?utm_campaign=Consultant&utm_source=1103)** | Dayton, OH | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2624b0fa35a707690f4?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2203aa0c479643a4bc0?utm_campaign=Consultant&utm_source=1103)** | Kansas City, MO | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c26058811370cb1280dd?utm_campaign=Consultant&utm_source=1103)** | Jacksonville, FL | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2f3e0cd471b2f137eab?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2f3e0cd471b2f137ea1?utm_campaign=Consultant&utm_source=1103)** | Las Vegas, NV | Hybrid | Apr 22 |
-| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c20f3aa0c479643a4bb1?utm_campaign=Consultant&utm_source=1103)** | Colorado Springs, CO | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c26158811370cb1280f4?utm_campaign=Consultant&utm_source=1103)** | Portland, OR | Hybrid | Apr 22 |
+| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c20f3aa0c479643a4bb1?utm_campaign=Consultant&utm_source=1103)** | Colorado Springs, CO | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2517820c036924e29f7?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2527820c036924e29fa?utm_campaign=Consultant&utm_source=1103)** | Birmingham, AL | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2650a6e09555303647e?utm_campaign=Consultant&utm_source=1103)** | Columbus, OH | Hybrid | Apr 22 |
-| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c300e0cd471b2f137ec5?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c300e0cd471b2f137ec6?utm_campaign=Consultant&utm_source=1103)** | Fresno, CA | Hybrid | Apr 22 |
+| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c300e0cd471b2f137ec5?utm_campaign=Consultant&utm_source=1103)** | Denver, CO | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2607820c036924e2a19?utm_campaign=Consultant&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2650a6e095553036486?utm_campaign=Consultant&utm_source=1103)** | Tulsa, OK | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2607820c036924e2a1a?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | Hybrid | Apr 22 |
-| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c301e0cd471b2f137ecc?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2554b0fa35a707690db?utm_campaign=Consultant&utm_source=1103)** | Jersey City, NJ | Hybrid | Apr 22 |
+| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c301e0cd471b2f137ecc?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2f4e0cd471b2f137ebb?utm_campaign=Consultant&utm_source=1103)** | New York, NY | Hybrid | Apr 22 |
-| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2527820c036924e2a08?utm_campaign=Consultant&utm_source=1103)** | Stamford, CT | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c300e0cd471b2f137ec3?utm_campaign=Consultant&utm_source=1103)** | Raleigh, NC | Hybrid | Apr 22 |
+| ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2527820c036924e2a08?utm_campaign=Consultant&utm_source=1103)** | Stamford, CT | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2527820c036924e2a07?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2103aa0c479643a4bb6?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 22 |
 | ↳ | **[Tax Technology & Transformation Consultant](https://jobright.ai/jobs/info/69e8c2f3e0cd471b2f137ead?utm_campaign=Consultant&utm_source=1103)** | Pittsburgh, PA | Hybrid | Apr 22 |
