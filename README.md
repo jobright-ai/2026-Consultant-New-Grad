@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Financial Consultant](https://jobright.ai/jobs/info/69fa5287a3d34b4f76f650db?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, US | Hybrid | May 05 |
+| ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/69fa52770b36ff0354761e9e?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, US | Hybrid | May 05 |
+| **[Olympus Corporation](https://heylink.me/yokubet.id/)** | **[Integration Consultant - Contract](https://jobright.ai/jobs/info/69fa5172db88714bcdfc270f?utm_campaign=Consultant&utm_source=1103)** | Richmond Hill, ON, CA | On Site | May 05 |
 | **[Northface Construction](http://www.northfaceconstruction.com)** | **[Project Consultant](https://jobright.ai/jobs/info/69fa3e2081706a5bd21749d0?utm_campaign=Consultant&utm_source=1103)** | Elk River, MN | On Site | May 05 |
 | **[Thompson Thrift](https://www.thompsonthrift.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69e6390ce0cd471b2f124454?utm_campaign=Consultant&utm_source=1103)** | Fort Collins, Colorado | On Site | May 05 |
 | **[Kinetic Agency](https://KineticAgency.com)** | **[Entry Level - Advisor Development Consultant](https://jobright.ai/jobs/info/69fa2c82a3d34b4f76f645be?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | May 05 |
@@ -141,8 +144,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology and Innovation - Solution Consultant (OneStream)](https://jobright.ai/jobs/info/69a24a71359fe034b1cd85c4?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | Hybrid | May 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Roving Leasing Consultant ($2,000 Sign-On Bonus)](https://jobright.ai/jobs/info/69f5d909db88714bcdfb4c95?utm_campaign=Consultant&utm_source=1103)** | Noroton, CT, 06820 | On Site | May 02 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/69f5ea43db88714bcdfb55db?utm_campaign=Consultant&utm_source=1103)** | Cockeysville, MD | On Site | May 02 |
-| **[Sares Regis Group](http://sares-regis.com)** | **[Floating Leasing Consultant](https://jobright.ai/jobs/info/69f5c4c4db88714bcdfb49d6?utm_campaign=Consultant&utm_source=1103)** | Van Nuys, California | On Site | May 01 |
-| ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69f5c498a3d34b4f76f56637?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California | On Site | May 01 |
+| **[Sares Regis Group](http://sares-regis.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69f5c498a3d34b4f76f56637?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California | On Site | May 01 |
 | ↳ | **[Leasing Consultant](https://jobright.ai/jobs/info/69f5c4cd43a25828a8d19971?utm_campaign=Consultant&utm_source=1103)** | Seattle, Washington | On Site | May 01 |
 | ↳ | **[Part-Time Leasing Consultant](https://jobright.ai/jobs/info/69f5d0bf0b36ff0354752f54?utm_campaign=Consultant&utm_source=1103)** | Phoenix, Arizona | On Site | May 01 |
 | ↳ | **[Floating Leasing Consultant](https://jobright.ai/jobs/info/69f5c4c20b36ff0354752e50?utm_campaign=Consultant&utm_source=1103)** | Sunnyvale, California | On Site | May 01 |
@@ -215,12 +217,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SAP Academy for Services & Consulting - Success Plan Manager - Palo Alto (Hybrid)](https://jobright.ai/jobs/info/69f3e3536942c746fa695be1?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 30 |
 | **[Oregon State Credit Union](https://www.oregonstatecu.com/)** | **[Financial Services Consultant I](https://jobright.ai/jobs/info/69f3dcca6942c746fa69587b?utm_campaign=Consultant&utm_source=1103)** | Corvallis, OR | On Site | Apr 30 |
 | **[Storable](https://www.storable.com/)** | **[Implementation Consultant](https://jobright.ai/jobs/info/69f3d9841f90bd6ae23d1eab?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 30 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f4256058b23a2329da9abe?utm_campaign=Consultant&utm_source=1103)** | Calgary - 8th Ave SW, CA | Hybrid | Apr 30 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425a1c78b9e45189597cc?utm_campaign=Consultant&utm_source=1103)** | Toronto - Bay St, CA | Hybrid | Apr 30 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425a1c78b9e45189597ce?utm_campaign=Consultant&utm_source=1103)** | Ottawa - Kent St, CA | Hybrid | Apr 30 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425426942c746fa696d36?utm_campaign=Consultant&utm_source=1103)** | Edmonton - 103 St, CA | Hybrid | Apr 30 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425a1c78b9e45189597cc?utm_campaign=Consultant&utm_source=1103)** | Toronto - Bay St, CA | Hybrid | Apr 30 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f42579343eef4fb0a9ff66?utm_campaign=Consultant&utm_source=1103)** | Montreal - 1000 Rue De La Gauchetière Ouest, CA | Hybrid | Apr 30 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425491f90bd6ae23d3b65?utm_campaign=Consultant&utm_source=1103)** | Halifax - Mumford Rd, CA | Hybrid | Apr 30 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425426942c746fa696d36?utm_campaign=Consultant&utm_source=1103)** | Edmonton - 103 St, CA | Hybrid | Apr 30 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f4256058b23a2329da9abe?utm_campaign=Consultant&utm_source=1103)** | Calgary - 8th Ave SW, CA | Hybrid | Apr 30 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425a1c78b9e45189597ce?utm_campaign=Consultant&utm_source=1103)** | Ottawa - Kent St, CA | Hybrid | Apr 30 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Associate Consultant - RadNet](https://jobright.ai/jobs/info/69f3d0d7461b9b613a624025?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 30 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cecde7398fb071abf8926c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 30 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698bf2a0c5761b521a9b8c63?utm_campaign=Consultant&utm_source=1103)** | Princeton, NJ | On Site | Apr 30 |
@@ -231,8 +233,8 @@ For a complete list, click the following sortable link below:
 | **[Global Public Affairs](http://www.globalpublicaffairs.ca)** | **[Associate Consultant](https://jobright.ai/jobs/info/69f3c378343eef4fb0a9e079?utm_campaign=Consultant&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Apr 30 |
 | **[Source Forward](https://www.sourceforward.org/)** | **[Real Estate Infrastructure Sales Consultant](https://jobright.ai/jobs/info/69f3c6c9461b9b613a623df7?utm_campaign=Consultant&utm_source=1103)** | NYC Metro Area | Remote | Apr 30 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/69f3d8c26942c746fa695562?utm_campaign=Consultant&utm_source=1103)** | OKC Metro Area | On Site | Apr 30 |
-| **[Closet America](https://www.closetamerica.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/69f3ac7e343eef4fb0a9c6a0?utm_campaign=Consultant&utm_source=1103)** | Wilmington, DE | On Site | Apr 30 |
-| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69f3ac7a58b23a2329da669a?utm_campaign=Consultant&utm_source=1103)** | Garnet Valley, PA | On Site | Apr 30 |
+| **[Closet America](https://www.closetamerica.com)** | **[Sales Design Consultant](https://jobright.ai/jobs/info/69f3ac7a58b23a2329da669a?utm_campaign=Consultant&utm_source=1103)** | Garnet Valley, PA | On Site | Apr 30 |
+| ↳ | **[Sales Design Consultant](https://jobright.ai/jobs/info/69f3ac7e343eef4fb0a9c6a0?utm_campaign=Consultant&utm_source=1103)** | Wilmington, DE | On Site | Apr 30 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[VOCATIONAL REHABILITATION BUSINESS EMPLOYMENT CONSULTANT - 04282026- 77051](https://jobright.ai/jobs/info/69f05a0eb27fee43e8cd33c9?utm_campaign=Consultant&utm_source=1103)** | Hamilton County, TN | On Site | Apr 30 |
 | **[Optum](https://www.optum.com/)** | **[Clinical Consultant Pharmacist](https://jobright.ai/jobs/info/69f3ad4e58b23a2329da68f5?utm_campaign=Consultant&utm_source=1103)** | Eden Prairie, MN | Remote | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Consultant, Healthcare Strategy & Finance](https://jobright.ai/jobs/info/69d6ee0852a5bf580012ce90?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | Apr 30 |
@@ -292,7 +294,6 @@ For a complete list, click the following sortable link below:
 | **[Breakwater Strategy](https://www.breakwaterstrategy.com)** | **[Associate, Research & Insights](https://jobright.ai/jobs/info/69f21c89ab4ec4779fff7564?utm_campaign=Consultant&utm_source=1103)** | Washington, DC | Hybrid | Apr 29 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/699d4c6081476f6176b62500?utm_campaign=Consultant&utm_source=1103)** | Manchester, MO | On Site | Apr 29 |
 | **[Highspring (Formerly MorganFranklin Consulting)](http://morganfranklin.com)** | **[Consultant, Risk & Regulatory](https://jobright.ai/jobs/info/69e7c074e0cd471b2f12d345?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 29 |
-| **[Northern Connections Canada Immigration](https://nccanadaimmigration.com/)** | **[Immigration Consultant](https://jobright.ai/jobs/info/69f216188feca91f1492301f?utm_campaign=Consultant&utm_source=1103)** | Canada | Remote | Apr 29 |
 | **[Accuity](http://accuityllp.com)** | **[Reports & Proposals Specialist](https://jobright.ai/jobs/info/69d4177ccdb525785fbc60a6?utm_campaign=Consultant&utm_source=1103)** | Honolulu, HI | On Site | Apr 29 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69c0c4992c312363dcd333e4?utm_campaign=Consultant&utm_source=1103)** | Clarkston, MI | On Site | Apr 29 |
 | ↳ | **[Branch Banking Client Consultant I - North Babylon NY (Float)](https://jobright.ai/jobs/info/69d62112706f771673ba9964?utm_campaign=Consultant&utm_source=1103)** | North Babylon, NY | On Site | Apr 29 |
