@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidehouse](https://guidehouse.com)** | **[Data Scientist Consultant (Health)](https://jobright.ai/jobs/info/69fa703881706a5bd2175d0c?utm_campaign=Consultant&utm_source=1103)** | US - VA, McLean, US | On Site | May 05 |
+| ↳ | **[Data Scientist Consultant (Health)](https://jobright.ai/jobs/info/69fa7031db88714bcdfc30ce?utm_campaign=Consultant&utm_source=1103)** | US - Remote (Any location), US | Remote | May 05 |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Leasing Consultant - Part Time](https://jobright.ai/jobs/info/69fa701d0b36ff03547627b0?utm_campaign=Consultant&utm_source=1103)** | Cary, NC | On Site | May 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Financial Consultant](https://jobright.ai/jobs/info/69fa5287a3d34b4f76f650db?utm_campaign=Consultant&utm_source=1103)** | Boston, Massachusetts, US | Hybrid | May 05 |
 | ↳ | **[Financial Consultant](https://jobright.ai/jobs/info/69fa52770b36ff0354761e9e?utm_campaign=Consultant&utm_source=1103)** | Atlanta, Georgia, US | Hybrid | May 05 |
 | **[Olympus Corporation](https://heylink.me/yokubet.id/)** | **[Integration Consultant - Contract](https://jobright.ai/jobs/info/69fa5172db88714bcdfc270f?utm_campaign=Consultant&utm_source=1103)** | Richmond Hill, ON, CA | On Site | May 05 |
@@ -124,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Helicon](https://www.heliconusa.com/)** | **[Project Consultant (Foundation Repair)](https://jobright.ai/jobs/info/69f73f44582f810f9c8cb2ac?utm_campaign=Consultant&utm_source=1103)** | Sanford, FL | On Site | May 03 |
 | **[Norstella](https://www.norstella.com)** | **[Analyst, Life Sciences Consulting](https://jobright.ai/jobs/info/69be7eae393a1008f7446eb6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 03 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69f7322b0b36ff03547570fa?utm_campaign=Consultant&utm_source=1103)** | Dearborn, MI | On Site | May 03 |
-| ↳ | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/69e1fc0ad6ee4e4e4a892019?utm_campaign=Consultant&utm_source=1103)** | Bluffton, IN | On Site | May 03 |
 | ↳ | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/69db6dc1b67cec4f9b0af06b?utm_campaign=Consultant&utm_source=1103)** | Rochester, IN | On Site | May 03 |
+| ↳ | **[Branch Banking - Client Consultant I](https://jobright.ai/jobs/info/69e1fc0ad6ee4e4e4a892019?utm_campaign=Consultant&utm_source=1103)** | Bluffton, IN | On Site | May 03 |
 | **[Virginia Mason Franciscan Health](https://www.virginiamason.org)** | **[Documentation & Coding Consultant](https://jobright.ai/jobs/info/69f323d5343eef4fb0a99339?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Remote | May 03 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Internal Business Consultant](https://jobright.ai/jobs/info/69f73153582f810f9c8cadd8?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | May 03 |
 | **[Crowe](https://www.crowe.com/)** | **[ServiceNow Implementation Consultant](https://jobright.ai/jobs/info/69a2609b0da45516f16ba563?utm_campaign=Consultant&utm_source=1103)** | Indianapolis, IN | On Site | May 03 |
@@ -168,6 +171,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Solutions Consultant](https://jobright.ai/jobs/info/69f51d79db88714bcdfb204d?utm_campaign=Consultant&utm_source=1103)** | Pueblo, CO | On Site | May 01 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Consultant - Procurement and Third-Party Governance & Compliance](https://jobright.ai/jobs/info/69f51d28db88714bcdfb1f83?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | **[All Copy Products](http://www.allcopyproducts.com)** | **[Business Technology Consultant](https://jobright.ai/jobs/info/69f51cd381706a5bd2164d9a?utm_campaign=Consultant&utm_source=1103)** | Tucson, AZ | On Site | May 01 |
+| **[Syssero®, A Rotation Digital Company](https://www.syssero.com)** | **[Workday Consultant (Functional HCM) - ASCENT Program](https://jobright.ai/jobs/info/69fa721ab1fc847fc1af03ea?utm_campaign=Consultant&utm_source=1103)** | Syssero HQ, US | Remote | May 01 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[SAP Technical/Functional Consultant I](https://jobright.ai/jobs/info/69f506a7a3d34b4f76f5346a?utm_campaign=Consultant&utm_source=1103)** | Omaha, NE | Hybrid | May 01 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Consultant - Orland Park, IL](https://jobright.ai/jobs/info/69bc69204828227293fe3c15?utm_campaign=Consultant&utm_source=1103)** | Orland Park, IL | On Site | May 01 |
 | **[InsureOne Insurance](http://insureone.com)** | **[Commercial Lines Service Consultant](https://jobright.ai/jobs/info/69f50048a3d34b4f76f52dd5?utm_campaign=Consultant&utm_source=1103)** | Tampa, Florida, United States | Hybrid | May 01 |
@@ -217,12 +221,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SAP Academy for Services & Consulting - Success Plan Manager - Palo Alto (Hybrid)](https://jobright.ai/jobs/info/69f3e3536942c746fa695be1?utm_campaign=Consultant&utm_source=1103)** | San Francisco, CA | Hybrid | Apr 30 |
 | **[Oregon State Credit Union](https://www.oregonstatecu.com/)** | **[Financial Services Consultant I](https://jobright.ai/jobs/info/69f3dcca6942c746fa69587b?utm_campaign=Consultant&utm_source=1103)** | Corvallis, OR | On Site | Apr 30 |
 | **[Storable](https://www.storable.com/)** | **[Implementation Consultant](https://jobright.ai/jobs/info/69f3d9841f90bd6ae23d1eab?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 30 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425426942c746fa696d36?utm_campaign=Consultant&utm_source=1103)** | Edmonton - 103 St, CA | Hybrid | Apr 30 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425a1c78b9e45189597ce?utm_campaign=Consultant&utm_source=1103)** | Ottawa - Kent St, CA | Hybrid | Apr 30 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425491f90bd6ae23d3b65?utm_campaign=Consultant&utm_source=1103)** | Halifax - Mumford Rd, CA | Hybrid | Apr 30 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f42579343eef4fb0a9ff66?utm_campaign=Consultant&utm_source=1103)** | Montreal - 1000 Rue De La Gauchetière Ouest, CA | Hybrid | Apr 30 |
-| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f4256058b23a2329da9abe?utm_campaign=Consultant&utm_source=1103)** | Calgary - 8th Ave SW, CA | Hybrid | Apr 30 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f42579343eef4fb0a9ff66?utm_campaign=Consultant&utm_source=1103)** | Montreal - 1000 Rue De La Gauchetière Ouest, CA | Hybrid | Apr 30 |
 | ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425a1c78b9e45189597cc?utm_campaign=Consultant&utm_source=1103)** | Toronto - Bay St, CA | Hybrid | Apr 30 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425a1c78b9e45189597ce?utm_campaign=Consultant&utm_source=1103)** | Ottawa - Kent St, CA | Hybrid | Apr 30 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f4256058b23a2329da9abe?utm_campaign=Consultant&utm_source=1103)** | Calgary - 8th Ave SW, CA | Hybrid | Apr 30 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425491f90bd6ae23d3b65?utm_campaign=Consultant&utm_source=1103)** | Halifax - Mumford Rd, CA | Hybrid | Apr 30 |
+| ↳ | **[Consultant, Data & Analytics - New Grad (May 2026)](https://jobright.ai/jobs/info/69f425426942c746fa696d36?utm_campaign=Consultant&utm_source=1103)** | Edmonton - 103 St, CA | Hybrid | Apr 30 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Associate Consultant - RadNet](https://jobright.ai/jobs/info/69f3d0d7461b9b613a624025?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 30 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cecde7398fb071abf8926c?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | Apr 30 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698bf2a0c5761b521a9b8c63?utm_campaign=Consultant&utm_source=1103)** | Princeton, NJ | On Site | Apr 30 |
