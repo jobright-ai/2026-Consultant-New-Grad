@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Main Sail, LLC](http://mainsailgroup.com)** | **[SAP Functional Consultant - Remote](https://jobright.ai/jobs/info/69fd4a1de7252f429d40edb3?utm_campaign=Consultant&utm_source=1103)** | Arlington, VA | Remote | May 07 |
-| **[Mutual of Omaha](http://advisorcareers.com)** | **[Business Systems Consultant](https://jobright.ai/jobs/info/69fd30d2b113035a9f8eedf6?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 07 |
+| **[Odoo](http://www.odoo.com)** | **[Software Implementation Consultant](https://jobright.ai/jobs/info/69fd5aaa6bcf315dc8f51415?utm_campaign=Consultant&utm_source=1103)** | Buffalo, NY | Hybrid | May 07 |
 | **[Southwestern Legacy Insurance Group](https://www.southwesternlegacy.com)** | **[Financial Services Consultant](https://jobright.ai/jobs/info/69fd2c15938a651755f994d9?utm_campaign=Consultant&utm_source=1103)** | LV Metro Area | Hybrid | May 07 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Tech Consulting - ERP Apps Specialist I](https://jobright.ai/jobs/info/69fd09225cff890b03f3570c?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - Nationwide, US | Remote | May 07 |
 | **[RELX](https://www.relx.com)** | **[Tech Consulting - ERP Apps Specialist I](https://jobright.ai/jobs/info/69fd091d938a651755f98810?utm_campaign=Consultant&utm_source=1103)** | Remote - USA - Nationwide, US | Remote | May 07 |
@@ -114,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[CI Azumano Travel / Business](http://www.ciazumano.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394d2ae2a534885eafcd7?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 06 |
 | **[SAP](https://www.sap.com)** | **[SAP Academy for Services & Consulting - Success Plan Manager - Alpharetta (Hybrid)](https://jobright.ai/jobs/info/69fbeeb93160b250eb1ba38e?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA | Hybrid | May 06 |
 | ↳ | **[SAP Academy for Services & Consulting - Success Plan Manager - Bellevue (Hybrid)](https://jobright.ai/jobs/info/69fbeec73160b250eb1ba3c2?utm_campaign=Consultant&utm_source=1103)** | Bellevue, WA | Hybrid | May 06 |
-| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69fbef1276c60e7b70af0b07?utm_campaign=Consultant&utm_source=1103)** | Edgewood, NM | On Site | May 06 |
-| ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69fbef1576c60e7b70af0b29?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | May 06 |
+| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69fbef1576c60e7b70af0b29?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | May 06 |
+| ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69fbef1276c60e7b70af0b07?utm_campaign=Consultant&utm_source=1103)** | Edgewood, NM | On Site | May 06 |
 | **[Semper Solr](https://sempersolr.com)** | **[Solar Consultant - Paid Training](https://jobright.ai/jobs/info/69fbee1e3802c7621fd8dfed?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | May 06 |
 | **[HKA](https://www.hka.com/)** | **[Associate Implementation Consultant - PMWeb](https://jobright.ai/jobs/info/69fbeeb676c60e7b70af0916?utm_campaign=Consultant&utm_source=1103)** | Roseville, CA | Hybrid | May 06 |
 | **[Property Management Associates](https://wemanageproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69fba9cfffa73664aeb0192a?utm_campaign=Consultant&utm_source=1103)** | Carson, CA | On Site | May 06 |
@@ -150,8 +149,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb654886d5cd46527d56ae?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | May 06 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb6674d21cf86d1e3d2d4d?utm_campaign=Consultant&utm_source=1103)** | Dallas, TX | On Site | May 06 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb67aa38179b6f1ae7845f?utm_campaign=Consultant&utm_source=1103)** | Detroit, MI | On Site | May 06 |
-| ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb60dbffa73664aeaff308?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | May 06 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb6695d21cf86d1e3d2d9d?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | May 06 |
+| ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb60dbffa73664aeaff308?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | May 06 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb654118b94b2515be2223?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | On Site | May 06 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb653c86d5cd46527d5659?utm_campaign=Consultant&utm_source=1103)** | Memphis, TN | On Site | May 06 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fb677738179b6f1ae783cf?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | May 06 |
@@ -173,8 +172,8 @@ For a complete list, click the following sortable link below:
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[360 Recruitment Consultant – Engineering & Energy (UK Market)](https://jobright.ai/jobs/info/69fb1e5238179b6f1ae75575?utm_campaign=Consultant&utm_source=1103)** | Manchester, England, United Kingdom | Hybrid | May 06 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/69c27f3794007a2195de5c2e?utm_campaign=Consultant&utm_source=1103)** | Bay Shore, NY | On Site | May 06 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/696e9948350cf43803155648?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | May 06 |
-| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb645a86d5cd46527d5459?utm_campaign=Consultant&utm_source=1103)** | Ann Arbor, MI | On Site | May 06 |
-| ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb659fd21cf86d1e3d2c30?utm_campaign=Consultant&utm_source=1103)** | Smithtown, NY | On Site | May 06 |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb659fd21cf86d1e3d2c30?utm_campaign=Consultant&utm_source=1103)** | Smithtown, NY | On Site | May 06 |
+| ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb645a86d5cd46527d5459?utm_campaign=Consultant&utm_source=1103)** | Ann Arbor, MI | On Site | May 06 |
 | ↳ | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/69c27f2f94007a2195de5c17?utm_campaign=Consultant&utm_source=1103)** | North Babylon, NY | On Site | May 06 |
 | **[Manulife](http://www.manulife.com/)** | **[Financial Consultant](https://jobright.ai/jobs/info/69fb551f18b94b2515be16de?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | May 06 |
 | **[EPAM Systems](https://www.epam.com)** | **[Lead Consulting Analyst](https://jobright.ai/jobs/info/69fb560887a4820e6da87485?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Remote | May 06 |
@@ -195,8 +194,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3e1b87a4820e6da86af2?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb35f4d21cf86d1e3d11b7?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb343f86d5cd46527d3ec7?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | May 05 |
-| ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3df287a4820e6da86a79?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3d2d86d5cd46527d4208?utm_campaign=Consultant&utm_source=1103)** | Memphis, TN | On Site | May 05 |
+| ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3df287a4820e6da86a79?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb342d86d5cd46527d3e97?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3d0c18b94b2515be0b65?utm_campaign=Consultant&utm_source=1103)** | Nashville, TN | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb347238179b6f1ae76b46?utm_campaign=Consultant&utm_source=1103)** | San Diego, CA | On Site | May 05 |
@@ -323,8 +322,8 @@ For a complete list, click the following sortable link below:
 | **[Seneca Holdings](http://www.senecaholdings.com)** | **[Government Travel Consultant](https://jobright.ai/jobs/info/69b394fead360c0340a8b840?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 02 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fa72f0b1fc847fc1af0643?utm_campaign=Consultant&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | May 02 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fa72efb1fc847fc1af063f?utm_campaign=Consultant&utm_source=1103)** | San Francisco, California, United States | On Site | May 02 |
-| ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fa72efb1fc847fc1af0641?utm_campaign=Consultant&utm_source=1103)** | Sacramento, California, United States | On Site | May 02 |
 | ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fa72f0b1fc847fc1af0642?utm_campaign=Consultant&utm_source=1103)** | Memphis, Tennessee, United States | On Site | May 02 |
+| ↳ | **[Advanced Cyber Threat Response & Forensics Consultant](https://jobright.ai/jobs/info/69fa72efb1fc847fc1af0641?utm_campaign=Consultant&utm_source=1103)** | Sacramento, California, United States | On Site | May 02 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Estimating](https://jobright.ai/jobs/info/69d95f3a5356a60f40fd9537?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | May 02 |
 | **[Optum](https://www.optum.com/)** | **[Advisory Services Analyst (Commercial focus), Consultant Development Program - Multiple Locations](https://jobright.ai/jobs/info/69f64760b1fc847fc1ae2c05?utm_campaign=Consultant&utm_source=1103)** | Eden Prairie, MN | Hybrid | May 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Experienced Associate, Process Risk and Controls Consulting](https://jobright.ai/jobs/info/69eb8f6916b2612c2a11c377?utm_campaign=Consultant&utm_source=1103)** | McLean, VA | Hybrid | May 02 |
@@ -377,5 +376,4 @@ For a complete list, click the following sortable link below:
 | **[EY](http://www.ey.com)** | **[Consultant- Technology Risk- Assurance](https://jobright.ai/jobs/info/69d87b79738f2f099e89cf3d?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 01 |
 | **[Vynamic](https://vynamic.com)** | **[Senior Associate](https://jobright.ai/jobs/info/69f4bbe00b36ff035474eaf6?utm_campaign=Consultant&utm_source=1103)** | Philadelphia, Pennsylvania | Hybrid | May 01 |
 | ↳ | **[Senior Associate](https://jobright.ai/jobs/info/69f4bbde0b36ff035474eaf4?utm_campaign=Consultant&utm_source=1103)** | New York, New York | Hybrid | May 01 |
-| **[CIM Group](https://www.cimgroup.com)** | **[Associate, Institutional Client Group (Global Consultant Relations)](https://jobright.ai/jobs/info/699ecce781476f6176b8415e?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
