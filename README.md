@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Citizens Fidelity Insurance](https://www.citizensfidelityinsurance.com/)** | **[Preplanning Consultant](https://jobright.ai/jobs/info/69febb3d373fc1347f2d0880?utm_campaign=Consultant&utm_source=1103)** | 10 - West Memphis - West Memphis, AR 72301 | On Site | May 08 |
-| ↳ | **[Preplanning Consultant](https://jobright.ai/jobs/info/69febb3d1161630dd3b03778?utm_campaign=Consultant&utm_source=1103)** | 40 - Searcy - Searcy, AR 72143 | On Site | May 08 |
+| **[Citizens Fidelity Insurance](https://www.citizensfidelityinsurance.com/)** | **[Preplanning Consultant](https://jobright.ai/jobs/info/69febb3d1161630dd3b03778?utm_campaign=Consultant&utm_source=1103)** | 40 - Searcy - Searcy, AR 72143 | On Site | May 08 |
+| ↳ | **[Preplanning Consultant](https://jobright.ai/jobs/info/69febb3d373fc1347f2d0880?utm_campaign=Consultant&utm_source=1103)** | 10 - West Memphis - West Memphis, AR 72301 | On Site | May 08 |
 | **[Team Vision Marketing](https://www.teamvision.com)** | **[Triangle Visions - Optical Consultant](https://jobright.ai/jobs/info/69fea25d52e2b44f558b2a8d?utm_campaign=Consultant&utm_source=1103)** | Asheville, NC | On Site | May 08 |
 | **[Semper Solr](https://sempersolr.com)** | **[Solar Consultant - Paid Training](https://jobright.ai/jobs/info/69fbee1e3802c7621fd8dfed?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Beauty Consultant - Colonial Promenade](https://jobright.ai/jobs/info/69fe82aaad691a11f34ee23c?utm_campaign=Consultant&utm_source=1103)** | Alabaster, AL, US | On Site | May 08 |
@@ -75,17 +75,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Healthcare Economics Consultant, Risk Adjustment - Remote](https://jobright.ai/jobs/info/69fe46e54b9bbf21744b0217?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 08 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consultant, Procurement](https://jobright.ai/jobs/info/69fe44f77714cd50b90ffac7?utm_campaign=Consultant&utm_source=1103)** | US - GA - Atlanta, US | On Site | May 08 |
 | **[Foundation Risk Partners](https://foundationrp.com/)** | **[Entry Level Insurance Risk Consultant](https://jobright.ai/jobs/info/69fe397a4b9bbf21744af203?utm_campaign=Consultant&utm_source=1103)** | Ramsey, NJ | On Site | May 08 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698e475a0f6f7e7a2cea50af?utm_campaign=Consultant&utm_source=1103)** | Tyler, TX | On Site | May 08 |
 | **[Optum](https://www.optum.com/)** | **[Healthcare Economics Consultant, Risk Adjustment - Remote](https://jobright.ai/jobs/info/69fe322b52e2b44f558af1bf?utm_campaign=Consultant&utm_source=1103)** | Eden Prairie, MN | Remote | May 08 |
 | **[Current Home](https://currenthome.com)** | **[Solar Consultant](https://jobright.ai/jobs/info/6994cfb8ce78e77b4fd8ddb4?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | May 08 |
 | **[Venture Home](https://venturesolar.com/)** | **[Business Development Consultant](https://jobright.ai/jobs/info/69fe26166bcf315dc8f54ddf?utm_campaign=Consultant&utm_source=1103)** | Baltimore, MD | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Consultant MRT Domestic Relocation - Temporary- US Based Remote](https://jobright.ai/jobs/info/69fe0e2d52e2b44f558ae2ad?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 08 |
-| **[Infosys](http://www.infosys.com)** | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1c0?utm_campaign=Consultant&utm_source=1103)** | Basking Ridge, NJ | On Site | May 08 |
+| **[Infosys](http://www.infosys.com)** | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1c2?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | May 08 |
 | ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1bb?utm_campaign=Consultant&utm_source=1103)** | Lisle, IL | On Site | May 08 |
-| ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1bf?utm_campaign=Consultant&utm_source=1103)** | Quincy, MA | On Site | May 08 |
-| ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1c1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | May 08 |
 | ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1bd?utm_campaign=Consultant&utm_source=1103)** | Bellevue, WA | On Site | May 08 |
+| ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1bf?utm_campaign=Consultant&utm_source=1103)** | Quincy, MA | On Site | May 08 |
 | ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1bc?utm_campaign=Consultant&utm_source=1103)** | Atlanta, GA | On Site | May 08 |
-| ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1c2?utm_campaign=Consultant&utm_source=1103)** | Houston, TX | On Site | May 08 |
+| ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1c0?utm_campaign=Consultant&utm_source=1103)** | Basking Ridge, NJ | On Site | May 08 |
+| ↳ | **[Analyst -Campus hiring -Infosys Consulting](https://jobright.ai/jobs/info/69fe0d3052e2b44f558ae1c1?utm_campaign=Consultant&utm_source=1103)** | New York, NY | On Site | May 08 |
 | **[Miller Family Agency](https://cmilleragencygroup.gr8.com/)** | **[Remote Entry-Level Consulting Specialist - WILL TRAIN!!](https://jobright.ai/jobs/info/69fe0c54ad691a11f34eb649?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 08 |
 | ↳ | **[Remote Entry-Level Consulting Specialist (No Experience Required)](https://jobright.ai/jobs/info/69fe0c44f363bc4dc339b3e5?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 08 |
 | ↳ | **[Remote Entry-Level Consulting Specialist - WILL TRAIN!!](https://jobright.ai/jobs/info/69fe03fb7714cd50b90fd84b?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 08 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69f2165d8feca91f1492312d?utm_campaign=Consultant&utm_source=1103)** | Bradenton, FL, 34211 | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69fdbca14b9bbf21744ac200?utm_campaign=Consultant&utm_source=1103)** | 1000 CLUB VILLAGE DR,COLUMBIA,MO,65203 | On Site | May 08 |
 | ↳ | **[Beauty and Wellness Consultant](https://jobright.ai/jobs/info/69fdbca14b9bbf21744ac201?utm_campaign=Consultant&utm_source=1103)** | 1000 CLUB VILLAGE DR,COLUMBIA,MO,65203-04405-05146-S | On Site | May 08 |
+| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN_CONSULTANT](https://jobright.ai/jobs/info/69a8a5b779f3f4037f42dc9b?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | May 08 |
 | **[Mutual of Omaha](http://advisorcareers.com)** | **[Business Systems Consultant](https://jobright.ai/jobs/info/69fdb69a4b9bbf21744ac008?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 08 |
 | **[3 Day Blinds](http://www.3dayblinds.com)** | **[Design Consultant](https://jobright.ai/jobs/info/69e0ff7afd1c0456f3fac061?utm_campaign=Consultant&utm_source=1103)** | El Cajon, CA | On Site | May 08 |
 | **[Digital Accessibility by WeCo](https://theweco.com)** | **[Certified Test Consultant](https://jobright.ai/jobs/info/69fda4fd7714cd50b90fbc2f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 08 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[PwC Canada](https://www.pwc.com/ca/en/)** | **[Capital Markets, Financial Services, Consulting, Associate](https://jobright.ai/jobs/info/69fc4ec92e6c421278ddb398?utm_campaign=Consultant&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Remote Financial Protection Consultant](https://jobright.ai/jobs/info/69fc6b0b938a651755f93213?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 06 |
 | ↳ | **[Technology Consultant - CTJ - TS/SCI](https://jobright.ai/jobs/info/69fc696b666f063d3d6cca6a?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 06 |
-| **[Clearsulting](https://www.clearsulting.com/)** | **[Consulting Analyst](https://jobright.ai/jobs/info/69fc34812275c9640f52c8ad?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | May 06 |
-| ↳ | **[Consulting Analyst](https://jobright.ai/jobs/info/69fc34a09fc67a0b39f472ac?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH | Hybrid | May 06 |
+| **[Clearsulting](https://www.clearsulting.com/)** | **[Consulting Analyst](https://jobright.ai/jobs/info/69fc34a09fc67a0b39f472ac?utm_campaign=Consultant&utm_source=1103)** | Cleveland, OH | Hybrid | May 06 |
+| ↳ | **[Consulting Analyst](https://jobright.ai/jobs/info/69fc34812275c9640f52c8ad?utm_campaign=Consultant&utm_source=1103)** | Chicago, IL | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Branch Banking - Client Consultant I (Part-Time)](https://jobright.ai/jobs/info/69fc59fd48d4483e4b63911f?utm_campaign=Consultant&utm_source=1103)** | Granger, WA, US | On Site | May 06 |
 | **[2NSystems](https://2nsystems.com)** | **[Solutions Consultant In- Office Position Roanoke VA](https://jobright.ai/jobs/info/69fc36c30940765d3b5019dd?utm_campaign=Consultant&utm_source=1103)** | Roanoke, VA | On Site | May 06 |
 | **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Bathroom Design Consultant](https://jobright.ai/jobs/info/69fc43c7633e68586cd30151?utm_campaign=Consultant&utm_source=1103)** | Pennsylvania, United States | On Site | May 06 |
@@ -161,7 +163,7 @@ For a complete list, click the following sortable link below:
 | **[Solar Force](https://www.linkedin.com/company/104797245)** | **[Solar Consultant](https://jobright.ai/jobs/info/69fbef5b3160b250eb1ba724?utm_campaign=Consultant&utm_source=1103)** | dallas, TX | On Site | May 06 |
 | **[SAP](https://www.sap.com)** | **[SAP Academy for Services & Consulting - Success Plan Manager - Alpharetta (Hybrid)](https://jobright.ai/jobs/info/69fbeeb93160b250eb1ba38e?utm_campaign=Consultant&utm_source=1103)** | Alpharetta, GA | Hybrid | May 06 |
 | ↳ | **[SAP Academy for Services & Consulting - Success Plan Manager - Bellevue (Hybrid)](https://jobright.ai/jobs/info/69fbeec73160b250eb1ba3c2?utm_campaign=Consultant&utm_source=1103)** | Bellevue, WA | Hybrid | May 06 |
-| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69fbef1576c60e7b70af0b29?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | May 06 |
+| **[Sunward](https://gosunward.org)** | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69fbef333160b250eb1ba5f1?utm_campaign=Consultant&utm_source=1103)** | Albuquerque, NM | On Site | May 06 |
 | ↳ | **[Financial Services Consultant 1](https://jobright.ai/jobs/info/69fbef1276c60e7b70af0b07?utm_campaign=Consultant&utm_source=1103)** | Edgewood, NM | On Site | May 06 |
 | **[HKA](https://www.hka.com/)** | **[Associate Implementation Consultant - PMWeb](https://jobright.ai/jobs/info/69fbeeb676c60e7b70af0916?utm_campaign=Consultant&utm_source=1103)** | Roseville, CA | Hybrid | May 06 |
 | **[Property Management Associates](https://wemanageproperties.com)** | **[Leasing Consultant](https://jobright.ai/jobs/info/69fba9cfffa73664aeb0192a?utm_campaign=Consultant&utm_source=1103)** | Carson, CA | On Site | May 06 |
@@ -218,8 +220,8 @@ For a complete list, click the following sortable link below:
 | **[Coalesce Management Consulting](https://www.cmc-global.consulting)** | **[360 Recruitment Consultant – Engineering & Energy (UK Market)](https://jobright.ai/jobs/info/69fb1e5238179b6f1ae75575?utm_campaign=Consultant&utm_source=1103)** | Manchester, England, United Kingdom | Hybrid | May 06 |
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/69c27f3794007a2195de5c2e?utm_campaign=Consultant&utm_source=1103)** | Bay Shore, NY | On Site | May 06 |
 | **[Victra - Verizon Authorized Retailer](https://www.victra.com/)** | **[Bilingual Spanish Total Wireless Consultant](https://jobright.ai/jobs/info/696e9948350cf43803155648?utm_campaign=Consultant&utm_source=1103)** | San Antonio, TX | On Site | May 06 |
-| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb645a86d5cd46527d5459?utm_campaign=Consultant&utm_source=1103)** | Ann Arbor, MI | On Site | May 06 |
-| ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb659fd21cf86d1e3d2c30?utm_campaign=Consultant&utm_source=1103)** | Smithtown, NY | On Site | May 06 |
+| **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb659fd21cf86d1e3d2c30?utm_campaign=Consultant&utm_source=1103)** | Smithtown, NY | On Site | May 06 |
+| ↳ | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69fb645a86d5cd46527d5459?utm_campaign=Consultant&utm_source=1103)** | Ann Arbor, MI | On Site | May 06 |
 | ↳ | **[Branch Banking-Client Consultant I-Float](https://jobright.ai/jobs/info/69c27f2f94007a2195de5c17?utm_campaign=Consultant&utm_source=1103)** | North Babylon, NY | On Site | May 06 |
 | **[Manulife](http://www.manulife.com/)** | **[Financial Consultant](https://jobright.ai/jobs/info/69fb551f18b94b2515be16de?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | May 06 |
 | **[Empower](https://www.empower.com)** | **[Workplace Planning Consultant](https://jobright.ai/jobs/info/69cecdee366bb95ba550f87f?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 06 |
@@ -232,8 +234,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb49ea38179b6f1ae774c9?utm_campaign=Consultant&utm_source=1103)** | Fort Worth, TX | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb340fe156000841157b04?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3d6138179b6f1ae76f10?utm_campaign=Consultant&utm_source=1103)** | Miami, FL | On Site | May 05 |
-| ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3e1b87a4820e6da86af2?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb345986d5cd46527d3f05?utm_campaign=Consultant&utm_source=1103)** | Costa Mesa, CA | On Site | May 05 |
+| ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3e1b87a4820e6da86af2?utm_campaign=Consultant&utm_source=1103)** | Charlotte, NC | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb35f4d21cf86d1e3d11b7?utm_campaign=Consultant&utm_source=1103)** | Boca Raton, FL | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb343f86d5cd46527d3ec7?utm_campaign=Consultant&utm_source=1103)** | Los Angeles, CA | On Site | May 05 |
 | ↳ | **[Continuous Threat Exposure Management (CTEM) Consultant](https://jobright.ai/jobs/info/69fb3df287a4820e6da86a79?utm_campaign=Consultant&utm_source=1103)** | Austin, TX | On Site | May 05 |
@@ -351,7 +353,6 @@ For a complete list, click the following sortable link below:
 | **[Flagstar Bank](http://www.flagstar.com/)** | **[Branch Banking Client Consultant I](https://jobright.ai/jobs/info/69f7322b0b36ff03547570fa?utm_campaign=Consultant&utm_source=1103)** | Dearborn, MI | On Site | May 03 |
 | **[Virginia Mason Franciscan Health](https://www.virginiamason.org)** | **[Documentation & Coding Consultant](https://jobright.ai/jobs/info/69f323d5343eef4fb0a99339?utm_campaign=Consultant&utm_source=1103)** | Seattle, WA | Remote | May 03 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Internal Business Consultant](https://jobright.ai/jobs/info/69f73153582f810f9c8cadd8?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | Hybrid | May 03 |
-| **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[DESIGN CONSULTANT](https://jobright.ai/jobs/info/698e475a0f6f7e7a2cea50af?utm_campaign=Consultant&utm_source=1103)** | Tyler, TX | On Site | May 02 |
 | **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Financial Services / Remote /](https://jobright.ai/jobs/info/69f68899b1fc847fc1ae3cda?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 02 |
 | ↳ | **[Business Development / Remote /](https://jobright.ai/jobs/info/69f687cba3d34b4f76f59054?utm_campaign=Consultant&utm_source=1103)** | United States | Remote | May 02 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Estimating](https://jobright.ai/jobs/info/69d95f3a5356a60f40fd9537?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | May 02 |
@@ -360,5 +361,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Advisory Services Analyst (Data & Analytics focus), Consultant Development Program - Multiple Locations](https://jobright.ai/jobs/info/69f641ffb1fc847fc1ae2bbe?utm_campaign=Consultant&utm_source=1103)** | Eden Prairie, MN | Hybrid | May 02 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Associate Consultant, Estimating](https://jobright.ai/jobs/info/69d94a28f748bc5d08a4a642?utm_campaign=Consultant&utm_source=1103)** | Boston, MA | On Site | May 02 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[Associate, Government Risk Consulting](https://jobright.ai/jobs/info/69f6136edb88714bcdfb5925?utm_campaign=Consultant&utm_source=1103)** | Tampa, FL | On Site | May 02 |
-| **[MPI® Unlimited, LLC](https://mympi.com/)** | **[Financial Client Consultant](https://jobright.ai/jobs/info/69f63862b1fc847fc1ae2a7b?utm_campaign=Consultant&utm_source=1103)** | Gilbert, AZ | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
